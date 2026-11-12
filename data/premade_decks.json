@@ -1,0 +1,8105 @@
+{
+ "source": "https://guide.galaxy.fun/cards/<captain>/",
+ "decks": [
+  {
+   "captain": "ammit",
+   "name": "Starter",
+   "characters": [
+    "dastardly_spirit",
+    "nutty_pirates",
+    "chaos",
+    "mech_a_man",
+    "toadie",
+    "calypso",
+    "nightshade",
+    "orion_the_hunter",
+    "fenrir",
+    "apophis",
+    "blackbeard",
+    "halja"
+   ]
+  },
+  {
+   "captain": "ammit",
+   "name": "Plunderer",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "mech_a_man",
+    "sailor_moonshine",
+    "the_huntsman",
+    "calypso",
+    "jelly_roger",
+    "weensy",
+    "sir_francis_drake",
+    "pirate_prince",
+    "ptah",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "ammit",
+   "name": "Reverberating Fae",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "nutty_pirates",
+    "fae_familiar",
+    "shanty",
+    "fun_gal",
+    "nightshade",
+    "weensy",
+    "pisces",
+    "blackbeard",
+    "faerie_godfather",
+    "faerie_queen"
+   ]
+  },
+  {
+   "captain": "anagolay",
+   "name": "Starter",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "miseria",
+    "the_huntsman",
+    "destiny",
+    "mortakon",
+    "wishing_fish",
+    "ditto",
+    "fenrir",
+    "crab_dragoon",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "anagolay",
+   "name": "Quest for Greatness",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "toto",
+    "kid_icarus",
+    "miseria",
+    "maverick_icewing",
+    "mr_fox",
+    "tsarmina_the_tyrant",
+    "mirror_mage",
+    "thunder_of_dragons",
+    "guinevere",
+    "hephaestus"
+   ]
+  },
+  {
+   "captain": "anagolay",
+   "name": "Dragon Dealer",
+   "characters": [
+    "barbosa",
+    "the_fates",
+    "ace_of_hearts",
+    "mech_a_man",
+    "mechanical_dragon",
+    "sunflare_glider",
+    "sir_francis_drake",
+    "smug",
+    "snapping_hydra",
+    "scale_a_tor",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "apollo",
+   "name": "Starter",
+   "characters": [
+    "al_miraj",
+    "pied_piper",
+    "the_raven",
+    "young_hercules",
+    "mr_fox",
+    "tsarmina_the_tyrant",
+    "wishing_fish",
+    "charlotte",
+    "fenrir",
+    "crab_dragoon",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "apollo",
+   "name": "Pirate's Perch",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "mech_a_man",
+    "sailor_moonshine",
+    "shanty",
+    "jelly_roger",
+    "sinbad",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "apollo",
+   "name": "Candy Sparkle",
+   "characters": [
+    "gingerbread_witch",
+    "the_raven",
+    "fortune_teller",
+    "pretty_patissier",
+    "sugar_rush",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "orpheus",
+    "keeb",
+    "twilight_sprinkles",
+    "gummy_wyrm",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "artemis",
+   "name": "Starter",
+   "characters": [
+    "mirror_mirror",
+    "underdog",
+    "ace_of_hearts",
+    "chaos",
+    "mech_a_man",
+    "raggedy_ann",
+    "don_quixote",
+    "black_hole",
+    "ogre_magi",
+    "elm_minster",
+    "hercules",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "artemis",
+   "name": "Fae Heroes",
+   "characters": [
+    "aladdin",
+    "prickles",
+    "ace_of_hearts",
+    "nutcracker_prince",
+    "raggedy_ann",
+    "toadie",
+    "fun_gal",
+    "moppet",
+    "mysterio_the_great_and_powerful",
+    "sir_francis_drake",
+    "faerie_godfather",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "artemis",
+   "name": "Treasure Seekers",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "miseria",
+    "sleeping_giant",
+    "life_saver",
+    "netherbinder",
+    "sunflare_glider",
+    "crystal",
+    "uther_pendragon",
+    "gummy_wyrm",
+    "miss_muffet",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "artemis",
+   "name": "Mythological Menagerie",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "the_raven",
+    "old_coyote",
+    "young_hercules",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "apophis",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "athena",
+   "name": "Starter",
+   "characters": [
+    "busted_bot",
+    "toto",
+    "frog_prince",
+    "shanty",
+    "wink",
+    "fun_gal",
+    "nightshade",
+    "charlotte",
+    "pisces",
+    "faerie_godfather",
+    "faerie_queen",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "athena",
+   "name": "Wise Toys",
+   "characters": [
+    "busted_bot",
+    "mirror_mirror",
+    "chaos",
+    "raggedy_ann",
+    "wink",
+    "mortakon",
+    "party_pinata",
+    "black_hole",
+    "snapping_hydra",
+    "wicked_witch",
+    "anubis",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "athena",
+   "name": "Sweet Hunters",
+   "characters": [
+    "friendly_spirit",
+    "lollipop_faerie",
+    "lemonhead",
+    "the_huntsman",
+    "the_sour_patch_kid",
+    "jumping_jelly_beans",
+    "life_saver",
+    "caramel",
+    "doopity_doo",
+    "ghoulade_man",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "athena",
+   "name": "Prophetic Power",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "orion_the_hunter",
+    "tantalus",
+    "wishing_fish",
+    "ditto",
+    "fenrir",
+    "kagutsuchi",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "baba_yaga",
+   "name": "Starter",
+   "characters": [
+    "glory_seeker",
+    "lance_a_little",
+    "pied_piper",
+    "miseria",
+    "the_huntsman",
+    "netherbinder",
+    "tsarmina_the_tyrant",
+    "crystal",
+    "innkeeper",
+    "blackbeard",
+    "guinevere",
+    "hercules"
+   ]
+  },
+  {
+   "captain": "baba_yaga",
+   "name": "Candy Quests",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "the_sour_patch_kid",
+    "candy_apple_tree",
+    "cherry_topples",
+    "jaws",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "baba_yaga",
+   "name": "Toyland Adventurers",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "space_ranger_woody",
+    "mortakon",
+    "rollo",
+    "the_butcher",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "baba_yaga",
+   "name": "Mythic Quests",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "miseria",
+    "the_huntsman",
+    "young_hercules",
+    "destiny",
+    "mortakon",
+    "orion_the_hunter",
+    "kagutsuchi",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "baldr",
+   "name": "Starter",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "orion_the_hunter",
+    "tantalus",
+    "wishing_fish",
+    "fenrir",
+    "medea_in_a_tavern",
+    "apophis",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "baldr",
+   "name": "Hearty Candy",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "halja"
+   ]
+  },
+  {
+   "captain": "baldr",
+   "name": "Pirate Vikings",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "mech_a_man",
+    "sailor_moonshine",
+    "calypso",
+    "sinbad",
+    "astral_navigator",
+    "innkeeper",
+    "sir_francis_drake",
+    "blackbeard",
+    "pirate_king",
+    "pirate_prince"
+   ]
+  },
+  {
+   "captain": "bing_wu",
+   "name": "Starter",
+   "characters": [
+    "comety",
+    "blue_mage",
+    "blue_paintkin",
+    "satter_fae",
+    "the_mad_splatter",
+    "leprechaun",
+    "mana_potion",
+    "model_elephant",
+    "dotty_daughter",
+    "owlabaster",
+    "luck_dragon",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "bing_wu",
+   "name": "Fortune Cookie",
+   "characters": [
+    "comety",
+    "serenpopity",
+    "swoop",
+    "catatouille",
+    "chaos",
+    "cherry_topples",
+    "leprechaun",
+    "owlabaster",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "gingerbread_dragon",
+    "luck_dragon"
+   ]
+  },
+  {
+   "captain": "bing_wu",
+   "name": "Mage's Mirth",
+   "characters": [
+    "comety",
+    "plunder_penny",
+    "the_fates",
+    "fae_familiar",
+    "morgan_le_fae",
+    "leprechaun",
+    "genie_of_the_lamp",
+    "ogre_magi",
+    "owlabaster",
+    "elm_minster",
+    "halja",
+    "luck_dragon"
+   ]
+  },
+  {
+   "captain": "bo_peep",
+   "name": "Starter",
+   "characters": [
+    "fae_familiar",
+    "frog_prince",
+    "old_coyote",
+    "mr_fox",
+    "wishing_fish",
+    "charlotte",
+    "fenrir",
+    "leapfrog",
+    "snapping_hydra",
+    "miss_muffet",
+    "monstro",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "bo_peep",
+   "name": "Candied Animals",
+   "characters": [
+    "gingerbread_witch",
+    "catatouille",
+    "the_candy_cane_crook",
+    "jaws",
+    "jumping_jelly_beans",
+    "the_three_chef_keteers",
+    "leapfrog",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "crab_dragoon",
+    "jelly_ton",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "bo_peep",
+   "name": "Summoner's Paradise",
+   "characters": [
+    "aladdin",
+    "bubbles",
+    "lance_a_little",
+    "frog_prince",
+    "the_giving_tree",
+    "tsarmina_the_tyrant",
+    "astral_navigator",
+    "leapfrog",
+    "snapping_hydra",
+    "apophis",
+    "barrel_of_monkeys",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "boy_who_cried_werewolf",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "pied_piper",
+    "toto",
+    "frog_prince",
+    "wink",
+    "the_giving_tree",
+    "tsarmina_the_tyrant",
+    "charlotte",
+    "snapping_hydra",
+    "monstro",
+    "moonshadow",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "boy_who_cried_werewolf",
+   "name": "Spell Scam",
+   "characters": [
+    "pied_piper",
+    "plunder_penny",
+    "chaos",
+    "fae_familiar",
+    "shanty",
+    "don_quixote",
+    "mimic",
+    "nightshade",
+    "black_hole",
+    "pisces",
+    "anubis",
+    "daedalus"
+   ]
+  },
+  {
+   "captain": "boy_who_cried_werewolf",
+   "name": "Night of the Living Candy",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "lance_a_little",
+    "catatouille",
+    "miseria",
+    "jaws",
+    "mr_fox",
+    "the_three_chef_keteers",
+    "leapfrog",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "boy_who_cried_werewolf",
+   "name": "Ravenous Beasts",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "the_raven",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "apophis",
+    "crab_dragoon",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "candy_pandy",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "candy_claws",
+    "miseria",
+    "the_candy_cane_crook",
+    "jaws",
+    "rollo",
+    "keeb",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "candy_pandy",
+   "name": "Butcher's Candy",
+   "characters": [
+    "aladdin",
+    "dastardly_spirit",
+    "lance_a_little",
+    "toto",
+    "chaos",
+    "fae_familiar",
+    "miseria",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "rollo",
+    "sunflare_glider",
+    "the_butcher"
+   ]
+  },
+  {
+   "captain": "candy_pandy",
+   "name": "Candy Toys",
+   "characters": [
+    "aladdin",
+    "the_fates",
+    "toto",
+    "mech_a_man",
+    "space_ranger_woody",
+    "mechanical_dragon",
+    "mortakon",
+    "party_pinata",
+    "caramel",
+    "keeb",
+    "barrel_of_monkeys",
+    "brick_monster"
+   ]
+  },
+  {
+   "captain": "candy_pandy",
+   "name": "Boons of Candy",
+   "characters": [
+    "gingerbread_witch",
+    "the_raven",
+    "fortune_teller",
+    "sugar_rush",
+    "young_hercules",
+    "cherry_topples",
+    "orion_the_hunter",
+    "orpheus",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "licorice",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "candy_pandy",
+   "name": "Tasty Paint",
+   "characters": [
+    "serenpopity",
+    "swoop",
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "cherry_topples",
+    "splat",
+    "twilight_sprinkles",
+    "crimson_stalwart_hero",
+    "gingerbread_dragon",
+    "marigold_eternal_student",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "catkiss_everburn",
+   "name": "Starter",
+   "characters": [
+    "al_miraj",
+    "nutty_pirates",
+    "the_raven",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "medea_in_a_tavern",
+    "nemean_lion",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "catkiss_everburn",
+   "name": "Cannonball",
+   "characters": [
+    "barbosa",
+    "plunder_penny",
+    "mech_a_man",
+    "sailor_moonshine",
+    "calypso",
+    "jelly_roger",
+    "sinbad",
+    "innkeeper",
+    "sir_francis_drake",
+    "licorice",
+    "pirate_prince",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "catkiss_everburn",
+   "name": "Firebreather",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "ace_of_hearts",
+    "the_huntsman",
+    "maverick_icewing",
+    "netherbinder",
+    "scale_singers",
+    "ditto",
+    "sir_francis_drake",
+    "thunder_of_dragons",
+    "crab_dragoon",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "catkiss_everburn",
+   "name": "Starry Sharpshooter",
+   "characters": [
+    "antiquitoy",
+    "red_mage",
+    "red_paintkin",
+    "van_gogogo",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "bababanana",
+    "starry_knight",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student"
+   ]
+  },
+  {
+   "captain": "charlie_pots",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "catatouille",
+    "lemonhead",
+    "the_candy_cane_crook",
+    "frosting_dragon",
+    "jaws",
+    "chubby_bunny",
+    "knight_of_the_holy_cane",
+    "uther_pendragon",
+    "miss_muffet",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "charlie_pots",
+   "name": "Melted Gold",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "catatouille",
+    "chaos",
+    "fae_familiar",
+    "jaws",
+    "the_three_chef_keteers",
+    "knight_of_the_holy_cane",
+    "pixie",
+    "daedalus",
+    "miss_muffet",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "charlie_pots",
+   "name": "Legendary Chocolatier",
+   "characters": [
+    "gingerbread_witch",
+    "toto",
+    "catatouille",
+    "fae_familiar",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "maverick_icewing",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "faerie_godfather",
+    "hephaestus",
+    "scale_a_tor"
+   ]
+  },
+  {
+   "captain": "charlie_pots",
+   "name": "Quest for Gold",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "sugar_rush",
+    "young_hercules",
+    "orpheus",
+    "tantalus",
+    "ditto",
+    "ghoulade_man",
+    "knight_of_the_holy_cane",
+    "gummy_wyrm",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "charlie_pots",
+   "name": "Purple Power",
+   "characters": [
+    "serenpopity",
+    "swoop",
+    "blue_paintkin",
+    "red_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "chubby_bunny",
+    "viscount_chocolat",
+    "crimson_stalwart_hero",
+    "gingerbread_dragon",
+    "rocky_the_roller",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "charon",
+   "name": "Starter",
+   "characters": [
+    "busted_bot",
+    "glory_seeker",
+    "mech_a_man",
+    "nutcracker_prince",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "party_pinata",
+    "sir_francis_drake",
+    "snapping_hydra",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "charon",
+   "name": "Hunters",
+   "characters": [
+    "glory_seeker",
+    "plunder_penny",
+    "mech_a_man",
+    "sailor_moonshine",
+    "don_quixote",
+    "tsarmina_the_tyrant",
+    "innkeeper",
+    "sir_francis_drake",
+    "blackbeard",
+    "daedalus",
+    "hercules",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "charon",
+   "name": "Candy Passengers",
+   "characters": [
+    "friendly_spirit",
+    "gingerbread_witch",
+    "lemonhead",
+    "the_huntsman",
+    "the_sour_patch_kid",
+    "frosting_dragon",
+    "mr_fox",
+    "the_three_chef_keteers",
+    "leapfrog",
+    "pixie",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "charon",
+   "name": "Ferryman's Toll",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "tantalus",
+    "wishing_fish",
+    "fenrir",
+    "kagutsuchi",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "chicken_bob",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "the_raven",
+    "sugar_rush",
+    "young_hercules",
+    "candy_apple_tree",
+    "jumping_jelly_beans",
+    "kool_wip",
+    "orion_the_hunter",
+    "caramel",
+    "cotton_candy_dandy",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "chicken_bob",
+   "name": "Animal Party",
+   "characters": [
+    "lance_a_little",
+    "pied_piper",
+    "toto",
+    "underdog",
+    "frog_prince",
+    "mr_fox",
+    "tsarmina_the_tyrant",
+    "wishing_fish",
+    "leapfrog",
+    "barrel_of_monkeys",
+    "monstro",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "chicken_bob",
+   "name": "Pirate's Paradise",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "nutty_pirates",
+    "mech_a_man",
+    "sailor_moonshine",
+    "shanty",
+    "jelly_roger",
+    "sinbad",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince"
+   ]
+  },
+  {
+   "captain": "chief_evil_officer",
+   "name": "Starter",
+   "characters": [
+    "mirror_mirror",
+    "wormtongue",
+    "chaos",
+    "frog_prince",
+    "morgan_le_fae",
+    "combustible_dragon",
+    "tsarmina_the_tyrant",
+    "ogre_magi",
+    "wicked_witch",
+    "blackbeard",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "chief_evil_officer",
+   "name": "Magic Megacorp",
+   "characters": [
+    "pied_piper",
+    "wormtongue",
+    "chaos",
+    "fae_familiar",
+    "calypso",
+    "combustible_dragon",
+    "nightshade",
+    "sabrina",
+    "smug",
+    "blackbeard",
+    "mephisto",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "chief_evil_officer",
+   "name": "Cavity Patrol",
+   "characters": [
+    "dastardly_spirit",
+    "lollipop_faerie",
+    "wormtongue",
+    "miseria",
+    "the_candy_cane_crook",
+    "gulliver",
+    "netherbinder",
+    "sunflare_glider",
+    "ghoulade_man",
+    "viscount_chocolat",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "chief_evil_officer",
+   "name": "The Dead Speak",
+   "characters": [
+    "al_miraj",
+    "nutty_pirates",
+    "wormtongue",
+    "chaos",
+    "old_coyote",
+    "wishing_fish",
+    "black_hole",
+    "eros",
+    "wicked_witch",
+    "anubis",
+    "apophis",
+    "mischief"
+   ]
+  },
+  {
+   "captain": "chromarian",
+   "name": "Starter",
+   "characters": [
+    "antiquitoy",
+    "blue_mage",
+    "blue_paintkin",
+    "red_mage",
+    "red_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "model_elephant",
+    "dotty_daughter",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "chromarian",
+   "name": "Gecko's Gold",
+   "characters": [
+    "antiquitoy",
+    "happy_little_painter",
+    "blue_paintkin",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "varnish",
+    "bababanana",
+    "selphiea",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_green_gecko"
+   ]
+  },
+  {
+   "captain": "chromarian",
+   "name": "Orange Crush",
+   "characters": [
+    "red_mage",
+    "red_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "singe",
+    "starry_knight",
+    "white_rabbit",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "chuk_e",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mortakon",
+    "party_pinata",
+    "black_hole",
+    "charlotte",
+    "brick_monster",
+    "chip_on_the_ship",
+    "moonshadow"
+   ]
+  },
+  {
+   "captain": "chuk_e",
+   "name": "Summoners",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "wormtongue",
+    "ace_of_hearts",
+    "mech_a_man",
+    "toadie",
+    "mechanical_dragon",
+    "black_hole",
+    "wicked_witch",
+    "anubis",
+    "barrel_of_monkeys",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "chuk_e",
+   "name": "Candy Coated",
+   "characters": [
+    "dastardly_spirit",
+    "lollipop_faerie",
+    "pretty_patissier",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "jaws",
+    "ghoulade_man",
+    "keeb",
+    "leapfrog",
+    "chubby_cheep",
+    "miss_muffet",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "chuk_e",
+   "name": "Barrels of Fun",
+   "characters": [
+    "beanie_baby",
+    "nutty_pirates",
+    "raggedy_ann",
+    "whirlidoo",
+    "baron_bok",
+    "mortakon",
+    "mr_fox",
+    "tsarmina_the_tyrant",
+    "astral_navigator",
+    "ditto",
+    "barrel_of_monkeys",
+    "brick_monster"
+   ]
+  },
+  {
+   "captain": "con_artist",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "toto",
+    "chaos",
+    "kid_icarus",
+    "maverick_icewing",
+    "rollo",
+    "tsarmina_the_tyrant",
+    "mirror_mage",
+    "ogre_magi",
+    "guinevere",
+    "monstro",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "con_artist",
+   "name": "Sweet Swindler",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "candy_claws",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "kool_wip",
+    "caramel",
+    "chubby_bunny",
+    "keeb",
+    "chubby_cheep",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "con_artist",
+   "name": "A Pirate's Life",
+   "characters": [
+    "barbosa",
+    "plunder_penny",
+    "mech_a_man",
+    "sailor_moonshine",
+    "calypso",
+    "gulliver",
+    "jelly_roger",
+    "innkeeper",
+    "ogre_magi",
+    "sir_francis_drake",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "con_artist",
+   "name": "Artist's Beatdown",
+   "characters": [
+    "the_raven",
+    "toto",
+    "miseria",
+    "young_hercules",
+    "destiny",
+    "mortakon",
+    "orion_the_hunter",
+    "ditto",
+    "crab_dragoon",
+    "perseus",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "cupcup",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "pretty_patissier",
+    "the_sour_patch_kid",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "kool_wip",
+    "ghoulade_man",
+    "viscount_chocolat",
+    "chubby_cheep",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "cupcup",
+   "name": "Candy Stampede",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "candy_claws",
+    "catatouille",
+    "the_candy_cane_crook",
+    "frosting_dragon",
+    "life_saver",
+    "keeb",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "cupcup",
+   "name": "Sweet Rampage",
+   "characters": [
+    "barbosa",
+    "lance_a_little",
+    "candy_claws",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "jaws",
+    "the_three_chef_keteers",
+    "caramel",
+    "doopity_doo",
+    "pixie",
+    "chubby_cheep",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "cupcup",
+   "name": "Candy Carnage",
+   "characters": [
+    "lollipop_faerie",
+    "the_raven",
+    "fortune_teller",
+    "sugar_rush",
+    "young_hercules",
+    "kool_wip",
+    "tantalus",
+    "caramel",
+    "eros",
+    "medea_in_a_tavern",
+    "gummy_wyrm",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "da_ba_de",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "antiquitoy",
+    "blue_mage",
+    "blue_paintkin",
+    "red_mage",
+    "red_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "model_elephant",
+    "dotty_daughter",
+    "crimson_stalwart_hero",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "da_ba_de",
+   "name": "Dragon Disciples",
+   "characters": [
+    "blue_mage",
+    "blue_paintkin",
+    "purrfectioneer",
+    "combustible_dragon",
+    "mana_potion",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "sunflare_glider",
+    "luck_dragon",
+    "oracle_of_fortunes",
+    "rocky_the_roller",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "da_ba_de",
+   "name": "Blue in the Face",
+   "characters": [
+    "antiquitoy",
+    "blue_mage",
+    "blue_paintkin",
+    "van_gogogo",
+    "yellow_mage",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "selphiea",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_green_gecko"
+   ]
+  },
+  {
+   "captain": "dinonysus",
+   "name": "Starter",
+   "characters": [
+    "lance_a_little",
+    "toto",
+    "nuada_radiant_king",
+    "the_huntsman",
+    "young_hercules",
+    "destiny",
+    "maverick_icewing",
+    "mortakon",
+    "eros",
+    "mirror_mage",
+    "guinevere",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "dinonysus",
+   "name": "Sweet Party",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "candy_apple_tree",
+    "jaws",
+    "life_saver",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "viscount_chocolat",
+    "chubby_cheep",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "dinonysus",
+   "name": "Empowerment",
+   "characters": [
+    "aladdin",
+    "toto",
+    "chaos",
+    "miseria",
+    "mimic",
+    "rollo",
+    "weensy",
+    "crystal",
+    "mirror_mage",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "dinonysus",
+   "name": "Painter's Pursuit",
+   "characters": [
+    "happy_little_painter",
+    "lance_a_little",
+    "blue_paintkin",
+    "van_gogogo",
+    "yellow_paintkin",
+    "mana_potion",
+    "maverick_icewing",
+    "splat",
+    "tsarmina_the_tyrant",
+    "selphiea",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "dorothy",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "toto",
+    "ace_of_hearts",
+    "kid_icarus",
+    "toadie",
+    "maverick_icewing",
+    "tsarmina_the_tyrant",
+    "mirror_mage",
+    "thunder_of_dragons",
+    "guinevere",
+    "prospero",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "dorothy",
+   "name": "Questing Villains",
+   "characters": [
+    "mirror_mirror",
+    "toto",
+    "wormtongue",
+    "chaos",
+    "morgan_le_fae",
+    "don_quixote",
+    "nightshade",
+    "mirror_mage",
+    "ogre_magi",
+    "elm_minster",
+    "guinevere",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "dorothy",
+   "name": "Treasure Find Fanatics",
+   "characters": [
+    "lance_a_little",
+    "toto",
+    "miseria",
+    "pretty_patissier",
+    "the_sour_patch_kid",
+    "candy_apple_tree",
+    "jaws",
+    "rollo",
+    "crystal",
+    "chubby_cheep",
+    "guinevere",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "dorothy",
+   "name": "Boonseeker",
+   "characters": [
+    "the_raven",
+    "toto",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "tantalus",
+    "wishing_fish",
+    "medea_in_a_tavern",
+    "perseus",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "dotty_dawdles",
+   "name": "Starter",
+   "characters": [
+    "plunder_penny",
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "moppet",
+    "nightshade",
+    "sabrina",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "dotty_dawdles",
+   "name": "Sweet Spells",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "kool_wip",
+    "weensy",
+    "caramel",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "dotty_dawdles",
+   "name": "Massive Mages",
+   "characters": [
+    "gingerbread_witch",
+    "toto",
+    "the_candy_cane_crook",
+    "calypso",
+    "candy_apple_tree",
+    "jumping_jelly_beans",
+    "moppet",
+    "rollo",
+    "crystal",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "hercules"
+   ]
+  },
+  {
+   "captain": "dotty_dawdles",
+   "name": "Magic Mayhem",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "crystal",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "double_dealer",
+   "name": "Starter",
+   "characters": [
+    "friendly_spirit",
+    "gingerbread_witch",
+    "glory_seeker",
+    "catatouille",
+    "chaos",
+    "cherry_topples",
+    "weensy",
+    "chubby_bunny",
+    "pisces",
+    "chubby_cheep",
+    "daedalus",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "double_dealer",
+   "name": "Double Dubloons",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "ace_of_hearts",
+    "sailor_moonshine",
+    "the_candy_cane_crook",
+    "calypso",
+    "weensy",
+    "ogre_magi",
+    "sir_francis_drake",
+    "licorice",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "double_dealer",
+   "name": "Fearsome Fae",
+   "characters": [
+    "aladdin",
+    "prickles",
+    "fae_familiar",
+    "shanty",
+    "wink",
+    "fun_gal",
+    "nightshade",
+    "pisces",
+    "snapping_hydra",
+    "faerie_godfather",
+    "faerie_queen",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "double_dealer",
+   "name": "Dealer's Choice",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "double_dealer",
+   "name": "Double Down",
+   "characters": [
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "bababanana",
+    "dotty_daughter",
+    "owlabaster",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_green_gecko"
+   ]
+  },
+  {
+   "captain": "dr_agon",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "ace_of_hearts",
+    "frog_prince",
+    "kid_icarus",
+    "maverick_icewing",
+    "moppet",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "hephaestus",
+    "prospero",
+    "scale_a_tor"
+   ]
+  },
+  {
+   "captain": "dr_agon",
+   "name": "Pirate Horde",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "chaos",
+    "sailor_moonshine",
+    "shanty",
+    "calypso",
+    "mimic",
+    "ogre_magi",
+    "sir_francis_drake",
+    "hephaestus",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "dr_agon",
+   "name": "Sweet Mages",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "kool_wip",
+    "knight_of_the_holy_cane",
+    "pixie",
+    "viscount_chocolat",
+    "cotton_candy_dandy",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "dr_agon",
+   "name": "Mage Mayhem",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "dracusmagus",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "the_fates",
+    "fae_familiar",
+    "morgan_le_fae",
+    "mechanical_dragon",
+    "netherbinder",
+    "sunflare_glider",
+    "smug",
+    "thunder_of_dragons",
+    "crab_dragoon",
+    "oracle_of_fortunes",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "dracusmagus",
+   "name": "Singing Dragons",
+   "characters": [
+    "plunder_penny",
+    "chaos",
+    "fortune_teller",
+    "mimic",
+    "moppet",
+    "sabrina",
+    "scale_singers",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "ogre_magi",
+    "elm_minster",
+    "halja"
+   ]
+  },
+  {
+   "captain": "dracusmagus",
+   "name": "Candied Drakes",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "cherry_topples",
+    "combustible_dragon",
+    "frosting_dragon",
+    "pixie",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "gummy_wyrm",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "dragonmother",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "prickles",
+    "ace_of_hearts",
+    "frog_prince",
+    "raggedy_ann",
+    "toadie",
+    "mimic",
+    "black_hole",
+    "mirror_mage",
+    "blackbeard",
+    "guinevere",
+    "hercules"
+   ]
+  },
+  {
+   "captain": "dragonmother",
+   "name": "Dragon Swarm",
+   "characters": [
+    "aladdin",
+    "mirror_mirror",
+    "chaos",
+    "morgan_le_fae",
+    "combustible_dragon",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "sir_francis_drake",
+    "smug",
+    "thunder_of_dragons",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "dragonmother",
+   "name": "Cookie Drakes",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "the_sour_patch_kid",
+    "frosting_dragon",
+    "the_three_chef_keteers",
+    "chubby_bunny",
+    "doopity_doo",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "gummy_wyrm",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "dragonmother",
+   "name": "Draconic Mages",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "halja"
+   ]
+  },
+  {
+   "captain": "dungeon_master",
+   "name": "Starter",
+   "characters": [
+    "glory_seeker",
+    "wormtongue",
+    "ace_of_hearts",
+    "mech_a_man",
+    "wink",
+    "combustible_dragon",
+    "mimic",
+    "pisces",
+    "smug",
+    "daedalus",
+    "pirate_king",
+    "pirate_prince"
+   ]
+  },
+  {
+   "captain": "dungeon_master",
+   "name": "Heroic Army",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "kid_icarus",
+    "nutcracker_prince",
+    "don_quixote",
+    "jelly_roger",
+    "maverick_icewing",
+    "pisces",
+    "snapping_hydra",
+    "daedalus",
+    "guinevere",
+    "hercules"
+   ]
+  },
+  {
+   "captain": "dungeon_master",
+   "name": "Treasure Hunter",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "wormtongue",
+    "lemonhead",
+    "the_huntsman",
+    "mr_fox",
+    "netherbinder",
+    "sunflare_glider",
+    "uther_pendragon",
+    "viscount_chocolat",
+    "licorice",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "dungeon_master",
+   "name": "Destiny's Treasures",
+   "characters": [
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "destiny",
+    "maverick_icewing",
+    "mortakon",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "crystal",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "elec_drake",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "toto",
+    "frog_prince",
+    "kid_icarus",
+    "shanty",
+    "combustible_dragon",
+    "maverick_icewing",
+    "smug",
+    "thunder_of_dragons",
+    "scale_a_tor",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "elec_drake",
+   "name": "Pirate Royalty",
+   "characters": [
+    "aladdin",
+    "toto",
+    "mech_a_man",
+    "sailor_moonshine",
+    "mechanical_dragon",
+    "mimic",
+    "sinbad",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_prince",
+    "weird_beard",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "elec_drake",
+   "name": "Sugary Treats",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "miseria",
+    "pretty_patissier",
+    "the_candy_cane_crook",
+    "frosting_dragon",
+    "life_saver",
+    "netherbinder",
+    "caramel",
+    "doopity_doo",
+    "gummy_wyrm",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "elec_drake",
+   "name": "Dragon's Hoard",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "old_coyote",
+    "maverick_icewing",
+    "scale_singers",
+    "wishing_fish",
+    "ditto",
+    "thunder_of_dragons",
+    "apophis",
+    "crab_dragoon",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "faker_the_caker_baker",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "lemonhead",
+    "the_sour_patch_kid",
+    "candy_apple_tree",
+    "jaws",
+    "kool_wip",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "gummy_wyrm",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "faker_the_caker_baker",
+   "name": "Sweet Doublers",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "the_candy_cane_crook",
+    "frosting_dragon",
+    "netherbinder",
+    "sunflare_glider",
+    "caramel",
+    "pixie",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "faker_the_caker_baker",
+   "name": "Spell Power",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "toto",
+    "chaos",
+    "fae_familiar",
+    "nightshade",
+    "weensy",
+    "doopity_doo",
+    "keeb",
+    "viscount_chocolat",
+    "chubby_cheep",
+    "elm_minster"
+   ]
+  },
+  {
+   "captain": "faker_the_caker_baker",
+   "name": "Faker's Bakeoff",
+   "characters": [
+    "lollipop_faerie",
+    "the_raven",
+    "fortune_teller",
+    "sugar_rush",
+    "young_hercules",
+    "kool_wip",
+    "tantalus",
+    "caramel",
+    "eros",
+    "medea_in_a_tavern",
+    "gummy_wyrm",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "frowny_the_clown",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "lollipop_faerie",
+    "catatouille",
+    "candy_apple_tree",
+    "the_three_chef_keteers",
+    "weensy",
+    "ghoulade_man",
+    "keeb",
+    "pixie",
+    "twilight_sprinkles",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "frowny_the_clown",
+   "name": "Sugary Sweets",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "chaos",
+    "pretty_patissier",
+    "kool_wip",
+    "maverick_icewing",
+    "caramel",
+    "keeb",
+    "chubby_cheep",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "frowny_the_clown",
+   "name": "Diamond in the Rough",
+   "characters": [
+    "prickles",
+    "the_fates",
+    "wormtongue",
+    "chaos",
+    "morgan_le_fae",
+    "fun_gal",
+    "nightshade",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "faerie_godfather",
+    "faerie_queen",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "frowny_the_clown",
+   "name": "Frowny's Coaster",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "eros",
+    "yggdrasil_sapling",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "galileo_galilei",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "toto",
+    "chaos",
+    "miseria",
+    "sunflare_glider",
+    "tantalus",
+    "wishing_fish",
+    "astral_navigator",
+    "eros",
+    "pisces",
+    "apophis",
+    "hephaestus"
+   ]
+  },
+  {
+   "captain": "galileo_galilei",
+   "name": "Boons from the Heavens",
+   "characters": [
+    "bubbles",
+    "lance_a_little",
+    "the_raven",
+    "young_hercules",
+    "baron_bok",
+    "destiny",
+    "wishing_fish",
+    "astral_navigator",
+    "black_hole",
+    "apophis",
+    "guinevere",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "galileo_galilei",
+   "name": "Star Scammer",
+   "characters": [
+    "the_fates",
+    "wormtongue",
+    "chaos",
+    "miseria",
+    "mechanical_dragon",
+    "sunflare_glider",
+    "astral_navigator",
+    "black_hole",
+    "wicked_witch",
+    "anubis",
+    "crab_dragoon",
+    "mischief"
+   ]
+  },
+  {
+   "captain": "geppetto",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mortakon",
+    "party_pinata",
+    "black_hole",
+    "charlotte",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "geppetto",
+   "name": "Toy Bargain",
+   "characters": [
+    "busted_bot",
+    "mirror_mirror",
+    "ace_of_hearts",
+    "nutcracker_prince",
+    "space_ranger_woody",
+    "moppet",
+    "mortakon",
+    "mysterio_the_great_and_powerful",
+    "snapping_hydra",
+    "brick_monster",
+    "daedalus",
+    "mephisto"
+   ]
+  },
+  {
+   "captain": "geppetto",
+   "name": "Tinkerer's Workshop",
+   "characters": [
+    "friendly_spirit",
+    "lollipop_faerie",
+    "mech_a_man",
+    "sleeping_giant",
+    "jumping_jelly_beans",
+    "caramel",
+    "keeb",
+    "pixie",
+    "barrel_of_monkeys",
+    "jelly_ton",
+    "miss_muffet",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "geppetto",
+   "name": "Terrible Toys",
+   "characters": [
+    "beanie_baby",
+    "the_raven",
+    "raggedy_ann",
+    "whirlidoo",
+    "baron_bok",
+    "destiny",
+    "mortakon",
+    "astral_navigator",
+    "ditto",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "gloria_clementine",
+   "name": "Starter",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "ace_of_hearts",
+    "chaos",
+    "morgan_le_fae",
+    "calypso",
+    "weensy",
+    "ogre_magi",
+    "smug",
+    "wicked_witch",
+    "elm_minster",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "gloria_clementine",
+   "name": "Everlasting Candy",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "ace_of_hearts",
+    "chaos",
+    "space_ranger_woody",
+    "candy_apple_tree",
+    "cherry_topples",
+    "caramel",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "gloria_clementine",
+   "name": "Blackbeard's Crew",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "plunder_penny",
+    "mech_a_man",
+    "sailor_moonshine",
+    "calypso",
+    "jelly_roger",
+    "innkeeper",
+    "ogre_magi",
+    "blackbeard",
+    "pirate_king",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "gloria_clementine",
+   "name": "Glorious Boons",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "orion_the_hunter",
+    "tantalus",
+    "wishing_fish",
+    "eros",
+    "kagutsuchi",
+    "perseus",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "goat_t",
+   "name": "Starter",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "candy_claws",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "life_saver",
+    "weensy",
+    "chubby_bunny",
+    "viscount_chocolat",
+    "jelly_ton",
+    "licorice",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "goat_t",
+   "name": "Evil Treasures",
+   "characters": [
+    "friendly_spirit",
+    "lance_a_little",
+    "miseria",
+    "the_huntsman",
+    "mr_fox",
+    "netherbinder",
+    "sunflare_glider",
+    "leapfrog",
+    "sir_francis_drake",
+    "thunder_of_dragons",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "goat_t",
+   "name": "Pirate King's Crew",
+   "characters": [
+    "aladdin",
+    "wormtongue",
+    "mech_a_man",
+    "sailor_moonshine",
+    "calypso",
+    "jelly_roger",
+    "sinbad",
+    "ogre_magi",
+    "pirate_king",
+    "pirate_prince",
+    "the_rat_king",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "goat_t",
+   "name": "Captain Collector",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "nuada_radiant_king",
+    "old_coyote",
+    "scale_singers",
+    "tantalus",
+    "ditto",
+    "eros",
+    "kagutsuchi",
+    "crab_dragoon",
+    "nemean_lion",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "gokatoo",
+   "name": "Starter",
+   "characters": [
+    "plunder_penny",
+    "the_fates",
+    "fae_familiar",
+    "morgan_le_fae",
+    "calypso",
+    "nightshade",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "ogre_magi",
+    "daedalus",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "gokatoo",
+   "name": "9000 Pirates",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "lance_a_little",
+    "space_ranger_woody",
+    "the_huntsman",
+    "jelly_roger",
+    "maverick_icewing",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "gokatoo",
+   "name": "Trick or Treat",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "the_candy_cane_crook",
+    "the_sour_patch_kid",
+    "cherry_topples",
+    "kool_wip",
+    "caramel",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "gokatoo",
+   "name": "Lion's Share",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "yggdrasil_sapling",
+    "apophis",
+    "barrel_of_monkeys",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "hades",
+   "name": "Starter",
+   "characters": [
+    "busted_bot",
+    "prickles",
+    "chaos",
+    "mech_a_man",
+    "nutcracker_prince",
+    "combustible_dragon",
+    "mechanical_dragon",
+    "charlotte",
+    "snapping_hydra",
+    "barrel_of_monkeys",
+    "hephaestus",
+    "scale_a_tor"
+   ]
+  },
+  {
+   "captain": "hades",
+   "name": "Scam Squad",
+   "characters": [
+    "aladdin",
+    "beanie_baby",
+    "glory_seeker",
+    "ace_of_hearts",
+    "nutcracker_prince",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "the_giving_tree",
+    "black_hole",
+    "wicked_witch",
+    "anubis",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "hades",
+   "name": "Farewell to Sugar",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "pretty_patissier",
+    "sleeping_giant",
+    "the_sour_patch_kid",
+    "kool_wip",
+    "ghoulade_man",
+    "keeb",
+    "knight_of_the_holy_cane",
+    "pixie",
+    "jelly_ton",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "hades",
+   "name": "Prophesied Ascension",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "whirlidoo",
+    "baron_bok",
+    "combustible_dragon",
+    "astral_navigator",
+    "fenrir",
+    "kagutsuchi",
+    "barrel_of_monkeys",
+    "miss_muffet",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "hannibal",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "pied_piper",
+    "underdog",
+    "fae_familiar",
+    "frog_prince",
+    "the_giving_tree",
+    "tsarmina_the_tyrant",
+    "ogre_magi",
+    "snapping_hydra",
+    "barrel_of_monkeys",
+    "monstro",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "hannibal",
+   "name": "Reinforcements",
+   "characters": [
+    "pied_piper",
+    "toto",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "moppet",
+    "tsarmina_the_tyrant",
+    "charlotte",
+    "sir_francis_drake",
+    "daedalus",
+    "monstro",
+    "moonshadow"
+   ]
+  },
+  {
+   "captain": "hannibal",
+   "name": "Animal Crackers",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "lollipop_faerie",
+    "catatouille",
+    "miseria",
+    "jaws",
+    "mr_fox",
+    "the_three_chef_keteers",
+    "leapfrog",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "hannibal",
+   "name": "Final Charge",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "apophis",
+    "crab_dragoon",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "hannibal",
+   "name": "Orange Attack",
+   "characters": [
+    "antiquitoy",
+    "pied_piper",
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "model_elephant",
+    "splat",
+    "bababanana",
+    "singe",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "happy_accidental_painter",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "serenpopity",
+    "swoop",
+    "blue_mage",
+    "catatouille",
+    "fae_familiar",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "viscount_chocolat",
+    "cotton_candy_dandy",
+    "gingerbread_dragon",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "happy_accidental_painter",
+   "name": "Monet in the Bank",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "morgan_le_fae",
+    "nightshade",
+    "sabrina",
+    "weensy",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "ogre_magi",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "happy_accidental_painter",
+   "name": "Impressions",
+   "characters": [
+    "antiquitoy",
+    "red_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "varnish",
+    "bababanana",
+    "singe",
+    "white_rabbit",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student"
+   ]
+  },
+  {
+   "captain": "hecate",
+   "name": "Starter",
+   "characters": [
+    "al_miraj",
+    "chaos",
+    "fae_familiar",
+    "nuada_radiant_king",
+    "calypso",
+    "moppet",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "hecate",
+   "name": "Sweet Spellbook",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gummy_wyrm",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "hecate",
+   "name": "Enchanted Night",
+   "characters": [
+    "plunder_penny",
+    "the_fates",
+    "fae_familiar",
+    "fortune_teller",
+    "morgan_le_fae",
+    "nightshade",
+    "sabrina",
+    "crystal",
+    "genie_of_the_lamp",
+    "ogre_magi",
+    "flopsy",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "hecate",
+   "name": "Gang Green",
+   "characters": [
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "genie_of_the_lamp",
+    "owlabaster",
+    "halja",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "indiana_clones",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "ace_of_hearts",
+    "kid_icarus",
+    "space_ranger_woody",
+    "maverick_icewing",
+    "sinbad",
+    "mirror_mage",
+    "thunder_of_dragons",
+    "blackbeard",
+    "pirate_king",
+    "pirate_prince"
+   ]
+  },
+  {
+   "captain": "indiana_clones",
+   "name": "Dragon Delight",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "ace_of_hearts",
+    "mech_a_man",
+    "combustible_dragon",
+    "maverick_icewing",
+    "mortakon",
+    "sir_francis_drake",
+    "smug",
+    "thunder_of_dragons",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "indiana_clones",
+   "name": "Counterfeiters",
+   "characters": [
+    "friendly_spirit",
+    "lance_a_little",
+    "miseria",
+    "the_huntsman",
+    "mr_fox",
+    "netherbinder",
+    "rollo",
+    "crystal",
+    "knight_of_the_holy_cane",
+    "uther_pendragon",
+    "miss_muffet",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "indiana_clones",
+   "name": "Boons of Antiquity",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "old_coyote",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "wishing_fish",
+    "ditto",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "iron_monkey",
+   "name": "Starter",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "fenrir",
+    "medea_in_a_tavern",
+    "apophis",
+    "perseus",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "iron_monkey",
+   "name": "Toy Time",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "whirlidoo",
+    "mortakon",
+    "party_pinata",
+    "ditto",
+    "brick_monster",
+    "chip_on_the_ship",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "iron_monkey",
+   "name": "Set Sail",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "plunder_penny",
+    "sailor_moonshine",
+    "shanty",
+    "gulliver",
+    "jelly_roger",
+    "innkeeper",
+    "sir_francis_drake",
+    "blackbeard",
+    "hercules",
+    "pirate_king"
+   ]
+  },
+  {
+   "captain": "itty_aerie",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mortakon",
+    "mr_fox",
+    "innkeeper",
+    "ogre_magi",
+    "sir_francis_drake",
+    "blackbeard",
+    "hercules"
+   ]
+  },
+  {
+   "captain": "itty_aerie",
+   "name": "Sweet Side",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "lemonhead",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "kool_wip",
+    "the_three_chef_keteers",
+    "keeb",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "itty_aerie",
+   "name": "Thunder of Wings",
+   "characters": [
+    "aladdin",
+    "the_fates",
+    "ace_of_hearts",
+    "the_huntsman",
+    "maverick_icewing",
+    "netherbinder",
+    "sunflare_glider",
+    "smug",
+    "snapping_hydra",
+    "thunder_of_dragons",
+    "oracle_of_fortunes",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "itty_aerie",
+   "name": "Monstro's Revenge",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "apophis",
+    "crab_dragoon",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "jason_of_the_argonauts",
+   "name": "Starter",
+   "characters": [
+    "mirror_mirror",
+    "underdog",
+    "chaos",
+    "fae_familiar",
+    "frog_prince",
+    "fun_gal",
+    "mimic",
+    "genie_of_the_lamp",
+    "pisces",
+    "faerie_godfather",
+    "faerie_queen",
+    "moonshadow"
+   ]
+  },
+  {
+   "captain": "jason_of_the_argonauts",
+   "name": "Toy Crew",
+   "characters": [
+    "glory_seeker",
+    "prickles",
+    "ace_of_hearts",
+    "mech_a_man",
+    "toadie",
+    "don_quixote",
+    "mortakon",
+    "party_pinata",
+    "sir_francis_drake",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "jason_of_the_argonauts",
+   "name": "Sweet Treat",
+   "characters": [
+    "friendly_spirit",
+    "lance_a_little",
+    "catatouille",
+    "the_huntsman",
+    "jaws",
+    "rollo",
+    "keeb",
+    "uther_pendragon",
+    "viscount_chocolat",
+    "cotton_candy_dandy",
+    "licorice",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "jason_of_the_argonauts",
+   "name": "Ship of Prophecy",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "old_coyote",
+    "nightshade",
+    "scale_singers",
+    "eros",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "halja",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "jay_sparrow",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "sailor_moonshine",
+    "shanty",
+    "wink",
+    "calypso",
+    "jelly_roger",
+    "innkeeper",
+    "sir_francis_drake",
+    "blackbeard",
+    "hercules",
+    "the_burninator"
+   ]
+  },
+  {
+   "captain": "jay_sparrow",
+   "name": "Fae Fighters",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "chaos",
+    "shanty",
+    "wink",
+    "nightshade",
+    "tsarmina_the_tyrant",
+    "innkeeper",
+    "snapping_hydra",
+    "elm_minster",
+    "pirate_king",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "jay_sparrow",
+   "name": "Rainbow Treats",
+   "characters": [
+    "barbosa",
+    "friendly_spirit",
+    "candy_claws",
+    "the_candy_cane_crook",
+    "the_huntsman",
+    "mr_fox",
+    "netherbinder",
+    "sunflare_glider",
+    "twilight_sprinkles",
+    "viscount_chocolat",
+    "gummy_wyrm",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "jay_sparrow",
+   "name": "Ancient Hunter",
+   "characters": [
+    "nutty_pirates",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "fenrir",
+    "yggdrasil_sapling",
+    "apophis",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "jay_sparrow",
+   "name": "Crimson Crush",
+   "characters": [
+    "aladdin",
+    "blue_paintkin",
+    "red_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "model_elephant",
+    "tsarmina_the_tyrant",
+    "innkeeper",
+    "singe",
+    "crimson_stalwart_hero",
+    "rocky_the_roller",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "king_arthur",
+   "name": "Starter",
+   "characters": [
+    "glory_seeker",
+    "underdog",
+    "kid_icarus",
+    "nutcracker_prince",
+    "wink",
+    "jelly_roger",
+    "the_giving_tree",
+    "black_hole",
+    "pisces",
+    "daedalus",
+    "hercules",
+    "pirate_prince"
+   ]
+  },
+  {
+   "captain": "king_arthur",
+   "name": "Heroic Pirates",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "ace_of_hearts",
+    "mech_a_man",
+    "don_quixote",
+    "mimic",
+    "the_giving_tree",
+    "innkeeper",
+    "ogre_magi",
+    "guinevere",
+    "the_rat_king",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "king_arthur",
+   "name": "Heroes of Honey",
+   "characters": [
+    "friendly_spirit",
+    "lance_a_little",
+    "candy_claws",
+    "lemonhead",
+    "the_huntsman",
+    "mr_fox",
+    "rollo",
+    "the_three_chef_keteers",
+    "twilight_sprinkles",
+    "uther_pendragon",
+    "chubby_cheep",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "king_arthur",
+   "name": "Heroes of Myth",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "wishing_fish",
+    "ditto",
+    "fenrir",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "king_midas",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "mirror_mirror",
+    "ace_of_hearts",
+    "frog_prince",
+    "kid_icarus",
+    "don_quixote",
+    "sinbad",
+    "mirror_mage",
+    "thunder_of_dragons",
+    "flopsy",
+    "pirate_prince",
+    "the_burninator"
+   ]
+  },
+  {
+   "captain": "king_midas",
+   "name": "Bonus Bonanza",
+   "characters": [
+    "glory_seeker",
+    "wormtongue",
+    "space_ranger_woody",
+    "fun_gal",
+    "sabrina",
+    "sinbad",
+    "mysterio_the_great_and_powerful",
+    "snapping_hydra",
+    "thunder_of_dragons",
+    "flopsy",
+    "hephaestus",
+    "the_burninator"
+   ]
+  },
+  {
+   "captain": "king_midas",
+   "name": "Golden Candy",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "pretty_patissier",
+    "the_huntsman",
+    "candy_apple_tree",
+    "jaws",
+    "mr_fox",
+    "crystal",
+    "uther_pendragon",
+    "gummy_wyrm",
+    "licorice",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "king_midas",
+   "name": "Golddigger",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "frog_prince",
+    "old_coyote",
+    "baron_bok",
+    "mr_fox",
+    "wishing_fish",
+    "astral_navigator",
+    "snapping_hydra",
+    "apophis",
+    "crab_dragoon",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "lady_of_the_lake",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "beanie_baby",
+    "lance_a_little",
+    "miseria",
+    "raggedy_ann",
+    "the_huntsman",
+    "maverick_icewing",
+    "mr_fox",
+    "mirror_mage",
+    "hercules",
+    "miss_muffet",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "lady_of_the_lake",
+   "name": "Sweet Treasures",
+   "characters": [
+    "lance_a_little",
+    "toto",
+    "catatouille",
+    "chaos",
+    "candy_apple_tree",
+    "jaws",
+    "caramel",
+    "mirror_mage",
+    "sir_francis_drake",
+    "gummy_wyrm",
+    "oracle_of_fortunes",
+    "pirate_prince"
+   ]
+  },
+  {
+   "captain": "lady_of_the_lake",
+   "name": "Dragon Swarm",
+   "characters": [
+    "aladdin",
+    "toto",
+    "ace_of_hearts",
+    "kid_icarus",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "sir_francis_drake",
+    "smug",
+    "thunder_of_dragons",
+    "hephaestus",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "lady_of_the_lake",
+   "name": "Soggy Boons",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "ditto",
+    "apophis",
+    "crab_dragoon",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "legend_of_loxley",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "mech_a_man",
+    "sailor_moonshine",
+    "maverick_icewing",
+    "rollo",
+    "tsarmina_the_tyrant",
+    "mirror_mage",
+    "thunder_of_dragons",
+    "oracle_of_fortunes",
+    "pirate_prince",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "legend_of_loxley",
+   "name": "Candy Crooks",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "catatouille",
+    "lemonhead",
+    "cherry_topples",
+    "frosting_dragon",
+    "kool_wip",
+    "caramel",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "legend_of_loxley",
+   "name": "Merry Men",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "mech_a_man",
+    "sailor_moonshine",
+    "calypso",
+    "jelly_roger",
+    "sinbad",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_prince",
+    "the_rat_king",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "legend_of_loxley",
+   "name": "Ancient Treasures",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "wishing_fish",
+    "eros",
+    "perseus",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "lightning_thief",
+   "name": "Starter",
+   "characters": [
+    "the_fates",
+    "toto",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "fun_gal",
+    "nightshade",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "rudolph_the_red",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "lightning_thief",
+   "name": "Dragon Army",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "ace_of_hearts",
+    "mech_a_man",
+    "combustible_dragon",
+    "maverick_icewing",
+    "mimic",
+    "sir_francis_drake",
+    "thunder_of_dragons",
+    "scale_a_tor",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "lightning_thief",
+   "name": "Bottled Sweetness",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "lollipop_faerie",
+    "catatouille",
+    "miseria",
+    "candy_apple_tree",
+    "cherry_topples",
+    "frosting_dragon",
+    "chubby_bunny",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "lightning_thief",
+   "name": "Raise Your Glass",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "crystal",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "lightning_thief",
+   "name": "Masterwork",
+   "characters": [
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "bababanana",
+    "dotty_daughter",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_green_gecko"
+   ]
+  },
+  {
+   "captain": "lil_genie",
+   "name": "Starter",
+   "characters": [
+    "plunder_penny",
+    "wormtongue",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "moppet",
+    "nightshade",
+    "genie_of_the_lamp",
+    "ogre_magi",
+    "elm_minster",
+    "hercules",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "lil_genie",
+   "name": "Fae Forces",
+   "characters": [
+    "prickles",
+    "wormtongue",
+    "chaos",
+    "fae_familiar",
+    "toadie",
+    "don_quixote",
+    "mimic",
+    "nightshade",
+    "ogre_magi",
+    "pisces",
+    "flopsy",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "lil_genie",
+   "name": "Star Burst",
+   "characters": [
+    "gingerbread_witch",
+    "the_fates",
+    "candy_claws",
+    "catatouille",
+    "chaos",
+    "candy_apple_tree",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "caramel",
+    "pixie",
+    "cotton_candy_dandy",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "lil_genie",
+   "name": "Halja's Heroes",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "crystal",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "loki",
+   "name": "Starter",
+   "characters": [
+    "glory_seeker",
+    "plunder_penny",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "fun_gal",
+    "nightshade",
+    "genie_of_the_lamp",
+    "rudolph_the_red",
+    "elm_minster",
+    "faerie_godfather",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "loki",
+   "name": "Dragon Hoard",
+   "characters": [
+    "aladdin",
+    "beanie_baby",
+    "ace_of_hearts",
+    "fae_familiar",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "mimic",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "thunder_of_dragons",
+    "elm_minster",
+    "scale_a_tor"
+   ]
+  },
+  {
+   "captain": "loki",
+   "name": "Sneaky Sweetness",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "chaos",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "kool_wip",
+    "chubby_bunny",
+    "doopity_doo",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "loki",
+   "name": "Mythical Candy",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "halja"
+   ]
+  },
+  {
+   "captain": "lucky_leprechaun",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "candy_claws",
+    "catatouille",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "kool_wip",
+    "knight_of_the_holy_cane",
+    "pixie",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "cotton_candy_dandy"
+   ]
+  },
+  {
+   "captain": "lucky_leprechaun",
+   "name": "Sugary Swell",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "pretty_patissier",
+    "the_sour_patch_kid",
+    "candy_apple_tree",
+    "jaws",
+    "mimic",
+    "chubby_bunny",
+    "knight_of_the_holy_cane",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "lucky_leprechaun",
+   "name": "Dragon's Delight",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "chaos",
+    "miseria",
+    "combustible_dragon",
+    "frosting_dragon",
+    "netherbinder",
+    "sir_francis_drake",
+    "thunder_of_dragons",
+    "gummy_wyrm",
+    "oracle_of_fortunes",
+    "the_burninator"
+   ]
+  },
+  {
+   "captain": "lucky_leprechaun",
+   "name": "Rainbow's End",
+   "characters": [
+    "lollipop_faerie",
+    "the_raven",
+    "fortune_teller",
+    "sugar_rush",
+    "young_hercules",
+    "kool_wip",
+    "tantalus",
+    "caramel",
+    "eros",
+    "medea_in_a_tavern",
+    "gummy_wyrm",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "luna",
+   "name": "Starter",
+   "characters": [
+    "red_mage",
+    "red_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "singe",
+    "starry_knight",
+    "white_rabbit",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "luna",
+   "name": "Green Squad",
+   "characters": [
+    "happy_little_painter",
+    "blue_paintkin",
+    "the_mad_splatter",
+    "yellow_paintkin",
+    "leprechaun",
+    "mana_potion",
+    "model_elephant",
+    "dotty_daughter",
+    "owlabaster",
+    "starry_knight",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "luna",
+   "name": "Purple Powerhouse",
+   "characters": [
+    "antiquitoy",
+    "ace_of_hearts",
+    "blue_mage",
+    "blue_paintkin",
+    "red_mage",
+    "red_paintkin",
+    "mimic",
+    "mr_fox",
+    "crimson_stalwart_hero",
+    "luck_dragon",
+    "rocky_the_roller",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "luna_girl",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "pied_piper",
+    "ace_of_hearts",
+    "nutcracker_prince",
+    "maverick_icewing",
+    "mimic",
+    "tsarmina_the_tyrant",
+    "innkeeper",
+    "ogre_magi",
+    "daedalus",
+    "elm_minster",
+    "monstro"
+   ]
+  },
+  {
+   "captain": "luna_girl",
+   "name": "Candy Hound",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "chaos",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "caramel",
+    "pixie",
+    "jelly_ton",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "luna_girl",
+   "name": "Good Boy",
+   "characters": [
+    "plunder_penny",
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "wink",
+    "don_quixote",
+    "nightshade",
+    "the_giving_tree",
+    "innkeeper",
+    "pisces",
+    "faerie_godfather",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "luna_girl",
+   "name": "Beast's Boon",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "kagutsuchi",
+    "yggdrasil_sapling",
+    "crab_dragoon",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "mami_wata",
+   "name": "Starter",
+   "characters": [
+    "lance_a_little",
+    "pied_piper",
+    "underdog",
+    "frog_prince",
+    "the_giving_tree",
+    "tsarmina_the_tyrant",
+    "wishing_fish",
+    "leapfrog",
+    "snapping_hydra",
+    "barrel_of_monkeys",
+    "miss_muffet",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "mami_wata",
+   "name": "Sweet Slots",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "candy_apple_tree",
+    "frosting_dragon",
+    "jaws",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "mami_wata",
+   "name": "Pirate Plunder",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "mech_a_man",
+    "shanty",
+    "wink",
+    "nightshade",
+    "tsarmina_the_tyrant",
+    "innkeeper",
+    "snapping_hydra",
+    "hercules",
+    "pirate_king",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "mami_wata",
+   "name": "Multicolor Madness",
+   "characters": [
+    "antiquitoy",
+    "happy_little_painter",
+    "blue_paintkin",
+    "red_paintkin",
+    "the_mad_splatter",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "splat",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "mauve_maniac",
+   "name": "Starter",
+   "characters": [
+    "antiquitoy",
+    "lance_a_little",
+    "toto",
+    "chaos",
+    "the_huntsman",
+    "varnish",
+    "dotty_daughter",
+    "singe",
+    "starry_knight",
+    "crimson_stalwart_hero",
+    "rocky_the_roller",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "mauve_maniac",
+   "name": "Purple Power",
+   "characters": [
+    "serenpopity",
+    "swoop",
+    "blue_mage",
+    "red_mage",
+    "cherry_bomb",
+    "mana_potion",
+    "model_elephant",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gingerbread_dragon",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "mauve_maniac",
+   "name": "Mauve Mages",
+   "characters": [
+    "aladdin",
+    "the_fates",
+    "blue_mage",
+    "red_mage",
+    "nightshade",
+    "sabrina",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "ogre_magi",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "maximus",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "pied_piper",
+    "ace_of_hearts",
+    "frog_prince",
+    "toadie",
+    "sinbad",
+    "tsarmina_the_tyrant",
+    "charlotte",
+    "snapping_hydra",
+    "guinevere",
+    "monstro",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "maximus",
+   "name": "Villainous Mages",
+   "characters": [
+    "mirror_mirror",
+    "wormtongue",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "calypso",
+    "sabrina",
+    "mirror_mage",
+    "mysterio_the_great_and_powerful",
+    "ogre_magi",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "maximus",
+   "name": "Candy Gladiators",
+   "characters": [
+    "friendly_spirit",
+    "lollipop_faerie",
+    "candy_claws",
+    "lemonhead",
+    "the_sour_patch_kid",
+    "cherry_topples",
+    "kool_wip",
+    "life_saver",
+    "doopity_doo",
+    "ghoulade_man",
+    "cotton_candy_dandy",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "maximus",
+   "name": "Gladiators of Myth",
+   "characters": [
+    "bubbles",
+    "nutty_pirates",
+    "nuada_radiant_king",
+    "old_coyote",
+    "orpheus",
+    "wishing_fish",
+    "eros",
+    "kagutsuchi",
+    "yggdrasil_sapling",
+    "apophis",
+    "crab_dragoon",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "melody",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "calypso",
+    "moppet",
+    "mirror_mage",
+    "ogre_magi",
+    "elm_minster",
+    "prospero",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "melody",
+   "name": "Melodious Heroes",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "ace_of_hearts",
+    "chaos",
+    "toadie",
+    "calypso",
+    "don_quixote",
+    "nightshade",
+    "mysterio_the_great_and_powerful",
+    "snapping_hydra",
+    "hephaestus",
+    "hercules"
+   ]
+  },
+  {
+   "captain": "melody",
+   "name": "Sweet Spellpower",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "catatouille",
+    "lemonhead",
+    "the_candy_cane_crook",
+    "frosting_dragon",
+    "jumping_jelly_beans",
+    "the_three_chef_keteers",
+    "doopity_doo",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "melody",
+   "name": "Halja's Recruits",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "crystal",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "mercury",
+   "name": "Starter",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "tantalus",
+    "wishing_fish",
+    "ditto",
+    "kagutsuchi",
+    "yggdrasil_sapling",
+    "crab_dragoon",
+    "nemean_lion",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "mercury",
+   "name": "Swiftly Sweet",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "candy_claws",
+    "sugar_rush",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "cherry_topples",
+    "life_saver",
+    "caramel",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "mercury",
+   "name": "Evil Boons",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "wormtongue",
+    "morgan_le_fae",
+    "young_hercules",
+    "combustible_dragon",
+    "nightshade",
+    "tantalus",
+    "tsarmina_the_tyrant",
+    "ogre_magi",
+    "pisces",
+    "blackbeard"
+   ]
+  },
+  {
+   "captain": "merrily",
+   "name": "Starter",
+   "characters": [
+    "the_fates",
+    "wormtongue",
+    "chaos",
+    "shanty",
+    "calypso",
+    "don_quixote",
+    "the_giving_tree",
+    "black_hole",
+    "ogre_magi",
+    "wicked_witch",
+    "anubis",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "merrily",
+   "name": "Fae Funtime",
+   "characters": [
+    "beanie_baby",
+    "underdog",
+    "morgan_le_fae",
+    "shanty",
+    "toadie",
+    "fun_gal",
+    "moppet",
+    "nightshade",
+    "pisces",
+    "faerie_godfather",
+    "faerie_queen",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "merrily",
+   "name": "Kooky Candy",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "lemonhead",
+    "sleeping_giant",
+    "the_sour_patch_kid",
+    "candy_apple_tree",
+    "cherry_topples",
+    "kool_wip",
+    "chubby_bunny",
+    "doopity_doo",
+    "chubby_cheep",
+    "cotton_candy_dandy"
+   ]
+  },
+  {
+   "captain": "merrily",
+   "name": "Merry Mages",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "halja",
+    "prospero",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "merryweather",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "prickles",
+    "chaos",
+    "wink",
+    "don_quixote",
+    "tsarmina_the_tyrant",
+    "charlotte",
+    "innkeeper",
+    "daedalus",
+    "moonshadow",
+    "pirate_king"
+   ]
+  },
+  {
+   "captain": "merryweather",
+   "name": "Fae Kingdom",
+   "characters": [
+    "prickles",
+    "wormtongue",
+    "chaos",
+    "morgan_le_fae",
+    "toadie",
+    "fun_gal",
+    "nightshade",
+    "charlotte",
+    "pisces",
+    "daedalus",
+    "faerie_godfather",
+    "faerie_queen"
+   ]
+  },
+  {
+   "captain": "merryweather",
+   "name": "Sweet Supports",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "the_fates",
+    "toadie",
+    "wink",
+    "netherbinder",
+    "caramel",
+    "charlotte",
+    "keeb",
+    "pixie",
+    "moonshadow",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "merryweather",
+   "name": "Ancient Boons",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "old_coyote",
+    "young_hercules",
+    "orpheus",
+    "tantalus",
+    "wishing_fish",
+    "ditto",
+    "yggdrasil_sapling",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "mira",
+   "name": "Starter",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "sailor_moonshine",
+    "shanty",
+    "toadie",
+    "don_quixote",
+    "fun_gal",
+    "leapfrog",
+    "pisces",
+    "faerie_godfather",
+    "faerie_queen",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "mira",
+   "name": "Fae Butchers",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "chaos",
+    "fae_familiar",
+    "mech_a_man",
+    "morgan_le_fae",
+    "nutcracker_prince",
+    "mimic",
+    "nightshade",
+    "rollo",
+    "the_butcher",
+    "weensy"
+   ]
+  },
+  {
+   "captain": "mira",
+   "name": "Magical Beings",
+   "characters": [
+    "plunder_penny",
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "nightshade",
+    "sabrina",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "ogre_magi",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "mira",
+   "name": "Miraculous Spellcasters",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "crystal",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "mira",
+   "name": "Mage's Facepaint",
+   "characters": [
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "genie_of_the_lamp",
+    "owlabaster",
+    "halja",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "moonsong",
+   "name": "Starter",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "fortune_teller",
+    "calypso",
+    "nightshade",
+    "scale_singers",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "twilight_sprinkles",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "moonsong",
+   "name": "Candy Copy",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "pretty_patissier",
+    "the_sour_patch_kid",
+    "candy_apple_tree",
+    "jaws",
+    "mimic",
+    "chubby_bunny",
+    "knight_of_the_holy_cane",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "moonsong",
+   "name": "Merry Mages",
+   "characters": [
+    "plunder_penny",
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "nightshade",
+    "sabrina",
+    "weensy",
+    "genie_of_the_lamp",
+    "ogre_magi",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "moonsong",
+   "name": "Green with Envy",
+   "characters": [
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "bababanana",
+    "dotty_daughter",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_green_gecko"
+   ]
+  },
+  {
+   "captain": "mount_mimic",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "toto",
+    "kid_icarus",
+    "whirlidoo",
+    "maverick_icewing",
+    "rollo",
+    "tsarmina_the_tyrant",
+    "ditto",
+    "mirror_mage",
+    "guinevere",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "mount_mimic",
+   "name": "Candy Counterfeiter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "candy_apple_tree",
+    "frosting_dragon",
+    "jaws",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "mount_mimic",
+   "name": "Treasure Island",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "mech_a_man",
+    "sailor_moonshine",
+    "shanty",
+    "jelly_roger",
+    "sinbad",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "mount_mimic",
+   "name": "Dragon Summit",
+   "characters": [
+    "comety",
+    "purrfectioneer",
+    "the_mad_splatter",
+    "combustible_dragon",
+    "leprechaun",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "ditto",
+    "owlabaster",
+    "thunder_of_dragons",
+    "crab_dragoon",
+    "luck_dragon"
+   ]
+  },
+  {
+   "captain": "mr_lamppost",
+   "name": "Starter",
+   "characters": [
+    "pied_piper",
+    "underdog",
+    "ace_of_hearts",
+    "nutcracker_prince",
+    "toadie",
+    "don_quixote",
+    "mimic",
+    "innkeeper",
+    "snapping_hydra",
+    "daedalus",
+    "hercules",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "mr_lamppost",
+   "name": "Barrel of Toys",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "space_ranger_woody",
+    "mechanical_dragon",
+    "mortakon",
+    "party_pinata",
+    "mysterio_the_great_and_powerful",
+    "sir_francis_drake",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "mr_lamppost",
+   "name": "Marshmallow Crush",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "pretty_patissier",
+    "the_sour_patch_kid",
+    "kool_wip",
+    "life_saver",
+    "ghoulade_man",
+    "pixie",
+    "viscount_chocolat",
+    "chubby_cheep",
+    "jelly_ton",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "mr_lamppost",
+   "name": "Odin's Gaze",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "old_coyote",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "wishing_fish",
+    "medea_in_a_tavern",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "mr_lamppost",
+   "name": "Lamppost's Luck",
+   "characters": [
+    "comety",
+    "purrfectioneer",
+    "red_paintkin",
+    "satter_fae",
+    "the_mad_splatter",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "leprechaun",
+    "splat",
+    "owlabaster",
+    "luck_dragon",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "mr_monet",
+   "name": "Starter",
+   "characters": [
+    "antiquitoy",
+    "busted_bot",
+    "ace_of_hearts",
+    "mech_a_man",
+    "raggedy_ann",
+    "mortakon",
+    "ditto",
+    "white_rabbit",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "chip_on_the_ship",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "mr_monet",
+   "name": "Baker's Delight",
+   "characters": [
+    "gingerbread_witch",
+    "serenpopity",
+    "swoop",
+    "catatouille",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "selphiea",
+    "starry_knight",
+    "twilight_sprinkles",
+    "gingerbread_dragon",
+    "gummy_wyrm",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "mr_monet",
+   "name": "Painter's Spellcasters",
+   "characters": [
+    "the_fates",
+    "blue_mage",
+    "chaos",
+    "red_mage",
+    "yellow_mage",
+    "nightshade",
+    "scale_singers",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "nathaniel_drake",
+   "name": "Starter",
+   "characters": [
+    "lance_a_little",
+    "toto",
+    "miseria",
+    "pretty_patissier",
+    "jaws",
+    "netherbinder",
+    "weensy",
+    "knight_of_the_holy_cane",
+    "sir_francis_drake",
+    "twilight_sprinkles",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "nathaniel_drake",
+   "name": "Drake's Quest",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "miseria",
+    "sailor_moonshine",
+    "maverick_icewing",
+    "tsarmina_the_tyrant",
+    "sir_francis_drake",
+    "wicked_witch",
+    "elm_minster",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "nathaniel_drake",
+   "name": "Sweet Questers",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "catatouille",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "netherbinder",
+    "sunflare_glider",
+    "knight_of_the_holy_cane",
+    "mirror_mage",
+    "viscount_chocolat",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "nathaniel_drake",
+   "name": "Drake's Legacy",
+   "characters": [
+    "the_raven",
+    "toto",
+    "miseria",
+    "young_hercules",
+    "destiny",
+    "mortakon",
+    "orion_the_hunter",
+    "ditto",
+    "crab_dragoon",
+    "perseus",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "nemesis",
+   "name": "Starter",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "fortune_teller",
+    "morgan_le_fae",
+    "whirlidoo",
+    "scale_singers",
+    "weensy",
+    "astral_navigator",
+    "ditto",
+    "crab_dragoon",
+    "halja",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "nemesis",
+   "name": "Spellslinger",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "toadie",
+    "nightshade",
+    "weensy",
+    "ogre_magi",
+    "pisces",
+    "faerie_queen",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "nemesis",
+   "name": "Treasure Cache",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "lance_a_little",
+    "nutcracker_prince",
+    "the_huntsman",
+    "young_hercules",
+    "rollo",
+    "weensy",
+    "sir_francis_drake",
+    "smug",
+    "hephaestus",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "old_brightflower",
+   "name": "Starter",
+   "characters": [
+    "antiquitoy",
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_mage",
+    "mana_potion",
+    "splat",
+    "dotty_daughter",
+    "singe",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_green_gecko"
+   ]
+  },
+  {
+   "captain": "old_brightflower",
+   "name": "Prismatic Gems",
+   "characters": [
+    "aladdin",
+    "antiquitoy",
+    "blue_paintkin",
+    "red_paintkin",
+    "the_mad_splatter",
+    "yellow_paintkin",
+    "dotty_daughter",
+    "starry_knight",
+    "white_rabbit",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "old_brightflower",
+   "name": "Green Growth",
+   "characters": [
+    "al_miraj",
+    "the_fates",
+    "blue_mage",
+    "the_mad_splatter",
+    "cherry_bomb",
+    "mana_potion",
+    "splat",
+    "varnish",
+    "selphiea",
+    "the_green_gecko",
+    "the_orange_orangutan",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "old_macdonald",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "pied_piper",
+    "underdog",
+    "frog_prince",
+    "mr_fox",
+    "the_giving_tree",
+    "tsarmina_the_tyrant",
+    "leapfrog",
+    "snapping_hydra",
+    "miss_muffet",
+    "monstro",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "old_macdonald",
+   "name": "Farmer's Paradise",
+   "characters": [
+    "lance_a_little",
+    "pied_piper",
+    "catatouille",
+    "the_candy_cane_crook",
+    "jaws",
+    "mr_fox",
+    "the_three_chef_keteers",
+    "caramel",
+    "chubby_bunny",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "old_macdonald",
+   "name": "Treasure Farmer",
+   "characters": [
+    "pied_piper",
+    "toto",
+    "chaos",
+    "fae_familiar",
+    "mimic",
+    "mortakon",
+    "tsarmina_the_tyrant",
+    "charlotte",
+    "leapfrog",
+    "snapping_hydra",
+    "barrel_of_monkeys",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "old_macdonald",
+   "name": "Farmer's Paradise",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "apophis",
+    "crab_dragoon",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "old_macdonald",
+   "name": "Farmyard Follies",
+   "characters": [
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "model_elephant",
+    "splat",
+    "bababanana",
+    "leapfrog",
+    "singe",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "monstro",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "omega_yellow",
+   "name": "Starter",
+   "characters": [
+    "antiquitoy",
+    "prickles",
+    "red_mage",
+    "red_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "bababanana",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "omega_yellow",
+   "name": "Lemon Drops",
+   "characters": [
+    "serenpopity",
+    "swoop",
+    "catatouille",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_topples",
+    "splat",
+    "bababanana",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gingerbread_dragon",
+    "marigold_eternal_student"
+   ]
+  },
+  {
+   "captain": "omega_yellow",
+   "name": "Green Thumb",
+   "characters": [
+    "antiquitoy",
+    "happy_little_painter",
+    "blue_paintkin",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "bababanana",
+    "dotty_daughter",
+    "white_rabbit",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_green_gecko"
+   ]
+  },
+  {
+   "captain": "omniverse_omnivore",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "cherry_topples",
+    "jaws",
+    "kool_wip",
+    "chubby_bunny",
+    "ghoulade_man",
+    "viscount_chocolat",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "omniverse_omnivore",
+   "name": "Omniversal Sweets",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "wormtongue",
+    "lemonhead",
+    "the_candy_cane_crook",
+    "the_sour_patch_kid",
+    "frosting_dragon",
+    "kool_wip",
+    "keeb",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "omniverse_omnivore",
+   "name": "Omniverous Gummies",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "chaos",
+    "morgan_le_fae",
+    "candy_apple_tree",
+    "life_saver",
+    "doopity_doo",
+    "ghoulade_man",
+    "pixie",
+    "chubby_cheep",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "omniverse_omnivore",
+   "name": "Omniversal Candy",
+   "characters": [
+    "gingerbread_witch",
+    "fortune_teller",
+    "old_coyote",
+    "sugar_rush",
+    "young_hercules",
+    "calypso",
+    "tantalus",
+    "keeb",
+    "medea_in_a_tavern",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "osiris",
+   "name": "Starter",
+   "characters": [
+    "friendly_spirit",
+    "glory_seeker",
+    "nutcracker_prince",
+    "the_huntsman",
+    "combustible_dragon",
+    "mechanical_dragon",
+    "the_giving_tree",
+    "snapping_hydra",
+    "yggdrasil_sapling",
+    "crab_dragoon",
+    "mischief",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "osiris",
+   "name": "Mummy-Wrapped Candy",
+   "characters": [
+    "busted_bot",
+    "gingerbread_witch",
+    "catatouille",
+    "lemonhead",
+    "jumping_jelly_beans",
+    "kool_wip",
+    "life_saver",
+    "keeb",
+    "twilight_sprinkles",
+    "viscount_chocolat",
+    "chubby_cheep",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "osiris",
+   "name": "March of Toys",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "space_ranger_woody",
+    "whirlidoo",
+    "mechanical_dragon",
+    "mortakon",
+    "party_pinata",
+    "ditto",
+    "yggdrasil_sapling",
+    "brick_monster",
+    "chip_on_the_ship",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "preeminent_prodigy",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "the_fates",
+    "chaos",
+    "miseria",
+    "frosting_dragon",
+    "mr_fox",
+    "netherbinder",
+    "sir_francis_drake",
+    "thunder_of_dragons",
+    "gummy_wyrm",
+    "the_burninator"
+   ]
+  },
+  {
+   "captain": "preeminent_prodigy",
+   "name": "Treasure Savant",
+   "characters": [
+    "lance_a_little",
+    "toto",
+    "miseria",
+    "wink",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "netherbinder",
+    "rollo",
+    "mirror_mage",
+    "smug",
+    "pirate_prince",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "preeminent_prodigy",
+   "name": "Jelly Spelly",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "the_candy_cane_crook",
+    "the_sour_patch_kid",
+    "cherry_topples",
+    "kool_wip",
+    "caramel",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "preeminent_prodigy",
+   "name": "Prodigy's Playtime",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "eros",
+    "yggdrasil_sapling",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "preeminent_prodigy",
+   "name": "Painter's Paradise",
+   "characters": [
+    "antiquitoy",
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "splat",
+    "rocky_the_roller",
+    "the_green_gecko",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "princess_animall",
+   "name": "Starter",
+   "characters": [
+    "pied_piper",
+    "toto",
+    "frog_prince",
+    "morgan_le_fae",
+    "wink",
+    "mimic",
+    "tsarmina_the_tyrant",
+    "charlotte",
+    "pisces",
+    "faerie_queen",
+    "flopsy",
+    "monstro"
+   ]
+  },
+  {
+   "captain": "princess_animall",
+   "name": "Hoarding Pirates",
+   "characters": [
+    "beanie_baby",
+    "pied_piper",
+    "underdog",
+    "mech_a_man",
+    "wink",
+    "don_quixote",
+    "tsarmina_the_tyrant",
+    "pisces",
+    "snapping_hydra",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "princess_animall",
+   "name": "Sugar Rush",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "pied_piper",
+    "catatouille",
+    "the_candy_cane_crook",
+    "tsarmina_the_tyrant",
+    "charlotte",
+    "chubby_bunny",
+    "keeb",
+    "leapfrog",
+    "monstro",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "princess_animall",
+   "name": "Familiar's Power",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "fortune_teller",
+    "old_coyote",
+    "baron_bok",
+    "scale_singers",
+    "astral_navigator",
+    "crystal",
+    "fenrir",
+    "crab_dragoon",
+    "halja",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "professor_whos_who",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "calypso",
+    "nightshade",
+    "genie_of_the_lamp",
+    "rudolph_the_red",
+    "elm_minster",
+    "guinevere",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "professor_whos_who",
+   "name": "Fae Finders",
+   "characters": [
+    "glory_seeker",
+    "fae_familiar",
+    "shanty",
+    "toadie",
+    "fun_gal",
+    "nightshade",
+    "sabrina",
+    "mirror_mage",
+    "pisces",
+    "wicked_witch",
+    "faerie_godfather",
+    "faerie_queen"
+   ]
+  },
+  {
+   "captain": "professor_whos_who",
+   "name": "Candy Crush",
+   "characters": [
+    "dastardly_spirit",
+    "gingerbread_witch",
+    "pretty_patissier",
+    "the_sour_patch_kid",
+    "frosting_dragon",
+    "jumping_jelly_beans",
+    "doopity_doo",
+    "knight_of_the_holy_cane",
+    "viscount_chocolat",
+    "chubby_cheep",
+    "cotton_candy_dandy",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "professor_whos_who",
+   "name": "Ancient Spellpower",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "sabrina",
+    "scale_singers",
+    "weensy",
+    "crystal",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "queen_harpolia",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "toto",
+    "catatouille",
+    "miseria",
+    "candy_apple_tree",
+    "cherry_topples",
+    "jaws",
+    "sunflare_glider",
+    "knight_of_the_holy_cane",
+    "pixie",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "queen_harpolia",
+   "name": "The Butcher's Minions",
+   "characters": [
+    "dastardly_spirit",
+    "lance_a_little",
+    "toto",
+    "wormtongue",
+    "frog_prince",
+    "mech_a_man",
+    "miseria",
+    "the_huntsman",
+    "maverick_icewing",
+    "mimic",
+    "rollo",
+    "the_butcher"
+   ]
+  },
+  {
+   "captain": "queen_harpolia",
+   "name": "Treasure Hoarders",
+   "characters": [
+    "aladdin",
+    "toto",
+    "ace_of_hearts",
+    "kid_icarus",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "sir_francis_drake",
+    "smug",
+    "thunder_of_dragons",
+    "hephaestus",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "queen_harpolia",
+   "name": "Harpolia's Boon Hunters",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "ditto",
+    "apophis",
+    "crab_dragoon",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "quetzalcoatl",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "the_huntsman",
+    "toadie",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "netherbinder",
+    "smug",
+    "thunder_of_dragons",
+    "crab_dragoon",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "quetzalcoatl",
+   "name": "Candy Claws",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "combustible_dragon",
+    "frosting_dragon",
+    "sunflare_glider",
+    "sir_francis_drake",
+    "snapping_hydra",
+    "gummy_wyrm",
+    "hephaestus",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "quetzalcoatl",
+   "name": "Toy Dragons",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "whirlidoo",
+    "mortakon",
+    "ditto",
+    "snapping_hydra",
+    "barrel_of_monkeys",
+    "oracle_of_fortunes",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "quetzalcoatl",
+   "name": "Tinkerer's Domain",
+   "characters": [
+    "comety",
+    "purrfectioneer",
+    "the_mad_splatter",
+    "combustible_dragon",
+    "leprechaun",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "ditto",
+    "owlabaster",
+    "thunder_of_dragons",
+    "crab_dragoon",
+    "luck_dragon"
+   ]
+  },
+  {
+   "captain": "raging_bull",
+   "name": "Starter",
+   "characters": [
+    "lance_a_little",
+    "pied_piper",
+    "underdog",
+    "frog_prince",
+    "mr_fox",
+    "tsarmina_the_tyrant",
+    "fenrir",
+    "leapfrog",
+    "snapping_hydra",
+    "apophis",
+    "crab_dragoon",
+    "monstro"
+   ]
+  },
+  {
+   "captain": "raging_bull",
+   "name": "Angry Animals",
+   "characters": [
+    "al_miraj",
+    "beanie_baby",
+    "bubbles",
+    "toto",
+    "baron_bok",
+    "don_quixote",
+    "astral_navigator",
+    "charlotte",
+    "barrel_of_monkeys",
+    "miss_muffet",
+    "nemean_lion",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "raging_bull",
+   "name": "Honey and Vinegar",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "candy_apple_tree",
+    "cherry_topples",
+    "jaws",
+    "the_three_chef_keteers",
+    "keeb",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "cotton_candy_dandy"
+   ]
+  },
+  {
+   "captain": "remi",
+   "name": "Starter",
+   "characters": [
+    "blue_paintkin",
+    "red_paintkin",
+    "the_mad_splatter",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "splat",
+    "singe",
+    "white_rabbit",
+    "the_green_gecko",
+    "the_orange_orangutan",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "remi",
+   "name": "Paint Pandemonium",
+   "characters": [
+    "antiquitoy",
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "red_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "bababanana",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "remi",
+   "name": "Sweetened Slots",
+   "characters": [
+    "serenpopity",
+    "swoop",
+    "blue_paintkin",
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_topples",
+    "keeb",
+    "twilight_sprinkles",
+    "crimson_stalwart_hero",
+    "gingerbread_dragon",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "romeo",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "toto",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "jaws",
+    "netherbinder",
+    "rollo",
+    "crystal",
+    "knight_of_the_holy_cane",
+    "miss_muffet",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "romeo",
+   "name": "True Love's Quest",
+   "characters": [
+    "lance_a_little",
+    "toto",
+    "mech_a_man",
+    "the_huntsman",
+    "maverick_icewing",
+    "mortakon",
+    "rollo",
+    "tsarmina_the_tyrant",
+    "innkeeper",
+    "mirror_mage",
+    "brick_monster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "romeo",
+   "name": "Pirate's Plunder",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "lance_a_little",
+    "sailor_moonshine",
+    "the_huntsman",
+    "jelly_roger",
+    "maverick_icewing",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "romeo",
+   "name": "Romeo's Heartbreakers",
+   "characters": [
+    "the_raven",
+    "toto",
+    "miseria",
+    "young_hercules",
+    "destiny",
+    "maverick_icewing",
+    "mortakon",
+    "ditto",
+    "crab_dragoon",
+    "perseus",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "roulette",
+   "name": "Starter",
+   "characters": [
+    "friendly_spirit",
+    "underdog",
+    "kid_icarus",
+    "mech_a_man",
+    "mimic",
+    "mr_fox",
+    "nightshade",
+    "leapfrog",
+    "pisces",
+    "blackbeard",
+    "elm_minster",
+    "hercules"
+   ]
+  },
+  {
+   "captain": "roulette",
+   "name": "Candymonium",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "life_saver",
+    "caramel",
+    "doopity_doo",
+    "chubby_cheep",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "roulette",
+   "name": "Crush of Dragons",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "miseria",
+    "mechanical_dragon",
+    "netherbinder",
+    "snapping_hydra",
+    "thunder_of_dragons",
+    "flopsy",
+    "oracle_of_fortunes",
+    "scale_a_tor",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "roulette",
+   "name": "Fortune's Favored",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orpheus",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "crab_dragoon",
+    "nemean_lion",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "roulette",
+   "name": "Orange Onslaught",
+   "characters": [
+    "antiquitoy",
+    "red_mage",
+    "red_paintkin",
+    "van_gogogo",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "varnish",
+    "bababanana",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "rumpelstiltskin",
+   "name": "Starter",
+   "characters": [
+    "friendly_spirit",
+    "glory_seeker",
+    "ace_of_hearts",
+    "nutcracker_prince",
+    "don_quixote",
+    "mimic",
+    "mr_fox",
+    "sir_francis_drake",
+    "thunder_of_dragons",
+    "scale_a_tor",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "rumpelstiltskin",
+   "name": "Spun Sugar",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "the_candy_cane_crook",
+    "frosting_dragon",
+    "maverick_icewing",
+    "netherbinder",
+    "keeb",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "rumpelstiltskin",
+   "name": "Fang and Claw",
+   "characters": [
+    "aladdin",
+    "toto",
+    "ace_of_hearts",
+    "combustible_dragon",
+    "mechanical_dragon",
+    "netherbinder",
+    "sunflare_glider",
+    "smug",
+    "thunder_of_dragons",
+    "flopsy",
+    "hephaestus",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "rumpelstiltskin",
+   "name": "Prophetic Beatdown",
+   "characters": [
+    "bubbles",
+    "nutty_pirates",
+    "fortune_teller",
+    "old_coyote",
+    "baron_bok",
+    "scale_singers",
+    "astral_navigator",
+    "ditto",
+    "eros",
+    "fenrir",
+    "apophis",
+    "crab_dragoon"
+   ]
+  },
+  {
+   "captain": "runefeather",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "the_fates",
+    "toto",
+    "the_huntsman",
+    "young_hercules",
+    "maverick_icewing",
+    "rollo",
+    "the_giving_tree",
+    "ditto",
+    "mirror_mage",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "runefeather",
+   "name": "Sweet Boons",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "sugar_rush",
+    "the_candy_cane_crook",
+    "the_sour_patch_kid",
+    "cherry_topples",
+    "jaws",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "runefeather",
+   "name": "Golden Dawn",
+   "characters": [
+    "al_miraj",
+    "glory_seeker",
+    "chaos",
+    "fortune_teller",
+    "young_hercules",
+    "don_quixote",
+    "wishing_fish",
+    "fenrir",
+    "yggdrasil_sapling",
+    "nemean_lion",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "sapphire",
+   "name": "Starter",
+   "characters": [
+    "dastardly_spirit",
+    "prickles",
+    "toto",
+    "miseria",
+    "morgan_le_fae",
+    "toadie",
+    "fun_gal",
+    "nightshade",
+    "black_hole",
+    "pisces",
+    "faerie_godfather",
+    "faerie_queen"
+   ]
+  },
+  {
+   "captain": "sapphire",
+   "name": "Cup of Sugar",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "pretty_patissier",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "kool_wip",
+    "life_saver",
+    "keeb",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "sapphire",
+   "name": "Treasure Trove",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "miseria",
+    "sleeping_giant",
+    "maverick_icewing",
+    "netherbinder",
+    "sunflare_glider",
+    "sir_francis_drake",
+    "smug",
+    "thunder_of_dragons",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "sapphire",
+   "name": "Summoner's Stack",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "yggdrasil_sapling",
+    "apophis",
+    "barrel_of_monkeys",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "sensei",
+   "name": "Starter",
+   "characters": [
+    "barbosa",
+    "lance_a_little",
+    "candy_claws",
+    "sailor_moonshine",
+    "the_candy_cane_crook",
+    "gulliver",
+    "mr_fox",
+    "innkeeper",
+    "twilight_sprinkles",
+    "licorice",
+    "pirate_king",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "sensei",
+   "name": "Sensei's Fae",
+   "characters": [
+    "glory_seeker",
+    "prickles",
+    "underdog",
+    "morgan_le_fae",
+    "shanty",
+    "wink",
+    "fun_gal",
+    "nightshade",
+    "leapfrog",
+    "pisces",
+    "uther_pendragon",
+    "faerie_queen"
+   ]
+  },
+  {
+   "captain": "sensei",
+   "name": "Hunt the Hunters",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "plunder_penny",
+    "mech_a_man",
+    "sailor_moonshine",
+    "calypso",
+    "jelly_roger",
+    "innkeeper",
+    "ogre_magi",
+    "blackbeard",
+    "pirate_king",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "sensei",
+   "name": "Meditation",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "baron_bok",
+    "mimic",
+    "astral_navigator",
+    "leapfrog",
+    "yggdrasil_sapling",
+    "apophis",
+    "crab_dragoon",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "set",
+   "name": "Starter",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "whirlidoo",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "medea_in_a_tavern",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "set",
+   "name": "Set's Menagerie",
+   "characters": [
+    "lance_a_little",
+    "the_raven",
+    "the_huntsman",
+    "young_hercules",
+    "destiny",
+    "orpheus",
+    "tantalus",
+    "wishing_fish",
+    "fenrir",
+    "apophis",
+    "guinevere",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "set",
+   "name": "Candied Boons",
+   "characters": [
+    "the_raven",
+    "toto",
+    "catatouille",
+    "fortune_teller",
+    "pretty_patissier",
+    "sugar_rush",
+    "young_hercules",
+    "candy_apple_tree",
+    "the_three_chef_keteers",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "silversmith",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "pied_piper",
+    "toto",
+    "mech_a_man",
+    "sailor_moonshine",
+    "maverick_icewing",
+    "mimic",
+    "smug",
+    "thunder_of_dragons",
+    "flopsy",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "silversmith",
+   "name": "Pirate Plunderers",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "the_fates",
+    "sailor_moonshine",
+    "shanty",
+    "calypso",
+    "jelly_roger",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "silversmith",
+   "name": "Candy Treasures",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "candy_apple_tree",
+    "jaws",
+    "sunflare_glider",
+    "caramel",
+    "crystal",
+    "gummy_wyrm",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "silversmith",
+   "name": "Smithy's Elation",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "orpheus",
+    "wishing_fish",
+    "eros",
+    "fenrir",
+    "yggdrasil_sapling",
+    "nemean_lion",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "silversmith",
+   "name": "Lucky Smithy",
+   "characters": [
+    "comety",
+    "serenpopity",
+    "swoop",
+    "purrfectioneer",
+    "satter_fae",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "leprechaun",
+    "owlabaster",
+    "chubby_cheep",
+    "gummy_wyrm",
+    "luck_dragon"
+   ]
+  },
+  {
+   "captain": "sir_galahad",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "prickles",
+    "ace_of_hearts",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mechanical_dragon",
+    "smug",
+    "thunder_of_dragons",
+    "wicked_witch",
+    "brick_monster",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "sir_galahad",
+   "name": "Wizarding Works",
+   "characters": [
+    "glory_seeker",
+    "plunder_penny",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "calypso",
+    "nightshade",
+    "sabrina",
+    "ogre_magi",
+    "wicked_witch",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "sir_galahad",
+   "name": "Cookie Crumble",
+   "characters": [
+    "friendly_spirit",
+    "lance_a_little",
+    "pretty_patissier",
+    "sleeping_giant",
+    "the_sour_patch_kid",
+    "frosting_dragon",
+    "life_saver",
+    "ghoulade_man",
+    "keeb",
+    "knight_of_the_holy_cane",
+    "gummy_wyrm",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "sir_galahad",
+   "name": "Ancient Animals",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "the_raven",
+    "frog_prince",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "apophis",
+    "crab_dragoon",
+    "monstro"
+   ]
+  },
+  {
+   "captain": "skip_the_time_skipper",
+   "name": "Starter",
+   "characters": [
+    "ace_of_hearts",
+    "chaos",
+    "raggedy_ann",
+    "toadie",
+    "maverick_icewing",
+    "tsarmina_the_tyrant",
+    "genie_of_the_lamp",
+    "ogre_magi",
+    "wicked_witch",
+    "daedalus",
+    "hercules",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "skip_the_time_skipper",
+   "name": "Dragon Squadron",
+   "characters": [
+    "combustible_dragon",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "mimic",
+    "pisces",
+    "sir_francis_drake",
+    "snapping_hydra",
+    "thunder_of_dragons",
+    "hephaestus",
+    "scale_a_tor",
+    "the_burninator",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "skip_the_time_skipper",
+   "name": "Time Warp Toffee",
+   "characters": [
+    "candy_claws",
+    "miseria",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "life_saver",
+    "the_three_chef_keteers",
+    "knight_of_the_holy_cane",
+    "pixie",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "skip_the_time_skipper",
+   "name": "Timewarp Prophecy",
+   "characters": [
+    "fortune_teller",
+    "nuada_radiant_king",
+    "old_coyote",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "wishing_fish",
+    "eros",
+    "yggdrasil_sapling",
+    "apophis",
+    "nemean_lion",
+    "ptah"
+   ]
+  },
+  {
+   "captain": "sorcerous_serena",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "the_fates",
+    "candy_claws",
+    "chaos",
+    "fae_familiar",
+    "candy_apple_tree",
+    "cherry_topples",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "elm_minster",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "sorcerous_serena",
+   "name": "Double Sweetness",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "plunder_penny",
+    "catatouille",
+    "chaos",
+    "the_candy_cane_crook",
+    "frosting_dragon",
+    "weensy",
+    "caramel",
+    "pixie",
+    "chubby_cheep",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "sorcerous_serena",
+   "name": "Sorceress's Spells",
+   "characters": [
+    "aladdin",
+    "the_fates",
+    "chaos",
+    "morgan_le_fae",
+    "calypso",
+    "moppet",
+    "nightshade",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "ogre_magi",
+    "hercules",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "sorcerous_serena",
+   "name": "Effective Incantations",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "halja"
+   ]
+  },
+  {
+   "captain": "spider_queen",
+   "name": "Starter",
+   "characters": [
+    "busted_bot",
+    "prickles",
+    "fae_familiar",
+    "morgan_le_fae",
+    "nightshade",
+    "tsarmina_the_tyrant",
+    "charlotte",
+    "innkeeper",
+    "pisces",
+    "daedalus",
+    "faerie_queen",
+    "moonshadow"
+   ]
+  },
+  {
+   "captain": "spider_queen",
+   "name": "Supportive Candies",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "candy_claws",
+    "catatouille",
+    "cherry_topples",
+    "kool_wip",
+    "life_saver",
+    "pixie",
+    "viscount_chocolat",
+    "chubby_cheep",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "spider_queen",
+   "name": "Innkeeper's Crew",
+   "characters": [
+    "al_miraj",
+    "aladdin",
+    "mech_a_man",
+    "sailor_moonshine",
+    "the_huntsman",
+    "calypso",
+    "jelly_roger",
+    "astral_navigator",
+    "innkeeper",
+    "sir_francis_drake",
+    "moonshadow",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "styx",
+   "name": "Starter",
+   "characters": [
+    "al_miraj",
+    "nutty_pirates",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "tantalus",
+    "wishing_fish",
+    "astral_navigator",
+    "kagutsuchi",
+    "crab_dragoon",
+    "halja",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "styx",
+   "name": "Return of the Fae",
+   "characters": [
+    "al_miraj",
+    "plunder_penny",
+    "prickles",
+    "fae_familiar",
+    "morgan_le_fae",
+    "shanty",
+    "fun_gal",
+    "weensy",
+    "pisces",
+    "faerie_godfather",
+    "faerie_queen",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "styx",
+   "name": "Antique Toys",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "whirlidoo",
+    "mortakon",
+    "party_pinata",
+    "ditto",
+    "brick_monster",
+    "chip_on_the_ship",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "styx",
+   "name": "Orange Upgrade",
+   "characters": [
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "varnish",
+    "bababanana",
+    "selphiea",
+    "singe",
+    "white_rabbit",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "sugar_pops",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "pretty_patissier",
+    "candy_apple_tree",
+    "cherry_topples",
+    "kool_wip",
+    "chubby_bunny",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "sugar_pops",
+   "name": "Lurking Candy",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "the_sour_patch_kid",
+    "jaws",
+    "jumping_jelly_beans",
+    "life_saver",
+    "doopity_doo",
+    "ghoulade_man",
+    "keeb",
+    "cotton_candy_dandy",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "sugar_pops",
+   "name": "Sugar and Spice",
+   "characters": [
+    "lance_a_little",
+    "pied_piper",
+    "catatouille",
+    "frog_prince",
+    "mr_fox",
+    "tsarmina_the_tyrant",
+    "leapfrog",
+    "snapping_hydra",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "monstro",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "sugar_pops",
+   "name": "Serendipity",
+   "characters": [
+    "serenpopity",
+    "swoop",
+    "blue_mage",
+    "blue_paintkin",
+    "red_mage",
+    "red_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "dotty_daughter",
+    "crimson_stalwart_hero",
+    "gingerbread_dragon",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "sweet_tooth",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "pretty_patissier",
+    "the_sour_patch_kid",
+    "jumping_jelly_beans",
+    "kool_wip",
+    "the_three_chef_keteers",
+    "chubby_bunny",
+    "knight_of_the_holy_cane",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "sweet_tooth",
+   "name": "Cavity Crunch",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "lemonhead",
+    "the_sour_patch_kid",
+    "candy_apple_tree",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "pixie",
+    "viscount_chocolat",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "sweet_tooth",
+   "name": "Tasty Treats",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "cherry_topples",
+    "nightshade",
+    "sabrina",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "ogre_magi",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "sweet_tooth",
+   "name": "Sweet Boons",
+   "characters": [
+    "gingerbread_witch",
+    "the_raven",
+    "fortune_teller",
+    "sugar_rush",
+    "young_hercules",
+    "cherry_topples",
+    "orion_the_hunter",
+    "doopity_doo",
+    "medea_in_a_tavern",
+    "chubby_cheep",
+    "licorice",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "sweet_tooth",
+   "name": "Candy Canvas",
+   "characters": [
+    "happy_little_painter",
+    "serenpopity",
+    "swoop",
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "owlabaster",
+    "gingerbread_dragon",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "swishbuckler",
+   "name": "Starter",
+   "characters": [
+    "blue_mage",
+    "blue_paintkin",
+    "red_mage",
+    "red_paintkin",
+    "van_gogogo",
+    "cherry_bomb",
+    "mana_potion",
+    "model_elephant",
+    "dotty_daughter",
+    "starry_knight",
+    "rocky_the_roller",
+    "the_purple_peacock"
+   ]
+  },
+  {
+   "captain": "swishbuckler",
+   "name": "Animal Takeover",
+   "characters": [
+    "red_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "splat",
+    "varnish",
+    "bababanana",
+    "leapfrog",
+    "owlabaster",
+    "monstro",
+    "nemean_lion",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "swishbuckler",
+   "name": "Paint Roller",
+   "characters": [
+    "antiquitoy",
+    "blue_paintkin",
+    "red_paintkin",
+    "the_mad_splatter",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "splat",
+    "white_rabbit",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "tajima_patron_of_sweets",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "pied_piper",
+    "candy_claws",
+    "catatouille",
+    "jaws",
+    "the_three_chef_keteers",
+    "chubby_bunny",
+    "ghoulade_man",
+    "leapfrog",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "monstro"
+   ]
+  },
+  {
+   "captain": "tajima_patron_of_sweets",
+   "name": "Animal Sweetness",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "lemonhead",
+    "the_sour_patch_kid",
+    "frosting_dragon",
+    "kool_wip",
+    "caramel",
+    "keeb",
+    "pixie",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "tajima_patron_of_sweets",
+   "name": "Candy Farmer",
+   "characters": [
+    "pied_piper",
+    "toto",
+    "catatouille",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "jaws",
+    "tsarmina_the_tyrant",
+    "knight_of_the_holy_cane",
+    "snapping_hydra",
+    "twilight_sprinkles",
+    "barrel_of_monkeys",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "tajima_patron_of_sweets",
+   "name": "Candied Critters",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "catatouille",
+    "fortune_teller",
+    "baron_bok",
+    "jaws",
+    "astral_navigator",
+    "leapfrog",
+    "twilight_sprinkles",
+    "apophis",
+    "crab_dragoon",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "tajima_patron_of_sweets",
+   "name": "Painted Perfection",
+   "characters": [
+    "serenpopity",
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "mr_fox",
+    "splat",
+    "leapfrog",
+    "crimson_stalwart_hero",
+    "gingerbread_dragon",
+    "marigold_eternal_student",
+    "monstro",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "thanatos",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "whirlidoo",
+    "young_hercules",
+    "baron_bok",
+    "mortakon",
+    "orpheus",
+    "astral_navigator",
+    "kagutsuchi",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "thanatos",
+   "name": "Toy Army",
+   "characters": [
+    "aladdin",
+    "nutty_pirates",
+    "ace_of_hearts",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mortakon",
+    "party_pinata",
+    "ditto",
+    "brick_monster",
+    "chip_on_the_ship",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "thanatos",
+   "name": "Beasts of Burden",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "frog_prince",
+    "baron_bok",
+    "mr_fox",
+    "astral_navigator",
+    "fenrir",
+    "leapfrog",
+    "snapping_hydra",
+    "crab_dragoon",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "the_beanstalk",
+   "name": "Starter",
+   "characters": [
+    "lance_a_little",
+    "pied_piper",
+    "frog_prince",
+    "mech_a_man",
+    "gulliver",
+    "mr_fox",
+    "the_giving_tree",
+    "snapping_hydra",
+    "uther_pendragon",
+    "chubby_cheep",
+    "daedalus",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "the_beanstalk",
+   "name": "Mighty Roots",
+   "characters": [
+    "aladdin",
+    "friendly_spirit",
+    "underdog",
+    "sleeping_giant",
+    "the_huntsman",
+    "gulliver",
+    "caramel",
+    "mirror_mage",
+    "ogre_magi",
+    "chubby_cheep",
+    "daedalus",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "the_beanstalk",
+   "name": "Hunter's Paradise",
+   "characters": [
+    "aladdin",
+    "barbosa",
+    "plunder_penny",
+    "mech_a_man",
+    "sailor_moonshine",
+    "jelly_roger",
+    "the_giving_tree",
+    "innkeeper",
+    "ogre_magi",
+    "blackbeard",
+    "hercules",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "the_beanstalk",
+   "name": "Beastie Beanstalk",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "nuada_radiant_king",
+    "old_coyote",
+    "baron_bok",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "yggdrasil_sapling",
+    "crab_dragoon",
+    "monstro",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "the_candyman",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "lemonhead",
+    "pretty_patissier",
+    "the_sour_patch_kid",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "keeb",
+    "knight_of_the_holy_cane",
+    "barrel_of_monkeys",
+    "chubby_cheep",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "the_candyman",
+   "name": "Sweetness Overload",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "candy_claws",
+    "catatouille",
+    "the_candy_cane_crook",
+    "candy_apple_tree",
+    "kool_wip",
+    "caramel",
+    "keeb",
+    "gummy_wyrm",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "the_candyman",
+   "name": "Mage Cookout",
+   "characters": [
+    "aladdin",
+    "gingerbread_witch",
+    "chaos",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "sabrina",
+    "caramel",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "twilight_sprinkles",
+    "jelly_ton",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "the_candyman",
+   "name": "Candy Delight",
+   "characters": [
+    "gingerbread_witch",
+    "the_raven",
+    "fortune_teller",
+    "pretty_patissier",
+    "sugar_rush",
+    "cherry_topples",
+    "jumping_jelly_beans",
+    "orpheus",
+    "keeb",
+    "twilight_sprinkles",
+    "gummy_wyrm",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "the_candyman",
+   "name": "Paintbrush Picnic",
+   "characters": [
+    "serenpopity",
+    "swoop",
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "cherry_topples",
+    "splat",
+    "keeb",
+    "twilight_sprinkles",
+    "crimson_stalwart_hero",
+    "gingerbread_dragon",
+    "marigold_eternal_student"
+   ]
+  },
+  {
+   "captain": "the_collector",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "beanie_baby",
+    "frog_prince",
+    "kid_icarus",
+    "mech_a_man",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "sir_francis_drake",
+    "snapping_hydra",
+    "daedalus",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "the_collector",
+   "name": "Dragon Hoard",
+   "characters": [
+    "toto",
+    "underdog",
+    "chaos",
+    "wink",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "mimic",
+    "ogre_magi",
+    "sir_francis_drake",
+    "thunder_of_dragons",
+    "scale_a_tor",
+    "the_burninator"
+   ]
+  },
+  {
+   "captain": "the_collector",
+   "name": "Formidable Trinkets",
+   "characters": [
+    "barbosa",
+    "lance_a_little",
+    "miseria",
+    "the_huntsman",
+    "rollo",
+    "sunflare_glider",
+    "crystal",
+    "thunder_of_dragons",
+    "uther_pendragon",
+    "oracle_of_fortunes",
+    "pirate_prince",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "the_collector",
+   "name": "Boon Collector",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "wishing_fish",
+    "ditto",
+    "apophis",
+    "crab_dragoon",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "thing_in_the_ice",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "ace_of_hearts",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mortakon",
+    "party_pinata",
+    "innkeeper",
+    "mirror_mage",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "thing_in_the_ice",
+   "name": "Mage Madness",
+   "characters": [
+    "aladdin",
+    "mirror_mirror",
+    "ace_of_hearts",
+    "chaos",
+    "don_quixote",
+    "moppet",
+    "nightshade",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "ogre_magi",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "thing_in_the_ice",
+   "name": "Thing in the Rock Candy",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "candy_claws",
+    "catatouille",
+    "lemonhead",
+    "the_three_chef_keteers",
+    "caramel",
+    "chubby_bunny",
+    "keeb",
+    "chubby_cheep",
+    "gummy_wyrm",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "thing_in_the_ice",
+   "name": "Spellpower",
+   "characters": [
+    "the_fates",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "crystal",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "this_little_piggie",
+   "name": "Starter",
+   "characters": [
+    "mirror_mirror",
+    "prickles",
+    "shanty",
+    "toadie",
+    "wink",
+    "fun_gal",
+    "nightshade",
+    "black_hole",
+    "pisces",
+    "faerie_godfather",
+    "faerie_queen",
+    "moonshadow"
+   ]
+  },
+  {
+   "captain": "this_little_piggie",
+   "name": "Toy Store",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mortakon",
+    "party_pinata",
+    "ogre_magi",
+    "smug",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "this_little_piggie",
+   "name": "Sugar Overload",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "candy_claws",
+    "lemonhead",
+    "pretty_patissier",
+    "frosting_dragon",
+    "kool_wip",
+    "life_saver",
+    "doopity_doo",
+    "ghoulade_man",
+    "cotton_candy_dandy",
+    "gummy_wyrm"
+   ]
+  },
+  {
+   "captain": "this_little_piggie",
+   "name": "Caster's Paradise",
+   "characters": [
+    "al_miraj",
+    "bubbles",
+    "the_fates",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "old_coyote",
+    "sabrina",
+    "scale_singers",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "yggdrasil_sapling",
+    "halja"
+   ]
+  },
+  {
+   "captain": "this_little_piggie",
+   "name": "Art Fair",
+   "characters": [
+    "antiquitoy",
+    "blue_paintkin",
+    "red_paintkin",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "mana_potion",
+    "splat",
+    "white_rabbit",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_orange_orangutan"
+   ]
+  },
+  {
+   "captain": "toucan_samuel",
+   "name": "Starter",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "lemonhead",
+    "jumping_jelly_beans",
+    "life_saver",
+    "doopity_doo",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "chubby_cheep",
+    "cotton_candy_dandy",
+    "jelly_ton"
+   ]
+  },
+  {
+   "captain": "toucan_samuel",
+   "name": "Sleight of Hand",
+   "characters": [
+    "plunder_penny",
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "nightshade",
+    "sabrina",
+    "weensy",
+    "genie_of_the_lamp",
+    "mirror_mage",
+    "elm_minster",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "toucan_samuel",
+   "name": "Hunters in the Sky",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "miseria",
+    "the_huntsman",
+    "don_quixote",
+    "gulliver",
+    "mr_fox",
+    "ogre_magi",
+    "sir_francis_drake",
+    "blackbeard",
+    "hercules",
+    "pirate_king"
+   ]
+  },
+  {
+   "captain": "toucan_samuel",
+   "name": "Snacker's Spellbook",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "catatouille",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "halja"
+   ]
+  },
+  {
+   "captain": "trash_panda",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "beanie_baby",
+    "frog_prince",
+    "mech_a_man",
+    "morgan_le_fae",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "black_hole",
+    "thunder_of_dragons",
+    "flopsy",
+    "scale_a_tor",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "trash_panda",
+   "name": "Pirate Parade",
+   "characters": [
+    "aladdin",
+    "toto",
+    "mech_a_man",
+    "sailor_moonshine",
+    "calypso",
+    "jelly_roger",
+    "mimic",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince",
+    "the_rat_king",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "trash_panda",
+   "name": "Trash to Treasure Finders",
+   "characters": [
+    "gingerbread_witch",
+    "lance_a_little",
+    "catatouille",
+    "miseria",
+    "gulliver",
+    "netherbinder",
+    "rollo",
+    "sunflare_glider",
+    "crystal",
+    "uther_pendragon",
+    "gummy_wyrm",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "trash_panda",
+   "name": "Clash of the Titans",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "wishing_fish",
+    "ditto",
+    "apophis",
+    "crab_dragoon",
+    "perseus"
+   ]
+  },
+  {
+   "captain": "trash_panda",
+   "name": "Lucky Little Panda",
+   "characters": [
+    "comety",
+    "purrfectioneer",
+    "the_mad_splatter",
+    "combustible_dragon",
+    "leprechaun",
+    "maverick_icewing",
+    "mechanical_dragon",
+    "ditto",
+    "owlabaster",
+    "thunder_of_dragons",
+    "crab_dragoon",
+    "luck_dragon"
+   ]
+  },
+  {
+   "captain": "vena_cava",
+   "name": "Starter",
+   "characters": [
+    "pied_piper",
+    "underdog",
+    "fae_familiar",
+    "mech_a_man",
+    "morgan_le_fae",
+    "fun_gal",
+    "nightshade",
+    "the_giving_tree",
+    "charlotte",
+    "pisces",
+    "faerie_godfather",
+    "faerie_queen"
+   ]
+  },
+  {
+   "captain": "vena_cava",
+   "name": "Fiery Veins",
+   "characters": [
+    "aladdin",
+    "lance_a_little",
+    "mech_a_man",
+    "sailor_moonshine",
+    "shanty",
+    "calypso",
+    "jelly_roger",
+    "nightshade",
+    "innkeeper",
+    "sir_francis_drake",
+    "weird_beard",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "vena_cava",
+   "name": "Sinister Toy Shop",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mortakon",
+    "party_pinata",
+    "leapfrog",
+    "pisces",
+    "barrel_of_monkeys",
+    "chip_on_the_ship",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "wayfinder",
+   "name": "Starter",
+   "characters": [
+    "the_raven",
+    "young_hercules",
+    "destiny",
+    "maverick_icewing",
+    "mimic",
+    "wishing_fish",
+    "astral_navigator",
+    "ditto",
+    "mirror_mage",
+    "nemean_lion",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "wayfinder",
+   "name": "Treasure Finders",
+   "characters": [
+    "friendly_spirit",
+    "lance_a_little",
+    "toto",
+    "miseria",
+    "the_huntsman",
+    "maverick_icewing",
+    "netherbinder",
+    "tsarmina_the_tyrant",
+    "mirror_mage",
+    "sir_francis_drake",
+    "daedalus",
+    "guinevere"
+   ]
+  },
+  {
+   "captain": "wayfinder",
+   "name": "Sweet Quests",
+   "characters": [
+    "gingerbread_witch",
+    "lollipop_faerie",
+    "toto",
+    "catatouille",
+    "pretty_patissier",
+    "candy_apple_tree",
+    "the_three_chef_keteers",
+    "caramel",
+    "knight_of_the_holy_cane",
+    "twilight_sprinkles",
+    "gummy_wyrm",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "wayfinder",
+   "name": "Painter's Quest",
+   "characters": [
+    "happy_little_painter",
+    "lance_a_little",
+    "blue_paintkin",
+    "van_gogogo",
+    "yellow_paintkin",
+    "mana_potion",
+    "maverick_icewing",
+    "splat",
+    "tsarmina_the_tyrant",
+    "selphiea",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "we_are_blorg",
+   "name": "Starter",
+   "characters": [
+    "beanie_baby",
+    "busted_bot",
+    "ace_of_hearts",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "mortakon",
+    "party_pinata",
+    "mirror_mage",
+    "pisces",
+    "brick_monster",
+    "chip_on_the_ship"
+   ]
+  },
+  {
+   "captain": "we_are_blorg",
+   "name": "Toy Terrors",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "mech_a_man",
+    "wink",
+    "mechanical_dragon",
+    "mimic",
+    "sir_francis_drake",
+    "smug",
+    "thunder_of_dragons",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "wormscale_tinkerer"
+   ]
+  },
+  {
+   "captain": "we_are_blorg",
+   "name": "Gummy Toys",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "the_candy_cane_crook",
+    "moppet",
+    "party_pinata",
+    "keeb",
+    "pisces",
+    "brick_monster",
+    "jelly_ton",
+    "the_blue_faerie"
+   ]
+  },
+  {
+   "captain": "we_are_blorg",
+   "name": "One with the Machine",
+   "characters": [
+    "the_raven",
+    "miseria",
+    "raggedy_ann",
+    "whirlidoo",
+    "baron_bok",
+    "destiny",
+    "mortakon",
+    "astral_navigator",
+    "ditto",
+    "barrel_of_monkeys",
+    "brick_monster",
+    "miss_muffet"
+   ]
+  },
+  {
+   "captain": "witches_iii",
+   "name": "Starter",
+   "characters": [
+    "mirror_mirror",
+    "wormtongue",
+    "chaos",
+    "morgan_le_fae",
+    "toadie",
+    "nightshade",
+    "tsarmina_the_tyrant",
+    "smug",
+    "wicked_witch",
+    "blackbeard",
+    "daedalus",
+    "scale_a_tor"
+   ]
+  },
+  {
+   "captain": "witches_iii",
+   "name": "Wicked Fae",
+   "characters": [
+    "mirror_mirror",
+    "wormtongue",
+    "chaos",
+    "calypso",
+    "fun_gal",
+    "mimic",
+    "nightshade",
+    "ogre_magi",
+    "pisces",
+    "elm_minster",
+    "mephisto",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "witches_iii",
+   "name": "KO'd by Candy",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "wormtongue",
+    "chaos",
+    "miseria",
+    "the_candy_cane_crook",
+    "netherbinder",
+    "caramel",
+    "ghoulade_man",
+    "keeb",
+    "jelly_ton",
+    "licorice"
+   ]
+  },
+  {
+   "captain": "witches_iii",
+   "name": "Mischevious Villains",
+   "characters": [
+    "al_miraj",
+    "dastardly_spirit",
+    "nutty_pirates",
+    "wormtongue",
+    "old_coyote",
+    "wishing_fish",
+    "black_hole",
+    "eros",
+    "wicked_witch",
+    "anubis",
+    "apophis",
+    "mischief"
+   ]
+  },
+  {
+   "captain": "witches_iii",
+   "name": "Toil and Trouble",
+   "characters": [
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "bababanana",
+    "dotty_daughter",
+    "marigold_eternal_student",
+    "rocky_the_roller",
+    "the_green_gecko"
+   ]
+  },
+  {
+   "captain": "wizard_headmaster",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "chaos",
+    "fae_familiar",
+    "morgan_le_fae",
+    "calypso",
+    "nightshade",
+    "mirror_mage",
+    "rudolph_the_red",
+    "elm_minster",
+    "hephaestus",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "wizard_headmaster",
+   "name": "Spell Power",
+   "characters": [
+    "wormtongue",
+    "ace_of_hearts",
+    "chaos",
+    "fae_familiar",
+    "moppet",
+    "nightshade",
+    "mirror_mage",
+    "pisces",
+    "sir_francis_drake",
+    "faerie_queen",
+    "flopsy",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "wizard_headmaster",
+   "name": "Candy Casters",
+   "characters": [
+    "gingerbread_witch",
+    "the_fates",
+    "catatouille",
+    "the_candy_cane_crook",
+    "cherry_topples",
+    "sabrina",
+    "weensy",
+    "crystal",
+    "twilight_sprinkles",
+    "cotton_candy_dandy",
+    "licorice",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "wizard_headmaster",
+   "name": "Final Exam",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "chaos",
+    "fortune_teller",
+    "nightshade",
+    "scale_singers",
+    "weensy",
+    "kagutsuchi",
+    "medea_in_a_tavern",
+    "elm_minster",
+    "halja",
+    "prospero"
+   ]
+  },
+  {
+   "captain": "wizard_headmaster",
+   "name": "Art Project",
+   "characters": [
+    "happy_little_painter",
+    "blue_mage",
+    "blue_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "mana_potion",
+    "splat",
+    "dotty_daughter",
+    "genie_of_the_lamp",
+    "halja",
+    "marigold_eternal_student",
+    "rocky_the_roller"
+   ]
+  },
+  {
+   "captain": "yakety_yak_yak",
+   "name": "Starter",
+   "characters": [
+    "al_miraj",
+    "the_raven",
+    "old_coyote",
+    "baron_bok",
+    "mr_fox",
+    "wishing_fish",
+    "astral_navigator",
+    "fenrir",
+    "leapfrog",
+    "apophis",
+    "crab_dragoon",
+    "nemean_lion"
+   ]
+  },
+  {
+   "captain": "yakety_yak_yak",
+   "name": "Fae Fae Fae",
+   "characters": [
+    "dastardly_spirit",
+    "friendly_spirit",
+    "the_fates",
+    "chaos",
+    "fae_familiar",
+    "toadie",
+    "nightshade",
+    "weensy",
+    "ogre_magi",
+    "pisces",
+    "faerie_queen",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "yakety_yak_yak",
+   "name": "Dragon's Domain",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "shanty",
+    "toadie",
+    "maverick_icewing",
+    "netherbinder",
+    "sir_francis_drake",
+    "snapping_hydra",
+    "thunder_of_dragons",
+    "oracle_of_fortunes",
+    "scale_a_tor",
+    "the_burninator"
+   ]
+  },
+  {
+   "captain": "zagreus",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "ace_of_hearts",
+    "mech_a_man",
+    "raggedy_ann",
+    "space_ranger_woody",
+    "don_quixote",
+    "sir_francis_drake",
+    "thunder_of_dragons",
+    "daedalus",
+    "elm_minster",
+    "flopsy"
+   ]
+  },
+  {
+   "captain": "zagreus",
+   "name": "Pirate Paradise",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "the_fates",
+    "mech_a_man",
+    "sailor_moonshine",
+    "jelly_roger",
+    "sinbad",
+    "innkeeper",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "zagreus",
+   "name": "Gummy Treasures",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "candy_claws",
+    "the_candy_cane_crook",
+    "the_huntsman",
+    "frosting_dragon",
+    "sunflare_glider",
+    "the_three_chef_keteers",
+    "knight_of_the_holy_cane",
+    "leapfrog",
+    "gummy_wyrm",
+    "oracle_of_fortunes"
+   ]
+  },
+  {
+   "captain": "zagreus",
+   "name": "Valkyrie's Revenge",
+   "characters": [
+    "bubbles",
+    "the_raven",
+    "fortune_teller",
+    "nuada_radiant_king",
+    "young_hercules",
+    "orion_the_hunter",
+    "tantalus",
+    "wishing_fish",
+    "fenrir",
+    "kagutsuchi",
+    "perseus",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "zheng_yi_sao",
+   "name": "Starter",
+   "characters": [
+    "aladdin",
+    "plunder_penny",
+    "mech_a_man",
+    "sailor_moonshine",
+    "shanty",
+    "calypso",
+    "jelly_roger",
+    "ogre_magi",
+    "sir_francis_drake",
+    "pirate_king",
+    "pirate_prince",
+    "weird_beard"
+   ]
+  },
+  {
+   "captain": "zheng_yi_sao",
+   "name": "Bounty Hunters",
+   "characters": [
+    "aladdin",
+    "glory_seeker",
+    "sailor_moonshine",
+    "shanty",
+    "toadie",
+    "maverick_icewing",
+    "tsarmina_the_tyrant",
+    "innkeeper",
+    "smug",
+    "blackbeard",
+    "hercules",
+    "the_rat_king"
+   ]
+  },
+  {
+   "captain": "zheng_yi_sao",
+   "name": "Sugar Blasted Pirates",
+   "characters": [
+    "barbosa",
+    "dastardly_spirit",
+    "candy_claws",
+    "the_candy_cane_crook",
+    "gulliver",
+    "jaws",
+    "netherbinder",
+    "innkeeper",
+    "ogre_magi",
+    "jelly_ton",
+    "licorice",
+    "pirate_king"
+   ]
+  },
+  {
+   "captain": "zheng_yi_sao",
+   "name": "High Seas Adventure",
+   "characters": [
+    "bubbles",
+    "nutty_pirates",
+    "fortune_teller",
+    "sailor_moonshine",
+    "young_hercules",
+    "orion_the_hunter",
+    "orpheus",
+    "tantalus",
+    "astral_navigator",
+    "perseus",
+    "ptah",
+    "sigrun_valkyrie_queen"
+   ]
+  },
+  {
+   "captain": "zheng_yi_sao",
+   "name": "Orange Freebooters",
+   "characters": [
+    "red_mage",
+    "red_paintkin",
+    "yellow_mage",
+    "yellow_paintkin",
+    "cherry_bomb",
+    "model_elephant",
+    "splat",
+    "innkeeper",
+    "singe",
+    "barrel_of_monkeys",
+    "crimson_stalwart_hero",
+    "marigold_eternal_student"
+   ]
+  }
+ ]
+}

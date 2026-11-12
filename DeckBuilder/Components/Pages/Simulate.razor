@@ -1,0 +1,227 @@
+@page "/simulate"
+@inject CardCatalog Catalog
+@inject PremadeDecks Premade
+@inject DeckSession Session
+
+<PageTitle>Simulate</PageTitle>
+
+<div class="sim">
+    <div class="sim-sides">
+        @for (var i = 0; i < sides.Length; i++)
+        {
+            var side = sides[i];
+            var index = i;
+            <section class="panel">
+                <div class="panel-title">
+                    <h2>Player @(index + 1)</h2>
+                    <div class="tabs">
+                        <button class="btn @(side.UseEditor ? "" : "active")" @onclick="() => side.UseEditor = false">Captain pick</button>
+                        <button class="btn @(side.UseEditor ? "active" : "")" @onclick="() => side.UseEditor = true">Editor @Session.Decks[index].Name</button>
+                    </div>
+                </div>
+
+                @if (side.UseEditor)
+                {
+                    var editor = Session.Decks[index];
+                    <p class="hint">Uses the deck built on the <a href="">Deck editor</a> page (@editor.Characters.Count / @DeckSession.DeckSize Characters).</p>
+                    <DeckSummary Captain="editor.Captain" Characters="editor.Characters" />
+                }
+                else
+                {
+                    <h3>Choose a Captain <button class="btn small" @onclick="() => Reroll(side)">Reroll</button></h3>
+                    <div class="captain-choices">
+                        @foreach (var captain in side.Offered)
+                        {
+                            <CardView @key="captain.Cid" Card="captain" Selected="ReferenceEquals(captain, side.Captain)" OnClick="() => PickCaptain(side, captain)" />
+                        }
+                    </div>
+
+                    @if (side.Captain is not null)
+                    {
+                        <h3>Choose one of @side.Captain.Name's decks</h3>
+                        <div class="tabs">
+                            @foreach (var deck in Premade.For(side.Captain.Key))
+                            {
+                                <button class="btn @(ReferenceEquals(deck, side.Deck) ? "active" : "")" @onclick="() => side.Deck = deck">@deck.Name</button>
+                            }
+                        </div>
+                        @if (side.Deck is not null)
+                        {
+                            <DeckSummary Captain="side.Captain" Characters="side.Deck.Characters.Select(Catalog.Get).ToList()" />
+                        }
+                    }
+                }
+            </section>
+        }
+    </div>
+
+    <section class="panel">
+        <div class="panel-title"><h2>Simulation</h2></div>
+        <div class="sim-controls">
+            <label>Games <input type="number" min="1" max="200000" @bind="games" /></label>
+            <label>Seed <input type="number" @bind="seed" /></label>
+            <label>Player 1 plays
+                <select @bind="agents[0]"><option value="greedy">Greedy</option><option value="random">Random</option></select>
+            </label>
+            <label>Player 2 plays
+                <select @bind="agents[1]"><option value="greedy">Greedy</option><option value="random">Random</option></select>
+            </label>
+            <label><input type="checkbox" @bind="frontRow" /> Front row protects back row</label>
+            <label><input type="checkbox" @bind="finalsRule" /> Every loss costs a whole heart</label>
+            <button class="btn primary" @onclick="RunMany" disabled="@running">@(running ? "Running…" : $"Run {games} games")</button>
+            <button class="btn" @onclick="PlayOne" disabled="@running">Play one game (with log)</button>
+        </div>
+
+        @if (error is not null)
+        {
+            <div class="message">@error</div>
+        }
+
+        @if (summary is not null)
+        {
+            <div class="result">
+                <div class="bar">
+                    <div class="bar-a" style="width:@Percent(summary.WinRateA)">@Percent(summary.WinRateA)</div>
+                    <div class="bar-draw" style="width:@Percent(summary.DrawRate)"></div>
+                    <div class="bar-b" style="width:@Percent(summary.WinRateB)">@Percent(summary.WinRateB)</div>
+                </div>
+                <table class="props">
+                    <tr><th>Player 1 wins</th><td>@summary.WinsA (@Percent(summary.WinRateA))</td></tr>
+                    <tr><th>Player 2 wins</th><td>@summary.WinsB (@Percent(summary.WinRateB))</td></tr>
+                    <tr><th>Draws</th><td>@summary.Draws (@Percent(summary.DrawRate))</td></tr>
+                    <tr><th>Average length</th><td>@summary.AverageTurns.ToString("F1") turns</td></tr>
+                    <tr><th>Average hearts left</th><td>Player 1: @summary.AverageHeartsLeftA.ToString("F2") · Player 2: @summary.AverageHeartsLeftB.ToString("F2")</td></tr>
+                    <tr><th>Games / seed / time</th><td>@summary.Games / @summary.Seed / @elapsed.TotalSeconds.ToString("F1") s</td></tr>
+                </table>
+            </div>
+        }
+
+        @if (log is not null)
+        {
+            <h3>Game log (seed @seed)</h3>
+            <pre class="log">@string.Join("\n", log)</pre>
+        }
+
+        @if (exportJson is not null)
+        {
+            <details class="export">
+                <summary>Deck files for the command-line simulator</summary>
+                <p class="hint">Save each as a .json file and run:
+                    <code>dotnet run --project Galaxy.Sim -- simulate --deck-a a.json --deck-b b.json --games 10000</code></p>
+                <div class="export-grid">
+                    <textarea readonly rows="16">@exportJson[0]</textarea>
+                    <textarea readonly rows="16">@exportJson[1]</textarea>
+                </div>
+            </details>
+        }
+    </section>
+</div>
+
+@code {
+    private sealed class Side
+    {
+        public bool UseEditor;
+        public List<Card> Offered = [];
+        public Card? Captain;
+        public Deck? Deck;
+    }
+
+    private readonly Side[] sides = [new(), new()];
+    private readonly string[] agents = ["greedy", "greedy"];
+    private readonly Random random = new();
+    private int games = 1000;
+    private int seed = 1;
+    private bool frontRow = true;
+    private bool finalsRule;
+    private bool running;
+    private string? error;
+    private SimulationSummary? summary;
+    private TimeSpan elapsed;
+    private IReadOnlyList<string>? log;
+    private string[]? exportJson;
+
+    protected override void OnInitialized()
+    {
+        foreach (var side in sides) Reroll(side);
+    }
+
+    /// <summary>Offers 3 random Captains that have premade decks.</summary>
+    private void Reroll(Side side)
+    {
+        var pool = Catalog.Captains.Where(c => Premade.For(c.Key).Any()).ToArray();
+        random.Shuffle(pool);
+        side.Offered = pool.Take(3).ToList();
+        side.Captain = null;
+        side.Deck = null;
+    }
+
+    private void PickCaptain(Side side, Card captain)
+    {
+        side.Captain = captain;
+        side.Deck = Premade.Find(captain.Key);
+    }
+
+    private Deck? DeckOf(int index)
+    {
+        var side = sides[index];
+        if (side.UseEditor) return Session.Decks[index].ToDeck();
+        if (side.Deck is null || side.Captain is null) return null;
+        return new Deck { Name = $"{side.Captain.Name} – {side.Deck.Name}", Captain = side.Deck.Captain, Characters = side.Deck.Characters };
+    }
+
+    private GameRules Rules => new() { FrontRowProtectsBackRow = frontRow, LossAlwaysEmptiesHeart = finalsRule };
+
+    private static IAgent Agent(string name) => name == "random" ? new RandomAgent() : new GreedyAgent();
+
+    private bool Ready(out Deck a, out Deck b)
+    {
+        error = null;
+        (a, b) = (DeckOf(0)!, DeckOf(1)!);
+        if (a is null || b is null)
+        {
+            error = "Pick a Captain and a deck for both players first.";
+            return false;
+        }
+        var rules = Rules;
+        var problems = a.Validate(Catalog, rules.DeckSize, rules.MaxDeckSize).Select(p => "Player 1: " + p)
+            .Concat(b.Validate(Catalog, rules.DeckSize, rules.MaxDeckSize).Select(p => "Player 2: " + p)).ToList();
+        if (problems.Count > 0) error = string.Join(" ", problems);
+        exportJson = problems.Count == 0 ? [a.ToJson(), b.ToJson()] : null;
+        return problems.Count == 0;
+    }
+
+    private async Task RunMany()
+    {
+        if (!Ready(out var a, out var b)) return;
+        running = true;
+        log = null;
+        var (count, start, rules) = (Math.Clamp(games, 1, 200_000), seed, Rules);
+        var (agentA, agentB) = (agents[0], agents[1]);
+        var watch = System.Diagnostics.Stopwatch.StartNew();
+        try
+        {
+            summary = await Task.Run(() => Simulator.Run(Catalog, a, b, count, start, rules, () => Agent(agentA), () => Agent(agentB)));
+        }
+        catch (Exception e)
+        {
+            error = e.Message;
+        }
+        elapsed = watch.Elapsed;
+        running = false;
+    }
+
+    private void PlayOne()
+    {
+        if (!Ready(out var a, out var b)) return;
+        try
+        {
+            log = Simulator.PlayOne(Catalog, a, b, seed, Rules, Agent(agents[0]), Agent(agents[1]), log: true).Log;
+        }
+        catch (Exception e)
+        {
+            error = e.Message;
+        }
+    }
+
+    private static string Percent(double value) => value.ToString("P1", System.Globalization.CultureInfo.InvariantCulture).Replace(" ", "");
+}

@@ -1,0 +1,5564 @@
+[
+  {
+    "name": "Al-mi'raj",
+    "type": "character",
+    "rarity": "Common",
+    "key": "al_miraj",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3050",
+    "text": "When you Recruit another Fae or Animal, give my slot +1/+1.",
+    "attack": 0,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Fae"
+    ]
+  },
+  {
+    "name": "Aladdin",
+    "type": "character",
+    "rarity": "Common",
+    "key": "aladdin",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1033",
+    "text": "When you Silver me, discover a treasure in addition to the bonus shop.",
+    "attack": 2,
+    "health": 1,
+    "factions": [
+      "Pirate",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Andy",
+    "type": "character",
+    "rarity": "Common",
+    "key": "andy",
+    "set": "1",
+    "pool": "token",
+    "cid": "1319",
+    "text": "",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Antiquitoy",
+    "type": "character",
+    "rarity": "Common",
+    "key": "antiquitoy",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4036",
+    "text": "When you buff one or more slots, I get +1/+1.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Barbosa",
+    "type": "character",
+    "rarity": "Common",
+    "key": "barbosa",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2156",
+    "text": "When one of your Pirates attacks, I get +1/+1.",
+    "goldText": "When one of your Pirates attacks, I get +2/+2.",
+    "attack": 1,
+    "health": 2,
+    "factions": [
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Beanie Baby",
+    "type": "character",
+    "rarity": "Common",
+    "key": "beanie_baby",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1036",
+    "text": "Farewell — I become a worthless treasure.",
+    "goldText": "I become a Gem Mint Beanie Baby.",
+    "attack": 3,
+    "health": 5,
+    "factions": [
+      "Toy",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Bot Pilot",
+    "type": "character",
+    "rarity": "Common",
+    "key": "bot_pilot",
+    "set": "1",
+    "pool": "token",
+    "cid": "1032",
+    "text": "",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Bubbles",
+    "type": "character",
+    "rarity": "Common",
+    "key": "bubbles",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3008",
+    "text": "If your first heart would be emptied, it's cracked instead, then Banish me.",
+    "goldText": "If your first heart would be emptied, it's cracked instead, then Banish me.",
+    "attack": 2,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Busted Bot",
+    "type": "character",
+    "rarity": "Common",
+    "key": "busted_bot",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1075",
+    "text": "Farewell — Summon a 2/2 Bot Pilot.",
+    "goldText": "Summon a 4/4 Bot Pilot.",
+    "attack": 0,
+    "health": 2,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Comety",
+    "type": "character",
+    "rarity": "Common",
+    "key": "comety",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4050",
+    "text": "Quest — I see 3 Chance Encounter characters appear in your shops.\nTreasure Find — Lucky Star",
+    "attack": 1,
+    "health": 4,
+    "factions": [
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Cookie Golem",
+    "type": "character",
+    "rarity": "Common",
+    "key": "cookie_golem",
+    "set": "2",
+    "pool": "token",
+    "cid": "2068",
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Dastardly Spirit",
+    "type": "character",
+    "rarity": "Common",
+    "key": "dastardly_spirit",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2113",
+    "text": "Recruit — Villains in your shop get +1/+1.",
+    "goldText": "Villains in your shop get +2/+2",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Fae",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Daughter of Athena",
+    "type": "character",
+    "rarity": "Common",
+    "key": "daughter_of_athena",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1050",
+    "text": "Quest — Recruit 3 Heroes.",
+    "attack": 1,
+    "health": 3,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Despicable Smee",
+    "type": "character",
+    "rarity": "Common",
+    "key": "despicable_smee",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1062",
+    "text": "When one of your Pirates attacks, give them +2 Attack.",
+    "goldText": "When one of your Pirates attacks, give them +4 Attack.",
+    "attack": 1,
+    "health": 3,
+    "factions": [
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Dragon Pup",
+    "type": "character",
+    "rarity": "Common",
+    "key": "dragon_pup",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1035",
+    "text": "Treasure Hoard\n(Treasure Hoard gives +1/+1 to this character for each treasure you have)",
+    "attack": 2,
+    "health": 3,
+    "factions": [
+      "Dragon",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Dragonling",
+    "type": "character",
+    "rarity": "Common",
+    "key": "dragonling",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2162",
+    "text": "Treasure Hoard (+1/+1 for each treasure you have)\nQuest — I attack 3 times.",
+    "goldText": "(+2/+2 for each treasure you have)",
+    "attack": 1,
+    "health": 3,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Evil Stepmother",
+    "type": "character",
+    "rarity": "Common",
+    "key": "evil_stepmother",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1042",
+    "text": "Quest — Recruit 3 Villains.",
+    "attack": 3,
+    "health": 1,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Flying Monkey",
+    "type": "character",
+    "rarity": "Common",
+    "key": "flying_monkey",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1044",
+    "text": "Sneak (I attack back row characters first)",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Forgotten Present",
+    "type": "character",
+    "rarity": "Common",
+    "key": "forgotten_present",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1057",
+    "text": "Farewell — Give my slot +1/+1. (when I'm KO'd)",
+    "goldText": "Give my slot +2/+2. (When I'm KO'd.)",
+    "attack": 0,
+    "health": 3,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Friendly Spirit",
+    "type": "character",
+    "rarity": "Common",
+    "key": "friendly_spirit",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2115",
+    "text": "Recruit — Heroes in your shop get +1/+1.",
+    "goldText": "Heroes in your shop get +2/+2.",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Fae",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Gingerbread House",
+    "type": "character",
+    "rarity": "Common",
+    "key": "gingerbread_house",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1048",
+    "text": "Farewell — Give my neighbors +2 Attack.",
+    "goldText": "Give my neighbors +4 Attack.",
+    "attack": 2,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Gingerbread Witch",
+    "type": "character",
+    "rarity": "Common",
+    "key": "gingerbread_witch",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2071",
+    "text": "When you replace me, sweeten your Candy.",
+    "goldText": "When you replace me, sweeten your Candy twice.",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Candy",
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Glory Seeker",
+    "type": "character",
+    "rarity": "Common",
+    "key": "glory_seeker",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1320",
+    "text": "Recruit — Your next shop is all Heroes.",
+    "goldText": "Get a bonus shop of all Heroes.",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Ham-Star",
+    "type": "character",
+    "rarity": "Common",
+    "key": "ham_star",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1440",
+    "text": "When my slot is buffed, give it an additional +1/+1.",
+    "goldText": "When my slot is buffed, give it an additional +2/+2.",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Happy Little Painter",
+    "type": "character",
+    "rarity": "Common",
+    "key": "happy_little_painter",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4014",
+    "text": "Quest — I'm on a Green slot during a fight.\nTreasure Find — Happy Little Tree",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Artist"
+    ]
+  },
+  {
+    "name": "Itsy Bitsy Spider",
+    "type": "character",
+    "rarity": "Common",
+    "key": "itsy_bitsy_spider",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1052",
+    "text": "",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Jack",
+    "type": "character",
+    "rarity": "Common",
+    "key": "jack",
+    "set": "1",
+    "pool": "token",
+    "cid": "1030",
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Pirate",
+      "Toy",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Jack in the Box",
+    "type": "character",
+    "rarity": "Common",
+    "key": "jack_in_the_box",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1053",
+    "text": "Farewell — Summon a 1/1 Jack.",
+    "goldText": "Summon a 2/2 Jack.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Toy",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Jealous Stepsisters",
+    "type": "character",
+    "rarity": "Common",
+    "key": "jealous_stepsisters",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1055",
+    "text": "Quest — I deal 6 damage in a single fight.",
+    "attack": 1,
+    "health": 3,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Lance A Little",
+    "type": "character",
+    "rarity": "Common",
+    "key": "lance_a_little",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2050",
+    "text": "Quest — During a fight, I have at least 10 attack.\nTreasure Find — Little Lance",
+    "goldText": "During a fight, I have at least 10 attack.\nLittle Lance",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Laser Shark",
+    "type": "character",
+    "rarity": "Common",
+    "key": "laser_shark",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1056",
+    "text": "Ranged",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Lollipop Faerie",
+    "type": "character",
+    "rarity": "Common",
+    "key": "lollipop_faerie",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2056",
+    "text": "Support-- +1/+1\n(This bonus improves when you sweeten your Candy.)",
+    "goldText": "+2/+2 (This bonus improves when you sweeten your Candy.)\nSupersweet 2",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Fae"
+    ]
+  },
+  {
+    "name": "Mirror Mirror",
+    "type": "character",
+    "rarity": "Common",
+    "key": "mirror_mirror",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1328",
+    "text": "Each fight, if the enemy across from me has Ranged, I gain Ranged. The same is also true of Sneak and Treasure Hoard.",
+    "goldText": "Each fight, if the enemy across from me has Ranged, I gain Ranged. The same is also true of Sneak and Treasure Hoard.",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Monkey (Chunky)",
+    "type": "character",
+    "rarity": "Common",
+    "key": "monkey1",
+    "set": "1",
+    "pool": "token",
+    "cid": "1031",
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Pirate",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Monkey (Greasy)",
+    "type": "character",
+    "rarity": "Common",
+    "key": "monkey2",
+    "set": "1",
+    "pool": "token",
+    "cid": "1389",
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Pirate",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Monkey (Caesar)",
+    "type": "character",
+    "rarity": "Common",
+    "key": "monkey3",
+    "set": "1",
+    "pool": "token",
+    "cid": "1390",
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Pirate",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Monkey (Uncle)",
+    "type": "character",
+    "rarity": "Common",
+    "key": "monkey4",
+    "set": "1",
+    "pool": "token",
+    "cid": "1391",
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Pirate",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Monkey (George)",
+    "type": "character",
+    "rarity": "Common",
+    "key": "monkey5",
+    "set": "1",
+    "pool": "token",
+    "cid": "1392",
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Pirate",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Mysterious Egg",
+    "type": "character",
+    "rarity": "Common",
+    "key": "mysterious_egg",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1063",
+    "text": "After 3 turns, I hatch into a random character one rarity higher than your shop. (X)",
+    "attack": 0,
+    "health": 1,
+    "factions": [
+      "Egg"
+    ]
+  },
+  {
+    "name": "Nesting Scrubfowl",
+    "type": "character",
+    "rarity": "Common",
+    "key": "nesting_scrubfowl",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2122",
+    "text": "Recruit — Give your first slot +2 Attack.",
+    "goldText": "Give your first slot +4/+2.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Nutty Pirates",
+    "type": "character",
+    "rarity": "Common",
+    "key": "nutty_pirates",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3024",
+    "text": "Hunt — Give me and my prey +1/+1.",
+    "goldText": "Give me and my prey +2/+2.",
+    "attack": 5,
+    "health": 1,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Peachy Queen",
+    "type": "character",
+    "rarity": "Common",
+    "key": "peachy_queen",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1441",
+    "text": "Recruit — Improve the buff from the next Fae you recruit by +1/+1.",
+    "goldText": "Improve the buff from the next Fae your recruit by +2/+2.",
+    "attack": 2,
+    "health": 1,
+    "factions": [
+      "Fae",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Pied Piper",
+    "type": "character",
+    "rarity": "Common",
+    "key": "pied_piper",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1356",
+    "text": "Recruit — Your next shop is all Animals.",
+    "goldText": "Get a bonus shop of all Animals.",
+    "attack": 2,
+    "health": 3,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Pix",
+    "type": "character",
+    "rarity": "Common",
+    "key": "pix",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1064",
+    "text": "Support-- +2 Health (to the characters in front of me)",
+    "goldText": "+6 Health. (To the characters in front of me.)",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Fae",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Plunder Penny",
+    "type": "character",
+    "rarity": "Common",
+    "key": "plunder_penny",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1065",
+    "text": "Hunt — Improve your buffs from spells by +1/+0.",
+    "goldText": "Improve your buffs from spells by +2 Attack.",
+    "attack": 2,
+    "health": 1,
+    "factions": [
+      "Pirate",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Prickles",
+    "type": "character",
+    "rarity": "Common",
+    "key": "prickles",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1066",
+    "text": "Support-- When a character in front of me is attacked, give it +1/+1.",
+    "goldText": "When a character in front of me is attacked, give it +2/+2.",
+    "attack": 0,
+    "health": 2,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Puck",
+    "type": "character",
+    "rarity": "Common",
+    "key": "puck",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1067",
+    "text": "Support-- +2 Attack (to the characters in front of me)",
+    "goldText": "+6 Attack. (To the characters in front of me.)",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Fae",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Puss in Boots",
+    "type": "character",
+    "rarity": "Common",
+    "key": "puss_in_boots",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1068",
+    "text": "Hunt — Give my slot +1 Attack. (when I attack and KO a character)",
+    "goldText": "Give my slot +2 Attack. (When I attack and KO a character.)",
+    "attack": 3,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Pirate",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Rose",
+    "type": "character",
+    "rarity": "Common",
+    "key": "rose",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1071",
+    "text": "Recruit — Characters in your shop get +1 Health.",
+    "goldText": "Characters in your shop get +2 Health.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Serenpopity",
+    "type": "character",
+    "rarity": "Common",
+    "key": "serenpopity",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4059",
+    "text": "Chance Encounter — Sweeten your Candy.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Slappy",
+    "type": "character",
+    "rarity": "Common",
+    "key": "slappy",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2172",
+    "text": "When I'm attacked, give me +1 Health.",
+    "goldText": "When I'm attacked, give me +2 Health.",
+    "attack": 4,
+    "health": 1,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Statue",
+    "type": "character",
+    "rarity": "Common",
+    "key": "statue",
+    "set": "1",
+    "pool": "token",
+    "cid": "1345",
+    "text": "Cursed. (Cannot be buffed)",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Rock"
+    ]
+  },
+  {
+    "name": "Swoop",
+    "type": "character",
+    "rarity": "Common",
+    "key": "swoop",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4046",
+    "text": "Chance Encounter — Give a random slot +1/+1.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Fae"
+    ]
+  },
+  {
+    "name": "The Fates",
+    "type": "character",
+    "rarity": "Common",
+    "key": "the_fates",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1405",
+    "text": "When you Silver or Golden me, cast a spell.",
+    "attack": 4,
+    "health": 1,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "The Raven",
+    "type": "character",
+    "rarity": "Common",
+    "key": "the_raven",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3099",
+    "text": "Quest - Golden a character.\nI discover boons instead of regular treasures.",
+    "goldText": "When you golden a character, discover a Boon.",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Thorn",
+    "type": "character",
+    "rarity": "Common",
+    "key": "thorn",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1076",
+    "text": "Recruit — Characters in your shop get +1 Attack.",
+    "goldText": "Characters in your shop get +2 Attack.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Toto",
+    "type": "character",
+    "rarity": "Common",
+    "key": "toto",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1077",
+    "text": "Recruit — Your next shop has a Quest character.",
+    "goldText": "Get a bonus shop with a Quest character.",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Underdog",
+    "type": "character",
+    "rarity": "Common",
+    "key": "underdog",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1343",
+    "text": "If you have fewer characters than the enemy when I attack, first give my slot +2/+2.",
+    "goldText": "If you have fewer characters than the enemy when I attack, first give my slot +4/+4.",
+    "attack": 1,
+    "health": 3,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Wind Up Toy",
+    "type": "character",
+    "rarity": "Common",
+    "key": "wind_up_toy",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1080",
+    "text": "When I'm attacked, give me +2 Attack.",
+    "goldText": "When I'm attacked, give me +4 Attack.",
+    "attack": 0,
+    "health": 3,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Wormtongue",
+    "type": "character",
+    "rarity": "Common",
+    "key": "wormtongue",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1344",
+    "text": "Recruit — Your next shop is all Villains.",
+    "goldText": "Get a bonus shop of all Villains.",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Ace of Hearts",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "ace_of_hearts",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1318",
+    "text": "Recruit — If you lost your last fight, get a bonus shop.",
+    "goldText": "If you lost your last fight, get two bonus shops.",
+    "attack": 4,
+    "health": 3,
+    "factions": [
+      "Toy",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Baby Bear",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "baby_bear",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1034",
+    "text": "Each fight, give your Animals' slots +1 Health.",
+    "goldText": "Each fight, give your Animals' slots +2 Health.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Billy Bones",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "billy_bones",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1087",
+    "text": "Hunt — Give characters in your shop +2/+2.",
+    "goldText": "The next character you recruit has +10 Attack.",
+    "attack": 6,
+    "health": 2,
+    "factions": [
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Blue Mage",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "blue_mage",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4003",
+    "text": "The first time you paint a slot each turn, I get +1/+1. If you painted it Blue, cast a random spell.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Blue Paintkin",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "blue_paintkin",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4005",
+    "text": "Recruit — Paint a slot Blue.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Paintkin"
+    ]
+  },
+  {
+    "name": "Buried Chest",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "buried_chest",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2179",
+    "text": "Quest — Recruit a Pirate.",
+    "attack": 0,
+    "health": 1,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Candy Claws",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "candy_claws",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2069",
+    "text": "Hunt — Give my slot +1/+1.",
+    "goldText": "Give my slot +2/+2.\nSupersweet 2",
+    "attack": 4,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Captain Ahab",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "captain_ahab",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1089",
+    "text": "Hunt — +1/+1\nQuest — I hunt the last remaining character.",
+    "goldText": "+2/+2",
+    "attack": 6,
+    "health": 3,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Catamari",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "catamari",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1090",
+    "text": "When I attack, I get +1/+1.",
+    "goldText": "When I attack, I get +2/+2.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "All"
+    ]
+  },
+  {
+    "name": "Catatouille",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "catatouille",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2048",
+    "text": "Quest — Cast 3 spells.\nTreasure Find — Magical Piping Bag.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Candy",
+      "Animal",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Chaos",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "chaos",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1375",
+    "text": "Recruit — Cast a random spell.",
+    "goldText": "Cast 2 random spells.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Cowardly Lion",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "cowardly_lion",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1093",
+    "text": "I'm too cowardly to attack.\nQuest — I survive damage 3 times.",
+    "attack": 2,
+    "health": 7,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Ember",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "ember",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2167",
+    "text": "Recruit — Give your characters +1/+1.",
+    "goldText": "Give your characters +2/+2.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Fae Familiar",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "fae_familiar",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1384",
+    "text": "When you cast a spell, give me and a random other character +1/+1.",
+    "goldText": "When you cast a spell, give me and a random other character +2/+2.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Animal",
+      "Fae",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Fortune Teller",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "fortune_teller",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3111",
+    "text": "Recruit — Discover a Boon if you don't already have one.",
+    "goldText": "Discover 2 Boons if you don't already have one.",
+    "attack": 4,
+    "health": 3,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Fowl Lich",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "fowl_lich",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1099",
+    "text": "I gain +1/+1 when one of your other Animals is KO'd.",
+    "goldText": "I gain +2/+2 when one of your other Animals is KO'd.",
+    "attack": 2,
+    "health": 5,
+    "factions": [
+      "Animal",
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Frog Prince",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "frog_prince",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1046",
+    "text": "When you Golden me, get a True Love's Kiss.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Gentle Giant",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "gentle_giant",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2240",
+    "text": "When you win a fight, you only deal half a heart in damage.",
+    "goldText": "When you win a fight, you only deal half a heart in damage.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Giant"
+    ]
+  },
+  {
+    "name": "Hecate's Spellbook",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "hecates_spellbook",
+    "set": "3",
+    "pool": "token",
+    "cid": "3049",
+    "text": "When you replace me, cast 2 random spells.",
+    "goldText": "When you replace me, cast 2 random spells.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Mage",
+      "Book"
+    ]
+  },
+  {
+    "name": "Hungry Hyena",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "hungry_hyena",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1051",
+    "text": "Each fight, give your Animals' slots +1 Attack.",
+    "goldText": "Each fight, give your Animals' slots +2 Attack.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Jack Frost",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "jack_frost",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1103",
+    "text": "Support-- +5 Health",
+    "goldText": "+10 Health",
+    "attack": 2,
+    "health": 3,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Jill Sunshine",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "jill_sunshine",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1104",
+    "text": "Support-- +5 Attack",
+    "goldText": "+10 Attack",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Karma Chameleon",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "karma_chameleon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1105",
+    "text": "Hunt — I transform into a character one rarity higher than your shop.",
+    "goldText": "I transform into a character two rarities higher than your shop.",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Kid Icarus",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "kid_icarus",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1380",
+    "text": "Farewell — If I'm Golden, discover an Epic treasure, but then I never return.",
+    "attack": 6,
+    "health": 4,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Lemonhead",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "lemonhead",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2058",
+    "text": "Each fight, give me +1/+1.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Little Red",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "little_red",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2193",
+    "text": "Quest — I see a character Transform.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Mech-a-Man",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "mech_a_man",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1107",
+    "text": "Hunt — Give my slot +1 Attack.\nFarewell — Summon a random Toy.",
+    "goldText": "Give my slot +2 Attack.\nSummon two random Toys.",
+    "attack": 2,
+    "health": 1,
+    "factions": [
+      "Pirate",
+      "Toy",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Miseria",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "miseria",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2143",
+    "text": "Quest — Lose a fight.\nTreasure Find — Constellation Prize",
+    "goldText": "Lose a Fight.\nConstellation Prize",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Morgan Le Fae",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "morgan_le_fae",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1110",
+    "text": "Ranged\nWhen you cast a spell, give me +2 attack.",
+    "goldText": "When you cast a spell, give a random character +2 Attack.",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Fae",
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Navii",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "navii",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1144",
+    "text": "Recruit — Repair a cracked heart.\nWhen you Golden me, gain an additional heart.",
+    "attack": 5,
+    "health": 2,
+    "factions": [
+      "Fae",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Nuada, Radiant King",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "nuada_radiant_king",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3019",
+    "text": "Prophecy — Your characters are attacked 10 times.\nWhen I complete my prophecy, become Nuada, Silver Vengence.",
+    "goldText": "Your characters are attacked 10 times.\nWhen I complete my prophecy, become Nuada, Silver Vengence.",
+    "attack": 2,
+    "health": 7,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Nutcracker Prince",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "nutcracker_prince",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1111",
+    "text": "Farewell — Give one of your Heroes +3/+4.",
+    "goldText": "Give one of your Heroes +6/+8.",
+    "attack": 3,
+    "health": 4,
+    "factions": [
+      "Toy",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Old Coyote",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "old_coyote",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3084",
+    "text": "Prophecy — Tie a fight.\nWhen I complete my prophecy, become Mictili.",
+    "goldText": "Tie a fight.\nWhen I complete my prophecy. become Mictili.",
+    "attack": 6,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Pan's Shadow",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "pans_shadow",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1113",
+    "text": "Recruit — Buffs from Fae give an additional +1 Attack for the rest of the game.",
+    "goldText": "Buffs from Fae give an additional +2 Attack for the rest of the game.",
+    "attack": 4,
+    "health": 2,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Peter Pan",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "peter_pan",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1115",
+    "text": "Recruit — Buffs from Fae give an additional +1 Health for the rest of the game.",
+    "goldText": "Buffs from Fae give an additional +2 Health for the rest of the game.",
+    "attack": 2,
+    "health": 4,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Pie Rat",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "pie_rat",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1116",
+    "text": "Hunt — Give my slot +2/+1.",
+    "goldText": "Give my slot +4/+2.",
+    "attack": 4,
+    "health": 2,
+    "factions": [
+      "Animal",
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Pretty Patissier",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "pretty_patissier",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2186",
+    "text": "When I find a treasure, it becomes Candy.\nQuest — Recruit 3 Candy characters.",
+    "goldText": "When I find a treasure, it becomes Candy.\nRecruit 3 Candy characters.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Candy",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Prince Charming, the Heartbreaker",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "prince_charming_the_heartbreaker",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1117",
+    "text": "Recruit — Break a Heart. (cracks one of your hearts)",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Purrfectioneer",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "purrfectioneer",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4042",
+    "text": "Treasure Hoard 1\nChance Encounter — Improve the buffs from your treasures by +1/+1. If there's nothing to buff, get a Dragon's Claw instead.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Rage Mage",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "rage_mage",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2175",
+    "text": "When you cast a spell directly on a character, give its slot +2/+2.",
+    "goldText": "When you play a spell directly on a character, give its slot +4/+4.",
+    "attack": 4,
+    "health": 3,
+    "factions": [
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Raggedy Ann",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "raggedy_ann",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1337",
+    "text": "Farewell — Summon a 3/3 Andy and give it +3/+3 for each heart you're missing.",
+    "goldText": "Summon a 3/3 Andy and give it +6/+6 for each heart you're missing.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Red Mage",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "red_mage",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4045",
+    "text": "The first time you paint a slot each turn, I get +1/+1. If you painted it Red, improve your buffs from spells by +1 Attack.",
+    "attack": 4,
+    "health": 2,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Red Paintkin",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "red_paintkin",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4027",
+    "text": "Recruit — Paint a slot Red.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Paintkin"
+    ]
+  },
+  {
+    "name": "Sailor Moonshine",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "sailor_moonshine",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1357",
+    "text": "Recruit — Your next shop is all Pirates.",
+    "goldText": "Get a bonus shop of all Pirates.",
+    "attack": 4,
+    "health": 3,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Santa Claus",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "santa_claus",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1123",
+    "text": "When I survive damage, summon a random Toy.",
+    "goldText": "When I survive damage, summon 2 random Toys.",
+    "attack": 0,
+    "health": 6,
+    "factions": [
+      "Mage",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Satter Fae",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "satter_fae",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4040",
+    "text": "Chance Encounter — Give your shop +1/+1.",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Fae",
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Shanty",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "shanty",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1091",
+    "text": "Hunt — Give your shop +2/+2.",
+    "goldText": "Give your shop +2/+2.",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Pirate",
+      "Fae"
+    ]
+  },
+  {
+    "name": "Sleeping Giant",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "sleeping_giant",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2104",
+    "text": "When I'm attacked, give the characters behind me +1/+1.",
+    "goldText": "When I'm attacked, give the characters behind me +2/+2.",
+    "attack": 0,
+    "health": 9,
+    "factions": [
+      "Giant"
+    ]
+  },
+  {
+    "name": "Snow Ball",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "snow_ball",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1125",
+    "text": "Farewell — I get +1/+1, then improve this buff by +1/+1.",
+    "goldText": "I get +2/+2, then improve this bonus by +2/+2.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Space Ranger Woody",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "space_ranger_woody",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1369",
+    "text": "Recruit — Your next shop is all Toys.",
+    "goldText": "Get a bonus shop of all Toys.",
+    "attack": 3,
+    "health": 5,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Sugar Rush",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "sugar_rush",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3135",
+    "text": "Celestials in your shop have +1/+1 and are also Candy.\nWhen you discover or complete a Boon, sweeten your candy.",
+    "goldText": "Celestials in your shop have +1/+1 and are also Candy.\nWhen you discover or complete a Boon, sweeten your Candy.",
+    "attack": 5,
+    "health": 3,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Symmetree",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "symmetree",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1366",
+    "text": "Each fight, my Attack and Health become the higher of the two.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Tree"
+    ]
+  },
+  {
+    "name": "The Candy Cane Crook",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "the_candy_cane_crook",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2046",
+    "text": "Hunt — Sweeten your Candy.",
+    "goldText": "Sweeten your Candy twice",
+    "attack": 4,
+    "health": 2,
+    "factions": [
+      "Candy",
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "The Huntsman",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "the_huntsman",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2151",
+    "text": "Hunt — +2/+2\nQuest — I hunt 3 times.\nTreasure Find — Huntsman's Axe",
+    "goldText": "+4/+4.\nI hunt 3 times.",
+    "attack": 6,
+    "health": 2,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "The Mad Splatter",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "the_mad_splatter",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4043",
+    "text": "Chance Encounter — Paint a random slot a random color.",
+    "attack": 6,
+    "health": 4,
+    "factions": [
+      "Paintkin",
+      "Villain"
+    ]
+  },
+  {
+    "name": "The Minotaur",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "the_minotaur",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1131",
+    "text": "",
+    "attack": 7,
+    "health": 4,
+    "factions": [
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "The Sour Patch Kid",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "the_sour_patch_kid",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2049",
+    "text": "When I'm attacked, give my slot +1/+1.",
+    "goldText": "When I'm attacked, give my slot +2/+2.\nSupersweet 2",
+    "attack": 3,
+    "health": 1,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Tink",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "tink",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1133",
+    "text": "Support-- When a character in front of me attacks, give it +1/+1.",
+    "goldText": "When a character in front of me attacks, give it +2/+2.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Fae",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Toadie",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "toadie",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1135",
+    "text": "Recruit — Give the next Legendary you recruit +15/+15.",
+    "goldText": "Triple the stats of the next Legendary you recruit.",
+    "attack": 4,
+    "health": 5,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Ugly Duckling",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "ugly_duckling",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2173",
+    "text": "When I survive damage, transform me into a random Rare character.",
+    "attack": 2,
+    "health": 3,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Van GOGogo",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "van_gogogo",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4037",
+    "text": "Quest — Golden another character.\nTreasure Find — Sunflowers",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Artist"
+    ]
+  },
+  {
+    "name": "Whirlidoo",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "whirlidoo",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3102",
+    "text": "When you lose or tie a fight, I get +4/+4.",
+    "goldText": "When you lose or tie a fight, I get +8/+8.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Wink",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "wink",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1381",
+    "text": "Hunt — Buffs from Fae give an additional +1/+1 for the rest of the game.",
+    "goldText": "Buffs from Fae give an additional +2/+2 for the rest of the game.",
+    "attack": 4,
+    "health": 1,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Yellow Mage",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "yellow_mage",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4051",
+    "text": "The first time you paint a slot each turn, I get +1/+1. If you painted it Yellow, improve your buffs from spells by +1 Health.",
+    "attack": 2,
+    "health": 4,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Yellow Paintkin",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "yellow_paintkin",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4039",
+    "text": "Recruit — Paint a slot Yellow.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Paintkin"
+    ]
+  },
+  {
+    "name": "Young Hercules",
+    "type": "character",
+    "rarity": "Uncommon",
+    "key": "young_hercules",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3107",
+    "text": "The first time each turn that you complete a boon, double my stats.\nWhen you complete a quest, discover a Boon as well.",
+    "goldText": "The first time each turn that you complete a Boon, triple my stats.\nWhen you complete a quest, discover a Boon as well.",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Achilles",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "achilles",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1143",
+    "text": "Hunt — Give me and your other characters +4/+2.\nFarewell — Give enemy characters +2/+1.",
+    "goldText": "Give me and your other characters +8/+4.\nGive enemy characters +4/+2.",
+    "attack": 7,
+    "health": 5,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Anne Bunny",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "anne_bunny",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1197",
+    "text": "Hunt —  +6/+6.",
+    "goldText": "+12/+12",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Animal",
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Astro, the Wonder Pup",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "astro_the_wonder_pup",
+    "set": "2",
+    "pool": "token",
+    "cid": "2197",
+    "text": "Buffs on me are doubled.",
+    "goldText": "Buffs on me are tripled.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Baron Bok",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "baron_bok",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3051",
+    "text": "Farewell — Summon a random animal from your starting deck. Give its slot +3/+3.",
+    "goldText": "Summon a random animal from your starting deck. Give its slot +6/+6.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Celestial",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Black Jack",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "black_jack",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2157",
+    "text": "Treasure Hoard\nThe first time I survive damage each fight, get a random Common treasure.",
+    "goldText": "The first time I survive damage each fight, get a random Uncommon treasure.",
+    "attack": 4,
+    "health": 9,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Blackbeard's Parrot",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "blackbeards_parrot",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1145",
+    "text": "Your Pirates have \"Hunt — Give my slot +3/+3.\"",
+    "goldText": "Your Pirates have \"Hunt -- Give my slot +6/+6.\"",
+    "attack": 8,
+    "health": 5,
+    "factions": [
+      "Animal",
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Boon Willow",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "boon_willow",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1146",
+    "text": "Recruit — Give both your back slots +2/+2.\nSupport-- Give my slot buff to the characters in front of me.",
+    "goldText": "Give both your back slots +4/+4.\nGive double my slot buff to the characters in front of me.",
+    "attack": 3,
+    "health": 8,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Calypso",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "calypso",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1200",
+    "text": "When you cast a spell, give your Mages and Pirates +2/+2.",
+    "goldText": "When you cast a spell give your Mages +4/+4, then give your Pirates +4/+4.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Pirate",
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Candy Apple Tree",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "candy_apple_tree",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2043",
+    "text": "Quest — I have 30 or more Health during a fight.\nTreasure Find — Candy Apple",
+    "attack": 9,
+    "health": 9,
+    "factions": [
+      "Candy",
+      "Tree"
+    ]
+  },
+  {
+    "name": "Cherry Bomb",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "cherry_bomb",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4007",
+    "text": "Farewell — Get a Red Paintbrush.",
+    "attack": 8,
+    "health": 4,
+    "factions": [
+      "Paintkin"
+    ]
+  },
+  {
+    "name": "Cherry Topples",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "cherry_topples",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2042",
+    "text": "Recruit — Get a Candy spell.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Combustible Dragon",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "combustible_dragon",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1323",
+    "text": "Treasure Hoard 3\nFarewell — Deal (X) damage to an enemy. (Equal to my Treasure Hoard bonus).",
+    "goldText": "Treasure Hoard 6",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Dragon",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Dash",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "dash",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1151",
+    "text": "Farewell — Give your shop +4 Health.",
+    "goldText": "Give your shop +8 Health.",
+    "attack": 3,
+    "health": 5,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Davy Jones",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "davy_jones",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1152",
+    "text": "Hunt and Farewell — My slot gains +3/+3.",
+    "goldText": "My slot gains +6/+6.\nMy slot gains +6/+6.",
+    "attack": 9,
+    "health": 1,
+    "factions": [
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Destiny",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "destiny",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3070",
+    "text": "Farewell — Summon a Quest character from your starting deck.",
+    "goldText": "Summon 2 Quest character from your starting deck.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Fae",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Don Quixote",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "don_quixote",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1209",
+    "text": "Hunt — Your next shop has a (X) character. (one rarity higher than your shop)",
+    "goldText": "Your next shop has a (X) character. (Two rarities higher than your shop.)",
+    "attack": 3,
+    "health": 2,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Faerie Dragon",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "faerie_dragon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1158",
+    "text": "Treasure Hoard\nSupport-- +1/+1 and Treasure Hoard.",
+    "goldText": "I give the characters in front of me Treasure Hoard and +2/+2.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Fae",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Faerie Godmother",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "faerie_godmother",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1159",
+    "text": "Each fight, give your other characters +1/+1.",
+    "goldText": "Each fight, give your other characters +2/+2.",
+    "attack": 2,
+    "health": 5,
+    "factions": [
+      "Fae",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Fire-Breathing Dragon",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "fire_breathing_dragon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1160",
+    "text": "Ranged\nTreasure Hoard (I have +1/+1 for each treasure you've found)",
+    "goldText": "1 (I have +2/+2 for each treasure you've found.)",
+    "attack": 4,
+    "health": 1,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Frosting Dragon",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "frosting_dragon",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2032",
+    "text": "Treasure Hoard 2\nWhen you get a treasure, sweeten your Candy.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Candy",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Fun Gal",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "fun_gal",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1181",
+    "text": "Recruit — Your next shop is all Fae.",
+    "goldText": "Get a bonus shop of all Fae.",
+    "attack": 5,
+    "health": 7,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Goodie Bag",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "goodie_bag",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1164",
+    "text": "Farewell — Summon a random Common character then give it my stats.",
+    "goldText": "Summon a random Common character then give it double my stats.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Greenbeard",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "greenbeard",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2166",
+    "text": "Hunt — Give me and my neighbors +4/+4.",
+    "goldText": "Give my neighbors +10/+10.",
+    "attack": 7,
+    "health": 5,
+    "factions": [
+      "Pirate",
+      "Fae"
+    ]
+  },
+  {
+    "name": "Gulliver",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "gulliver",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2121",
+    "text": "Recruit — Your next shop is of all Common characters.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Jaws",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "jaws",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2031",
+    "text": "Quest — I see 15 characters attack. Candy counts twice.\nTreasure Find — Jaws' Breaker",
+    "attack": 10,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Jelly Roger",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "jelly_roger",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1170",
+    "text": "Recruit — When you recruit a Pirate (including me), you attack first this fight.",
+    "attack": 8,
+    "health": 10,
+    "factions": [
+      "Pirate",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Jumping Jelly Beans",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "jumping_jelly_beans",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2029",
+    "text": "Farewell — Give me and another one of your characters +1/+1.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Kool Wip",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "kool_wip",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2035",
+    "text": "When you sweeten your Candy, sweeten it an extra time.",
+    "goldText": "When you sweeten your Candy, sweeten it twice.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Leprechaun",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "leprechaun",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4041",
+    "text": "Chance Encounter — Get a random common treasure.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Life Saver",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "life_saver",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2027",
+    "text": "I have +1/+1 for each fight you've lost this game.\nAfter you lose a fight, sweeten your Candy.",
+    "goldText": "I have +2/+2 for each fight you've lost this game.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Mana Potion",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "mana_potion",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4011",
+    "text": "Farewell — Get a Blue Paintbrush.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Paintkin"
+    ]
+  },
+  {
+    "name": "Maverick & Icewing",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "maverick_icewing",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1166",
+    "text": "Treasure Hoard 2\nQuest — Collect 3 Treasures",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Mechanical Dragon",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "mechanical_dragon",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1176",
+    "text": "Treasure Hoard 1\nFarewell — Get a Dragon Claw (Your characters have +1 Attack).",
+    "goldText": "Get 2 Dragon Claws. (Your characters have +1 Attack.)",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Toy",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Mimic",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "mimic",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1179",
+    "text": "When you recruit a Ranged character, I gain Ranged. The same is also true of Sneak and Treasure Hoard.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "All"
+    ]
+  },
+  {
+    "name": "Model Elephant",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "model_elephant",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4019",
+    "text": "Hunt — Give my slot +1/+1.\nWhen my slot is buffed, give it an additional +2/+2.",
+    "attack": 6,
+    "health": 3,
+    "factions": [
+      "Pirate",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Momma Bear",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "momma_bear",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1180",
+    "text": "Each fight, give your Animals' slots +2/+2.",
+    "goldText": "Each fight, give your Animals' slots +4/+4.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Moppet",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "moppet",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1383",
+    "text": "When I survive a fight, get a random spell.",
+    "goldText": "When I survive a fight, get two random spells.",
+    "attack": 4,
+    "health": 10,
+    "factions": [
+      "Toy",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Mortakon",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "mortakon",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1096",
+    "text": "When you summon a character, give it and me +2/+2.\nQuest — Summon characters with 50  total stats. (Attack and Health combined)",
+    "goldText": "When you summon a character, give it and me +4/+4.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Mr. Fox",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "mr_fox",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2123",
+    "text": "Sneak\nHunt — Get a random treasure from your opponent. (That you don't already have)",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Nameless One",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "nameless_one",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1245",
+    "text": "Hunt — +4/+4\nWhen you golden me, transform me into a random Legendary character.",
+    "goldText": "+8/+8.",
+    "attack": 8,
+    "health": 6,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Netherbinder",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "netherbinder",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2081",
+    "text": "Treasure Hoard\nQuest — I see 4 of my neighbors get KO'd.\nTreasure Find — Dragon's Jewel",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Dragon",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Nightshade",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "nightshade",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1201",
+    "text": "Recruit — Buffs from spells give an additional +2/+2 for the rest of the game.",
+    "goldText": "Buffs from spells give an additional +2/+2 for the rest of the game.",
+    "attack": 7,
+    "health": 5,
+    "factions": [
+      "Fae",
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Orion, the Hunter",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "orion_the_hunter",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3085",
+    "text": "Hunt — +4/+8\nWhen I hunt and survive, discover a Boon.",
+    "goldText": "+8/+16\nWhen I hunt, discover a Boon.",
+    "attack": 8,
+    "health": 4,
+    "factions": [
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Orpheus",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "orpheus",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3086",
+    "text": "Each turn, if you have a cracked heart, discover a Boon.",
+    "attack": 10,
+    "health": 7,
+    "factions": [
+      "Bard"
+    ]
+  },
+  {
+    "name": "Party Pinata",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "party_pinata",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1355",
+    "text": "Farewell — Give all your Toys everywhere +2/+2.",
+    "goldText": "Give all your Toys everywhere +2/+2.",
+    "attack": 8,
+    "health": 6,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Punching Bag",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "punching_bag",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1186",
+    "text": "When I take damage, give me +2/+2.",
+    "goldText": "I get +4/+4 whenever I survive damage.",
+    "attack": 3,
+    "health": 13,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Punxsutawney Phil",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "punxsutawney_phil",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1187",
+    "text": "Farewell — If I haven't attacked this fight, summon a copy of me.",
+    "attack": 4,
+    "health": 3,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Rollo",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "rollo",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2099",
+    "text": "When you recruit a Quest character, get a random treasure of their rarity.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Sabrina",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "sabrina",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1354",
+    "text": "Recruit — Your next shop is all Mages.",
+    "goldText": "Get a bonus shop of all Mages.",
+    "attack": 7,
+    "health": 6,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Scale Singers",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "scale_singers",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3090",
+    "text": "Treasure Hoard 1\nProphecy — Have 5 Mages during a fight.\nWhen I complete my prophecy, become Thraxus.",
+    "attack": 9,
+    "health": 9,
+    "factions": [
+      "Dragon",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Shipshape Inspector",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "shipshape_inspector",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1317",
+    "text": "Quest — Have each of your slots buffed.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Pirate",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Shoemaker's Elves",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "shoemakers_elves",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2195",
+    "text": "Recruit — Improve the buffs on the next treasure you discover by +1/+1.",
+    "goldText": "Improve the buffs on the next treasure you find by +2/+2.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Sinbad",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "sinbad",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1387",
+    "text": "When you silver me, discover a Rare treasure. When you golden me, discover an Epic treasure instead.",
+    "attack": 8,
+    "health": 7,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Slash",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "slash",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1192",
+    "text": "Farewell — Give your shop +4 Attack.",
+    "goldText": "Give your shop +8 Attack.",
+    "attack": 5,
+    "health": 3,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Splat",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "splat",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4032",
+    "text": "Farewell — Get a Yellow Paintbrush.",
+    "attack": 5,
+    "health": 9,
+    "factions": [
+      "Paintkin"
+    ]
+  },
+  {
+    "name": "Spoiled Prince",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "spoiled_prince",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1193",
+    "text": "When you get a new Toy, I get +5/+5.",
+    "goldText": "When you get a new Toy, I get +8/+8.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Sugarplum Faerie",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "sugarplum_faerie",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1194",
+    "text": "Recruit — When you recruit a Fae (including me), give your shop +1/+1 for the rest of the game.",
+    "goldText": "When you recruit a Fae (including me), give your shop +2/+2 for the rest of the game.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Candy",
+      "Fae"
+    ]
+  },
+  {
+    "name": "Sunflare Glider",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "sunflare_glider",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2110",
+    "text": "Treasure Hoard 1\nWhenever you discover a treasure, get an additional Dragon's Claw.",
+    "goldText": "Treasure Hoard 2\nWhenever you discover a treasure, get two additional Dragon's Claws.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Dragon",
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Tantalus",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "tantalus",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3096",
+    "text": "Each turn, give Villains and Celestials in your shop +3/+3 and an additional +3/+3 for each Boon you have.",
+    "goldText": "Each turn, give Villains and Celestials in your shop +6/+6 and an additional +6/+6 for each Boon you have.",
+    "attack": 9,
+    "health": 5,
+    "factions": [
+      "Celestial",
+      "Villain"
+    ]
+  },
+  {
+    "name": "The Butcher",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "the_butcher",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2154",
+    "text": "Quest — Have five Rare characters on your board during a fight.\nTreasure Find — Butcher's Cleaver",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "The Dreamer",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "the_dreamer",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1199",
+    "text": "When I attack, I deal a million bonus damage.",
+    "goldText": "When I attack, I deal a billion bonus damage.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Celestial",
+      "Hero"
+    ]
+  },
+  {
+    "name": "The Giving Tree",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "the_giving_tree",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1342",
+    "text": "Farewell — I don't return, but my roots remain (as a slot buff).",
+    "goldText": "I don't return, but my double roots remain (as a slot buff).",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Tree",
+      "Hero"
+    ]
+  },
+  {
+    "name": "The Three Chef-Keteers",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "the_three_chef_keteers",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2174",
+    "text": "Recruit — Give your characters +1/+1. Double the bonus to Candy characters.",
+    "attack": 3,
+    "health": 9,
+    "factions": [
+      "Candy",
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Tin Man",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "tin_man",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1203",
+    "text": "Quest — Have a heart. (Exactly one full heart.)",
+    "attack": 5,
+    "health": 8,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Tsarmina, the Tyrant",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "tsarmina_the_tyrant",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1198",
+    "text": "Support-- The characters in front of me have \"Hunt — Give my slot +4/+4.\"\nQuest-- I see you successfully Hunt 4 times.",
+    "goldText": "The characters in front of me have \"Hunt -- Give my slot +8/+8.\"",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Two Blind Mice",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "two_blind_mice",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1207",
+    "text": "Buffs on me are doubled.",
+    "goldText": "Buffs on me are tripled.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Two-Headed Wizard",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "two_headed_wizard",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1208",
+    "text": "Recruit — The next  time you cast a spell, cast it again.\nWhen you cast a spell, I get +2/+2.",
+    "goldText": "The next two times you cast a spell, cast it again.\nWhen you cast a spell, I get +4/+4.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Varnish",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "varnish",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4049",
+    "text": "Double the effect of your painted slots.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Weensy",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "weensy",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2111",
+    "text": "Quest — Trigger three Recruit abilities.\nTreasure Find — Teensy Spellbook",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Fae",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Will-O'-the-Wisp",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "will_o_the_wisp",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2196",
+    "text": "Farewell — The next character you recruit has +4/+4.",
+    "goldText": "The next character you recruit has +8/+8.",
+    "attack": 7,
+    "health": 5,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Wishing Fish",
+    "type": "character",
+    "rarity": "Rare",
+    "key": "wishing_fish",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3103",
+    "text": "Cast three spells directly on me to get a bonus shop of Golden characters from your starting deck.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Celestial",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Anhelica",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "anhelica",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2158",
+    "text": "Hunt — Give my stats to the next character you recruit.",
+    "goldText": "Give double my stats to the next character you recruit.",
+    "attack": 8,
+    "health": 5,
+    "factions": [
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Astral Navigator",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "astral_navigator",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3005",
+    "text": "Farewell — Summon the smallest character from your starting deck and give it +10/+10.",
+    "goldText": "Summon the smallest character from your starting deck and give it +20/+20.",
+    "attack": 8,
+    "health": 6,
+    "factions": [
+      "Celestial",
+      "Animal",
+      "Pirate"
+    ]
+  },
+  {
+    "name": "BaBaBanana",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "bababanana",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4002",
+    "text": "Yellow — When I'm attacked, give your characters +5/+10",
+    "attack": 5,
+    "health": 15,
+    "factions": [
+      "Animal",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Black Hole",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "black_hole",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1212",
+    "text": "Farewell — KO the character that KO'd me.",
+    "attack": 0,
+    "health": 1,
+    "factions": [
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Bronze Goose",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "bronze_goose",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1215",
+    "text": "The second copy of me you find is Golden.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Caramel",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "caramel",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2018",
+    "text": "Recruit — Make a random character Candy and give it +1/+1.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Candy",
+      "Fae"
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "charlotte",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1321",
+    "text": "Farewell — Give me +8/+8 for each character supporting me. Then give those characters this buff as well.",
+    "goldText": "Give me +16/+16 for each character supporting me. Then give those characters this buff as well.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Fae",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Cheshire Cat",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "cheshire_cat",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1216",
+    "text": "Farewell — Give your Animals +6/+6.",
+    "goldText": "Give your Animals +12/+12.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Chubby Bunny",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "chubby_bunny",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2078",
+    "text": "When I attack, I get +1/+1 and deal 1 damage to each enemy.",
+    "attack": 10,
+    "health": 20,
+    "factions": [
+      "Candy",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Crystal",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "crystal",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2159",
+    "text": "Quest — Have three Mages.\nTreasure Find — Crystal's Ball",
+    "attack": 9,
+    "health": 6,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Daisy Jones",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "daisy_jones",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1253",
+    "text": "Hunt — +2/+2 and trigger the Farewell abilities of the characters behind me.",
+    "goldText": "+4/+4 and trigger the Farewell abilities of the characters behind me.",
+    "attack": 12,
+    "health": 8,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Ditto",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "ditto",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3009",
+    "text": "Treasure Hoard 2\nEach turn, clone one of your common treasures. (X)",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Toy",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Doopity Doo",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "doopity_doo",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2127",
+    "text": "Each fight, give your characters +1/+1.",
+    "attack": 9,
+    "health": 9,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Dotty Daughter",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "dotty_daughter",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4010",
+    "text": "Blue — When one of your slots gets a buff, double it.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Animal",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Eros",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "eros",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3020",
+    "text": "Prophecy — Your characters deal 800 damage.\nWhen I complete my prophecy, become Ares.",
+    "goldText": "Your characters deal 800 damage. When I complete my prophecy become Ares.",
+    "attack": 7,
+    "health": 6,
+    "factions": [
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Fenrir",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "fenrir",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3012",
+    "text": "Hunt — Golden the left most character in your next shop.",
+    "attack": 9,
+    "health": 3,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Frankenstein",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "frankenstein",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1224",
+    "text": "When ANY character is KO'd, I get +2/+2.",
+    "goldText": "When ANY character is KO'd, I get +4/+4.",
+    "attack": 2,
+    "health": 2,
+    "factions": [
+      "Toy",
+      "Villain"
+    ]
+  },
+  {
+    "name": "G-Man, Champion of Eternity",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "g_man_champion_of_eternity",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1235",
+    "text": "When I'm attacked, I gain attack equal to the attacker's current health.",
+    "goldText": "When I'm attacked, I gain attack equal to double the attacker's current health.",
+    "attack": 1,
+    "health": 20,
+    "factions": [
+      "Toy",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Genie of the Lamp",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "genie_of_the_lamp",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1226",
+    "text": "Every other spell you cast directly on me, double my stats.",
+    "goldText": "Every third spell you cast directly on me, triple my stats.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Ghoulade Man",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "ghoulade_man",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2021",
+    "text": "Farewell — I get +1/+1 for each of your Candy characters that were KO'd this fight.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Innkeeper",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "innkeeper",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1231",
+    "text": "Support-- +5/+5\nWhen one of your characters Hunts, improve my support by +5/+5.",
+    "goldText": "+10/+10.\nWhen one of your characters Hunts, improve my support by +10/+10.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Ironcast Dragon",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "ironcast_dragon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1232",
+    "text": "Treasure Hoard\nWhen you cast a spell directly on me, get a random common treasure.",
+    "goldText": "When you cast a spell directly on me, get a random Uncommon treasure.",
+    "attack": 12,
+    "health": 12,
+    "factions": [
+      "Dragon",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Jasmine Dragon",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "jasmine_dragon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1229",
+    "text": "Treasure Hoard\nWhen you collect your first treasure each turn, you get a bonus shop.",
+    "goldText": "When you collect your first Treasure each turn, you get two bonus shops.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Kagutsuchi",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "kagutsuchi",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3021",
+    "text": "Prophecy — I see 30 characters get KO'd.\nWhen I complete my prophecy, become Izanami.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Keeb",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "keeb",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2028",
+    "text": "Farewell — Summon a 1/1 Cookie Golem and give it +1/+1. Then sweeten your Candy.",
+    "attack": 3,
+    "health": 4,
+    "factions": [
+      "Candy",
+      "Toy",
+      "Fae"
+    ]
+  },
+  {
+    "name": "Knight of the Holy Cane",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "knight_of_the_holy_cane",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2016",
+    "text": "Quest — Sweeten your Candy to 10.\nWhen you get your first treasure each turn, get a bonus Candy spell. (X)",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Candy",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Leapfrog",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "leapfrog",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2073",
+    "text": "When I replace a character, I gain their stats.\nWhen a character replaces me, they gain my stats.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Magnificent",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "magnificent",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1234",
+    "text": "Treasure Hoard\nWhen you recruit a Villain give it and me Treasure Hoard.",
+    "goldText": "When you recruit a Villain give it and me Treasure Hoard 2.",
+    "attack": 6,
+    "health": 8,
+    "factions": [
+      "Dragon",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Medea in a Tavern",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "medea_in_a_tavern",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3127",
+    "text": "When you cast your second spell in a turn, discover a Boon.",
+    "goldText": "When you cast your second spell in a turn, discover a Boon.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Villain",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Medusa",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "medusa",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1286",
+    "text": "Cursed. (I cannot be buffed).\nWhen I attack a character, transform it into a 3/3 cursed Statue.",
+    "attack": 3,
+    "health": 3,
+    "factions": [
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Mighty Mouse",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "mighty_mouse",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1238",
+    "text": "Animals and Heroes in your shop have +3/+3. After you recruit one, improve this ability by +3/+3.",
+    "goldText": "Animals and Heroes in your shop have +8/+8. After you recruit one, improve this ability by +4/+4.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Mirror Mage",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "mirror_mage",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1227",
+    "text": "When a spell is cast directly on me, cast it again on another random character.\nQuest — Cast 3 spells on me.",
+    "goldText": "When a spell is cast on me, cast it again on two other random characters.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Mockingbird",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "mockingbird",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1240",
+    "text": "Farewell —  Summon a random Animal and give it +6/+6 for each of your other Animals that were KO'd this fight.",
+    "goldText": "Summon 2 random Animals and give them +6/+6 for each of your other Animals that were KO'd this fight.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Animal",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Mouse Trap",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "mouse_trap",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2170",
+    "text": "When I'm attacked, reduce my attacker's Health to 1.",
+    "attack": 0,
+    "health": 12,
+    "factions": [
+      "Toy",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Mustardseed",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "mustardseed",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1444",
+    "text": "When I'm buffed, give your other characters +1/+1.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Mysterio, the Great and Powerful",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "mysterio_the_great_and_powerful",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1340",
+    "text": "Recruit — Transform your Bronze characters into characters of your shop's rarity. Give them +5/+5.",
+    "goldText": "Transform your Bronze characters into characters one rarity higher than your shop.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Ninja-in-Training",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "ninja_in_training",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1242",
+    "text": "Sneak, Ranged",
+    "attack": 7,
+    "health": 4,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Ogre Magi",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "ogre_magi",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1243",
+    "text": "Hunt — Cast a spell at the start of your next turn.",
+    "goldText": "Cast 2 spells at the start of your next turn.",
+    "attack": 12,
+    "health": 4,
+    "factions": [
+      "Pirate",
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Owlabaster",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "owlabaster",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4048",
+    "text": "Chance Encounter — Improve your buffs from spells by +2/+2.\nRecruit — Cast Abra Cadabra.",
+    "attack": 9,
+    "health": 7,
+    "factions": [
+      "Animal",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Papa Bear",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "papa_bear",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2194",
+    "text": "Each fight, give your Animals' slots +4/+4.",
+    "goldText": "Each fight, give your Animals' slots +8/+8.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Pisces",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "pisces",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1372",
+    "text": "Recruit — Buffs from Fae give an additional +3/+3 for the rest of the game.",
+    "goldText": "Buffs from Fae give an additional +6/+6 for the rest of the game.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Celestial",
+      "Hero",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Pixie",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "pixie",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2024",
+    "text": "Supersweet 2\nSupport-- Each fight, give the characters in front of me +2/+2.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Candy",
+      "Fae"
+    ]
+  },
+  {
+    "name": "Queen of Hearts",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "queen_of_hearts",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1249",
+    "text": "I have +8/+8 for each heart you're missing.",
+    "goldText": "I have +16/+16 for each heart you're missing.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Robbin'",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "robbin",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1250",
+    "text": "Ranged\nWhen you recruit a Pirate, both of us get +10 Attack.",
+    "goldText": "When you recruit a Pirate, both of us get +20 Attack.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Pirate",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Rudolph the Red",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "rudolph_the_red",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1417",
+    "text": "Your first shop each turn is all spells instead of characters.\nYour buffs from spells give an additional +5/+5.",
+    "goldText": "Get a bonus shop of all spells each turn.",
+    "attack": 12,
+    "health": 12,
+    "factions": [
+      "Animal",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Scarecrow",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "scarecrow",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1252",
+    "text": "Quest — Pick 7 cards from the shop.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Scarrr",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "scarrr",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1251",
+    "text": "Hunt — +4/+4.\nWhen any of your characters hunt, give Villains in your shop +4/+4.",
+    "goldText": "+8/+8.\nWhen any of your characters hunt, give Villains in your shop +8/+8.",
+    "attack": 10,
+    "health": 6,
+    "factions": [
+      "Animal",
+      "Villain",
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Selphiea",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "selphiea",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4001",
+    "text": "Quest — I see you paint a slot twice.\nTreasure Find — Self Portrait",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Artist"
+    ]
+  },
+  {
+    "name": "Singe",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "singe",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4012",
+    "text": "Red Hunt — Give each of your characters +10/+5",
+    "attack": 15,
+    "health": 5,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Sir Francis Drake",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "sir_francis_drake",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1394",
+    "text": "Treasure Hoard 2\nHunt — Get a random Common treasure. (X)",
+    "goldText": "Get 2 random Common treasures, then improve this ability.",
+    "attack": 10,
+    "health": 8,
+    "factions": [
+      "Pirate",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Smug",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "smug",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1415",
+    "text": "Treasure Hoard 3\nWhen you discover a treasure, the left one is always Legendary.",
+    "goldText": "When you discover a treasure, your choices are always Legendary.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Dragon",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Snapping Hydra",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "snapping_hydra",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1416",
+    "text": "I also damage one of the characters in the slots behind where I attack.\nFarewell — Double my attack",
+    "goldText": "I also damage one of the characters in the slots behind where I attack.\nTriple my attack.",
+    "attack": 6,
+    "health": 1,
+    "factions": [
+      "Dragon",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Sparkles",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "sparkles",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1223",
+    "text": "Each fight, give your characters +3 Attack.",
+    "goldText": "Each fight, give all your characters +6 Attack.",
+    "attack": 9,
+    "health": 9,
+    "factions": [
+      "Fae",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Starry Knight",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "starry_knight",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4031",
+    "text": "Quest — I KO two enemies in a single fight.\nEach fight, I get +5/+5. When I KO an enemy improve this ability by +1/+1.",
+    "attack": 12,
+    "health": 12,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Stinky",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "stinky",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1255",
+    "text": "After I'm attacked, deal that much damage to a random enemy.",
+    "goldText": "After I'm attacked, deal double that much damage to a random enemy.",
+    "attack": 0,
+    "health": 25,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Sunflaerie",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "sunflaerie",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1256",
+    "text": "Support-- +7/+7",
+    "goldText": "+14/+14.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Ten Million Fireflies",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "ten_million_fireflies",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1298",
+    "text": "Recruit — When you recruit me or another Fae give all of your Fae EVERYWHERE +3/+3.",
+    "goldText": "When you recruit me or another Fae give all of your Fae EVERYWHERE +6/+6.",
+    "attack": 12,
+    "health": 12,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Thunder of Dragons",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "thunder_of_dragons",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1368",
+    "text": "Treasure Hoard 2\nRecruit — Your next shop is all Dragons.",
+    "goldText": "Get a bonus shop of all Dragons.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Twilight Sprinkles",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "twilight_sprinkles",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2023",
+    "text": "Hunt — +1/+1 and cast a Candy spell at the start of your next turn.",
+    "goldText": "Supersweet 2\n+2/+2 and cast 2 Candy spells at the start of your next turn",
+    "attack": 7,
+    "health": 5,
+    "factions": [
+      "Candy",
+      "Animal",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Two-Headed Dragon",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "two_headed_dragon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1261",
+    "text": "Treasure Hoard 2\nWhen you Golden me, keep an extra treasure.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Dragon",
+      "Hero",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Uther Pendragon",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "uther_pendragon",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2116",
+    "text": "When you Golden me, discover a Secret Rare treasure.",
+    "attack": 10,
+    "health": 14,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Viscount Chocolat",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "viscount_chocolat",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2004",
+    "text": "Supersweet 3\nEach fight, steal +3/+3 from the enemy across from me.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Candy",
+      "Vampire",
+      "Villain"
+    ]
+  },
+  {
+    "name": "White Rabbit",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "white_rabbit",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4047",
+    "text": "Your 'Each Fight' abilities happen  an extra times.",
+    "attack": 7,
+    "health": 7,
+    "factions": [
+      "Animal",
+      "Toy"
+    ]
+  },
+  {
+    "name": "White Whale",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "white_whale",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1239",
+    "text": "Farewell — Your opponent gets a Common treasure.",
+    "goldText": "You and your opponent both find a Common treasure.",
+    "attack": 18,
+    "health": 18,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Wicked Witch",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "wicked_witch",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1263",
+    "text": "Ranged\nAfter I attack, reduce that enemy and the ones next to it to 1 Health.",
+    "attack": 1,
+    "health": 13,
+    "factions": [
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Yggdrasil Sapling",
+    "type": "character",
+    "rarity": "Epic",
+    "key": "yggdrasil_sapling",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3000",
+    "text": "Farewell — Your next character to attack gets +15/+15.",
+    "goldText": "Your next character to attack gets +30/+30",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Tree"
+    ]
+  },
+  {
+    "name": "Anubis",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "anubis",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1266",
+    "text": "Farewell — Summon all your KO'd characters that have less Attack than me.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Apophis",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "apophis",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3052",
+    "text": "Hunt — +30/+30 and get a random treasure of my prey's rarity.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Celestial",
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Bahamut",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "bahamut",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1268",
+    "text": "Treasure Hoard 5",
+    "attack": 25,
+    "health": 25,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Barrel of Monkeys",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "barrel_of_monkeys",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1211",
+    "text": "Farewell — Summon three 1/1  Monkeys",
+    "goldText": "Fill your board with 2/2 Monkeys",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Animal",
+      "Pirate",
+      "Toy"
+    ]
+  },
+  {
+    "name": "Blackbeard",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "blackbeard",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1270",
+    "text": "I have +5/+5 for each time you've Hunted this game.\nWhen I attack and KO an enemy, trigger your other character's Hunts.",
+    "goldText": "I have +8/+8 for each time your characters have successfully Hunted.\nTrigger your other character's Hunt abilities twice.",
+    "attack": 4,
+    "health": 4,
+    "factions": [
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Brick Monster",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "brick_monster",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1259",
+    "text": "I have +6/+6 for each Toy you have recruited this game.\nQuest — I have 100 Attack or Health during a fight.",
+    "goldText": "I have +12/+12 for each Toy you have recruited this game.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Captain Hook",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "captain_hook",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1273",
+    "text": "Hunt — +20 Attack and summon the KO'd character.",
+    "goldText": "+40 Attack and summon the KO'd character.",
+    "attack": 20,
+    "health": 15,
+    "factions": [
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Chip on the Ship",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "chip_on_the_ship",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1267",
+    "text": "Each fight, I break your Toys that are in front of me.\nFarewell — Summon the Toys I broke. Give their slots +10/+10.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Fae",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Chubby Cheep",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "chubby_cheep",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2055",
+    "text": "Supersweet 3\nEach fight, give my slot +3/+3.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Candy",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Conan, the Galactic Champion",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "conan_the_galactic_champion",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1274",
+    "text": "Quest — Deal 200 damage.",
+    "attack": 25,
+    "health": 25,
+    "factions": [
+      "Celestial",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Cotton Candy Dandy",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "cotton_candy_dandy",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2006",
+    "text": "All your spells are Candy. When you cast ANY spell, sweeten your candy.",
+    "attack": 14,
+    "health": 14,
+    "factions": [
+      "Candy",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Crab Dragoon",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "crab_dragoon",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3068",
+    "text": "Treasure Hoard 3\nFarewell — Get a random treasure, then give one of your other characters Treasure Hoard.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Animal",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Crimson, Stalwart Hero",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "crimson_stalwart_hero",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4009",
+    "text": "At the start of the game, paint a random slot Red.\nQuest — Have 5 Red slots.",
+    "attack": 25,
+    "health": 25,
+    "factions": [
+      "Pirate",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Daedalus",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "daedalus",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1324",
+    "text": "Recruit — Give each of your slots +5/+5.\nSupport-- Double the slot buffs in front of me.",
+    "goldText": "Give each of your slots +10/+10.\nTriple the slot buffs in front of me.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Elm Minster",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "elm_minster",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1277",
+    "text": "Quest — Cast 4 spells in a single turn. (Shop phase + fight)\nYour buffs from spells give an additional +10/+10 to Mages.",
+    "goldText": "Your buffs from spells give an extra +10/+10.",
+    "attack": 50,
+    "health": 10,
+    "factions": [
+      "Tree",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Faerie Godfather",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "faerie_godfather",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1408",
+    "text": "Each fight and whenever you cast a spell directly on me, give me and your lowest rarity characters +15/+15.",
+    "goldText": "Each fight, give your lowest rarity characters +30/+30.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Fae",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Faerie Queen",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "faerie_queen",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1222",
+    "text": "I have +6/+6 for each Fae you have recruited this game.\nQuest — I have 100 Attack or Health during a fight.",
+    "goldText": "I have +12/+12 for each Fae you have recruited this game.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Flopsy",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "flopsy",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1420",
+    "text": "Treasure Hoard 4\nThe leftmost character in your shop gets my stats.",
+    "goldText": "The leftmost character in your shop gets double my stats.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Fae",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Frankenstein's Doctor",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "frankensteins_doctor",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1279",
+    "text": "Your characters have \"Farewell — Give my slot +6/+6\".",
+    "goldText": "Your characters have \"Farewell -- Give my slot +12/+12.\"",
+    "attack": 18,
+    "health": 18,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Friar Tuck",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "friar_tuck",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2164",
+    "text": "When you cast your second spell each turn, get a bonus shop.",
+    "goldText": "When you play your first spell each turn, get a bonus shop.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Animal",
+      "Mage"
+    ]
+  },
+  {
+    "name": "Gingerbread Dragon",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "gingerbread_dragon",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4023",
+    "text": "Your painted slots are improved by your Sweetness.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Candy",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Goldilocks",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "goldilocks",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1401",
+    "text": "When you buff another slot, buff my slot by that much as well.",
+    "goldText": "When you buff another slot, buff my slot by twice that much as well.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Guardian of the Grove",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "guardian_of_the_grove",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1281",
+    "text": "When one of your animals attacks, give each of your slots +5/+5.",
+    "goldText": "When one of your Animals attacks, give all of your Animals +10/+10.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Celestial",
+      "Animal"
+    ]
+  },
+  {
+    "name": "Guinevere",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "guinevere",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1329",
+    "text": "I have +20/+20 for each Quest you've completed.\nQuest — I have 100 Attack or Health during a fight.",
+    "goldText": "I have +40/+40 for each Quest you've completed.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Gummy Wyrm",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "gummy_wyrm",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2011",
+    "text": "Treasure Hoard 3\nTreasures you find become Candy. (They benefit from the sweetness of your Candy)",
+    "goldText": "Treasure Hoard 6",
+    "attack": 9,
+    "health": 9,
+    "factions": [
+      "Candy",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Halja",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "halja",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3075",
+    "text": "Recruit — Your spells give an additional +3/+3 for each Mage you have. (X)",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Hephaestus",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "hephaestus",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1330",
+    "text": "Treasure Hoard 3\nWhen I appear in the shop, Golden me if you have a Common, Uncommon, and Rare treasure.",
+    "attack": 40,
+    "health": 40,
+    "factions": [
+      "Celestial",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Hercules",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "hercules",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1283",
+    "text": "Hunt — +10/+10, then double this buff.",
+    "goldText": "+20/+20, then triple this buff.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Jabberwocky",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "jabberwocky",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2192",
+    "text": "Recruit, Hunt, and Farewell — I get +10/+10.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "All"
+    ]
+  },
+  {
+    "name": "Jelly-ton",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "jelly_ton",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2082",
+    "text": "I have +1/+1 for each of your Candy characters that were KO'd this game.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Candy",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Licorice",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "licorice",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2112",
+    "text": "Supersweet 2\nRanged\nHunt — Give your characters +2/+2.",
+    "attack": 22,
+    "health": 12,
+    "factions": [
+      "Candy",
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Long Johns Silver",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "long_johns_silver",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1284",
+    "text": "Recruit — Bronze characters become Silver. (Even me!)",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Pirate",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Luck Dragon",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "luck_dragon",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4058",
+    "text": "Treasure Hoard 2\nChance Encounter — Get a random treasure. Repeat this for each of your Gold characters.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Celestial",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Marigold, Eternal Student",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "marigold_eternal_student",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4018",
+    "text": "At the start of the game, paint a random slot Yellow.\nQuest — Have 5 Yellow slots.",
+    "attack": 25,
+    "health": 25,
+    "factions": [
+      "Mage",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Mephisto",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "mephisto",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1332",
+    "text": "Support-- +6/+6\nWhen a character in front of me is KO'd, it is gone for good and I steal its Attack and Health.",
+    "goldText": "+12/+12.\nWhen a character in front of me is KO'd, it is gone for good and I double steal its Attack and Health.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Celestial",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Merlin",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "merlin",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1287",
+    "text": "When you cast a spell, give your characters +5/+5.",
+    "goldText": "When you cast a spell, give your characters +10/+10.",
+    "attack": 7,
+    "health": 9,
+    "factions": [
+      "Mage",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Mischief",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "mischief",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3034",
+    "text": "Farewell — KO the largest enemy character and the smallest friendly character.",
+    "attack": 0,
+    "health": 1,
+    "factions": [
+      "Celestial",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Miss Muffet",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "miss_muffet",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2010",
+    "text": "Farewell — Summon Itsy Bitsy Spider and give its slot +20/+20.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Monstro",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "monstro",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1409",
+    "text": "I have +6/+6 for each Animal you have recruited this game.\nQuest — I have 100 Attack or Health during a fight.",
+    "goldText": "I have +12/+12 for each Animal you have recruited this game.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Moonshadow",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "moonshadow",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1333",
+    "text": "Ranged\nSupport-- +10/+10\nYour support characters have Ranged.",
+    "goldText": "+20/+20. Your support characters have ranged.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Nemean Lion",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "nemean_lion",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3083",
+    "text": "I have +10/+10 for each character you've Goldened this game.\nI don't take damage from the first hit each fight.",
+    "goldText": "I have +20/+20 for each character you've Goldened this game.",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Nessie",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "nessie",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1289",
+    "text": "",
+    "attack": 50,
+    "health": 50,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Oberon",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "oberon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1291",
+    "text": "Support-- Each fight, give characters in front of me +20 Attack.",
+    "goldText": "Each fight, give characters in front of me +40 Attack.",
+    "attack": 20,
+    "health": 10,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Oracle of Fortunes",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "oracle_of_fortunes",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2102",
+    "text": "Treasure Hoard 2\nWhen I'm attacked, get a treasure of the attacker's rarity.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Celestial",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Perseus",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "perseus",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3128",
+    "text": "I have +30/+30 for each Boon you've completed.\nQuest: I have at least 100 Attack or Health during a fight.",
+    "attack": 30,
+    "health": 30,
+    "factions": [
+      "Pirate",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Pirate King",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "pirate_king",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1410",
+    "text": "I have +6/+6 for each Pirate you have recruited this game.\nQuest — I have 100 Attack or Health during a fight.",
+    "goldText": "I have +12/+12 for each Pirate you have recruited this game.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Pirate Prince",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "pirate_prince",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1411",
+    "text": "Recruit — Get two random Common treasures.\nEach fight, give your Pirates everywhere Treasure Hoard 1.",
+    "goldText": "Get four random Common treasures.\nEach fight, give your Pirates everywhere Treasure Hoard 2.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Pirate",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Prospero",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "prospero",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1412",
+    "text": "I have +6/+6 for each Mage you have recruited this game.\nQuest — I have 100 Attack or Health during a fight.",
+    "goldText": "I have +12/+12 for each Mage you have recruited this game.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Mage"
+    ]
+  },
+  {
+    "name": "Ptah",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "ptah",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3025",
+    "text": "Treasure Hoard 3\nRecruit — Get a copy of the last treasure you discovered. (X)",
+    "attack": 10,
+    "health": 10,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Rocky, the Roller",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "rocky_the_roller",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4029",
+    "text": "At the start of the game, paint a random slot Blue.\nQuest — Have 5 Blue slots.",
+    "attack": 25,
+    "health": 25,
+    "factions": [
+      "Giant",
+      "Hero"
+    ]
+  },
+  {
+    "name": "Scale-a-tor",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "scale_a_tor",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1339",
+    "text": "I have +6/+6 for each Dragon you have recruited this game.\nQuest — I have 100 Attack or Health during a fight.",
+    "goldText": "I have +12/+12 for each Dragon you have recruited this game.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Shadowmancer",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "shadowmancer",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2171",
+    "text": "Hunt — The next  time you cast a spell, cast it again.",
+    "goldText": "The next 2 times you cast a spell, cast it again.",
+    "attack": 15,
+    "health": 6,
+    "factions": [
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Sigrun, Valkyrie Queen",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "sigrun_valkyrie_queen",
+    "set": "3",
+    "pool": "collectible",
+    "cid": "3091",
+    "text": "Farewell — I get +30/+30.\nQuest — I have 90 Attack or Health during a fight.\nWhen you complete my quest, discover a Boon as well.",
+    "attack": 30,
+    "health": 30,
+    "factions": [
+      "Hero",
+      "Celestial"
+    ]
+  },
+  {
+    "name": "Sorcerer's Mop",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "sorcerers_mop",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1395",
+    "text": "When you summon another Toy, give it my Attack and Health.",
+    "goldText": "When you summon another Toy, give it double my attack and health.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Mage",
+      "Toy"
+    ]
+  },
+  {
+    "name": "The Blue Faerie",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "the_blue_faerie",
+    "set": "2",
+    "pool": "collectible",
+    "cid": "2182",
+    "text": "Support: +20/+20\nWhenever you summon a character in front of me, increase my support buff by +20/+20.",
+    "goldText": "+40/+40\nWhenever you summon a character in front of me, increase my support buff by +40/+40.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Toy",
+      "Fae"
+    ]
+  },
+  {
+    "name": "The Burninator",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "the_burninator",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1349",
+    "text": "Treasure Hoard 4\nWhen you discover a treasure, you get to keep all 3 of them.",
+    "attack": 6,
+    "health": 6,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "The Green Gecko",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "the_green_gecko",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4013",
+    "text": "Blue — Treasures you discover are one rarity higher.\nYellow — Treasures you discover are one rarity higher.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "The Kraken",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "the_kraken",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1299",
+    "text": "Hunt — Give all three front row slots +8/+8.",
+    "goldText": "Give all three front row slots +16/+16",
+    "attack": 24,
+    "health": 24,
+    "factions": [
+      "Pirate",
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "The Orange Orangutan",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "the_orange_orangutan",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4021",
+    "text": "Yellow — Each fight, give your slots +10 Attack.\nRed — Each fight, give your slots +10 Health.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "The Purple Peacock",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "the_purple_peacock",
+    "set": "4",
+    "pool": "collectible",
+    "cid": "4024",
+    "text": "Red — When you play a spell, increase your buffs from spells by +3 Attack\nBlue — When you play a spell directly on me, play it again.",
+    "attack": 20,
+    "health": 12,
+    "factions": [
+      "Animal",
+      "Mage"
+    ]
+  },
+  {
+    "name": "The Rat King",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "the_rat_king",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1418",
+    "text": "Sneak\nHunt — Give my slot +25/+25.",
+    "goldText": "Give my slot +50/+50.",
+    "attack": 30,
+    "health": 15,
+    "factions": [
+      "Animal",
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Titania",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "titania",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1301",
+    "text": "Support-- Each fight, give characters in front of me +20 Health.",
+    "goldText": "Each fight, give characters in front of me +40 Health.",
+    "attack": 10,
+    "health": 20,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Weird Beard",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "weird_beard",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1421",
+    "text": "Recruit — Get (X) random treasures. (one for each Pirate you've Goldened this game)",
+    "goldText": "Get (X) random treasures (two for each Pirate you've Goldened this game).",
+    "attack": 29,
+    "health": 23,
+    "factions": [
+      "Pirate"
+    ]
+  },
+  {
+    "name": "Wizard of Oz",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "wizard_of_oz",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1303",
+    "text": "Support-- (X) (+3/+3 for each spell you've cast this game)",
+    "goldText": "(X) (+4/+4 for each spell you've cast this game.)",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Mage",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Wormscale Tinkerer",
+    "type": "character",
+    "rarity": "Legendary",
+    "key": "wormscale_tinkerer",
+    "set": "1",
+    "pool": "collectible",
+    "cid": "1422",
+    "text": "Treasure Hoard\nEach fight, improve your treasure buffs by +1/+1.",
+    "goldText": "Each fight, improve your treasure buffs by +2/+2.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Fae",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Battered Star Galactica",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "battered_star_galactica",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1373",
+    "text": "Quest — I take 200 damage.",
+    "attack": 50,
+    "health": 50,
+    "factions": [
+      "Toy"
+    ]
+  },
+  {
+    "name": "Doppelganger",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "doppelganger",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1306",
+    "text": "Farewell — Summon a clone of the enemy that KO'd me.",
+    "goldText": "Clone the enemy that KO'd me twice.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "All"
+    ]
+  },
+  {
+    "name": "Draconic Decorator",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "draconic_decorator",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1442",
+    "text": "Treasure Hoard 8\nYour Treasures give an extra +1/+1 for each Treasure you have.",
+    "attack": 8,
+    "health": 8,
+    "factions": [
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Drevena the Devourer",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "drevena_the_devourer",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1413",
+    "text": "When you pick a character from the shop, I gain the stats of the two you didn't take.",
+    "goldText": "When you pick a character from the shop, I gain double the stats of the two you didn't take.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Echoing Fae",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "echoing_fae",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1326",
+    "text": "When one of your other characters gets a buff, I get it as well.",
+    "goldText": "When one of your other characters gets a buff, I get double it as well.",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Ghost Armor",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "ghost_armor",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1311",
+    "text": "Farewell — Give another character my Attack and Health.",
+    "goldText": "Give another character double my Attack and Health.",
+    "attack": 15,
+    "health": 15,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Jack-o'-lantern",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "jack_o_lantern",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2000",
+    "text": "Characters in your shop are Candy.\nSupersweet 3\nFarewell — For each of your KO'd Candies, summon a random Candy. Give them +3/+3.",
+    "attack": 31,
+    "health": 31,
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Master Artisan",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "master_artisan",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1443",
+    "text": "At the start of each turn, transform a character behind me into a Secret Rare.",
+    "attack": 30,
+    "health": 30,
+    "factions": [
+      "Artist"
+    ]
+  },
+  {
+    "name": "Nanny McFae",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "nanny_mcfae",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1403",
+    "text": "Support-- Each fight, give characters in front of me +40/+40.",
+    "goldText": "Each fight, give characters in front of me +80/+80.",
+    "attack": 40,
+    "health": 40,
+    "factions": [
+      "Fae"
+    ]
+  },
+  {
+    "name": "Paul Bunyan",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "paul_bunyan",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1310",
+    "text": "Each fight, I become bigger than the largest enemy character.",
+    "goldText": "Each fight, I become twice the size of the largest enemy character.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Hero"
+    ]
+  },
+  {
+    "name": "Shadow",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "shadow",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1300",
+    "text": "Farewell — Summon your last character that was KO'd this fight and give +10/+10.",
+    "goldText": "Summon your last 2 characters that were KO'd this fight and give +20/+20.",
+    "attack": 20,
+    "health": 20,
+    "factions": [
+      "Villain"
+    ]
+  },
+  {
+    "name": "Spirit of Vengeance",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "spirit_of_vengeance",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1313",
+    "text": "Farewell — I gain Attack and Health equal to the damage I was dealt.",
+    "goldText": "I gain Attack and Health equal to double the damage I was dealt.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Celestial"
+    ]
+  },
+  {
+    "name": "The Big Bad Wolf",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "the_big_bad_wolf",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1370",
+    "text": "Hunt — Gain the stats of the KO'd character.",
+    "goldText": "Gain double the stats of the KO'd character.",
+    "attack": 50,
+    "health": 30,
+    "factions": [
+      "Animal",
+      "Villain"
+    ]
+  },
+  {
+    "name": "Tiamat",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "tiamat",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1371",
+    "text": "Treasure Hoard 5\nAll your Dragons have \"Farewell — Get a random treasure.\"",
+    "goldText": "All your Dragons have \"Farewell -- Get 2 random treasures.\"",
+    "attack": 5,
+    "health": 5,
+    "factions": [
+      "Celestial",
+      "Dragon"
+    ]
+  },
+  {
+    "name": "Tribble Trouble",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "tribble_trouble",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2183",
+    "text": "Each fight, double my stats.",
+    "goldText": "Each fight, tribble my stats.",
+    "attack": 1,
+    "health": 1,
+    "factions": [
+      "Animal"
+    ]
+  },
+  {
+    "name": "Zeus",
+    "type": "character",
+    "rarity": "Secret Rare",
+    "key": "zeus",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1388",
+    "text": "Ranged\nDouble the first spell you cast each turn.\nI have +5 Attack for each spell you've cast this game.",
+    "goldText": "Triple the first spell you cast each turn. I have +10 Attack for each spell you've cast this game.",
+    "attack": 30,
+    "health": 30,
+    "factions": [
+      "Celestial",
+      "Mage"
+    ]
+  }
+]

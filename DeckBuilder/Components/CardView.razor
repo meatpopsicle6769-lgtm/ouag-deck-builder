@@ -1,0 +1,45 @@
+@* One card, drawn as a card. Left click = OnClick, right click = OnPreview. *@
+<div class="card type-@Card.Type.ToLowerInvariant() rarity-@RarityClass @(Selected ? "selected" : "") @(Dimmed ? "dimmed" : "") @(Large ? "large" : "") @(Small ? "small" : "")"
+     title="@(Large ? null : Card.Name)"
+     @onclick="OnClick"
+     @oncontextmenu="OnPreview" @oncontextmenu:preventDefault="true">
+    <div class="card-head">
+        <span class="card-name">@Card.Name</span>
+        @if (Selected)
+        {
+            <span class="card-check">✓</span>
+        }
+    </div>
+    <div class="card-type">
+        <span>@Card.Type</span>
+        <span class="card-rarity">@(Card.Rarity == "None" ? "" : Card.Rarity)</span>
+    </div>
+    <div class="card-text">@Card.Text</div>
+    @if (Large && !string.IsNullOrEmpty(Card.GoldText))
+    {
+        <div class="card-text gold"><b>Gold:</b> @Card.GoldText</div>
+    }
+    <div class="card-foot">
+        <span>@string.Join(" · ", Card.Factions)</span>
+        @if (Card.Attack is not null)
+        {
+            <span class="card-stats">@Card.Attack / @Card.Health</span>
+        }
+        else
+        {
+            <span>@Card.Pool</span>
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter, EditorRequired] public Card Card { get; set; } = default!;
+    [Parameter] public bool Selected { get; set; }
+    [Parameter] public bool Dimmed { get; set; }
+    [Parameter] public bool Large { get; set; }
+    [Parameter] public bool Small { get; set; }
+    [Parameter] public EventCallback OnClick { get; set; }
+    [Parameter] public EventCallback OnPreview { get; set; }
+
+    private string RarityClass => Card.Rarity.ToLowerInvariant().Replace(' ', '-');
+}

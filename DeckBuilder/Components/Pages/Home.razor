@@ -1,0 +1,227 @@
+@page "/"
+@inject CardCatalog Catalog
+@inject DeckSession Session
+
+<PageTitle>Deck Editor</PageTitle>
+
+<div class="editor">
+
+    @* ---------- Deck: 1 Captain slot + 5x2 Character slots ---------- *@
+    <section class="panel deck-panel">
+        <div class="panel-title">
+            <h2>Deck</h2>
+            <div class="tabs">
+                @for (var i = 0; i < Session.Decks.Length; i++)
+                {
+                    var index = i;
+                    <button class="btn @(Session.Active == index ? "active" : "")" @onclick="() => Select(index)">@Session.Decks[index].Name</button>
+                }
+            </div>
+            <button class="btn" @onclick="ClearDeck" disabled="@(captain is null && deck.Count == 0)">Clear</button>
+        </div>
+
+        <h3>Captain <span class="count">@(captain is null ? 0 : 1) / 1</span></h3>
+        <div class="captain-row">
+            @if (captain is not null)
+            {
+                <CardView Card="captain" Small="true" OnClick="() => Session.Current.Captain = null" OnPreview="() => preview = captain" />
+            }
+            else
+            {
+                <div class="slot empty">Captain</div>
+            }
+        </div>
+
+        <h3>Characters <span class="count @(deck.Count == DeckSize ? "full" : "")">@deck.Count / @DeckSize</span></h3>
+        <div class="slot-grid">
+            @for (var i = 0; i < DeckSize; i++)
+            {
+                if (i < deck.Count)
+                {
+                    var card = deck[i];
+                    <CardView @key="card.Cid" Card="card" Small="true" OnClick="() => ToggleCharacter(card)" OnPreview="() => preview = card" />
+                }
+                else
+                {
+                    <div class="slot empty">@(i + 1)</div>
+                }
+            }
+        </div>
+
+        @if (message is not null)
+        {
+            <div class="message">@message</div>
+        }
+        <p class="hint">Left click a card to add it to / remove it from the deck. Right click any card to preview it.
+            Both decks are used on the <a href="simulate">Simulate</a> page.</p>
+    </section>
+
+    @* ---------- Card list ---------- *@
+    <section class="panel list-panel">
+        <div class="filters">
+            <input class="search" type="search" placeholder="Search name or text…" @bind="search" @bind:event="oninput" />
+            <select @bind="rarity">
+                <option value="">All rarities</option>
+                @foreach (var r in Catalog.Rarities)
+                {
+                    <option value="@r">@r</option>
+                }
+            </select>
+            <label><input type="checkbox" @bind="showCaptains" /> Captains</label>
+            <label><input type="checkbox" @bind="showCharacters" /> Characters</label>
+            <label><input type="checkbox" @bind="showSharedCharacters" /> Shared-pool Characters</label>
+            <label><input type="checkbox" @bind="showSpells" /> Spells</label>
+            <label><input type="checkbox" @bind="showTreasures" /> Treasures</label>
+        </div>
+
+        <div class="list-scroll">
+            @if (showCaptains)
+            {
+                var captains = Filter(Catalog.Captains).ToList();
+                <h3>Captains <span class="count">@captains.Count</span></h3>
+                <div class="card-list">
+                    @foreach (var card in captains)
+                    {
+                        <CardView @key="card.Cid" Card="card" Selected="ReferenceEquals(card, captain)"
+                                  OnClick="() => ToggleCaptain(card)" OnPreview="() => preview = card" />
+                    }
+                </div>
+            }
+
+            @if (showCharacters)
+            {
+                var characters = Filter(Catalog.Characters.Where(c => c.IsDeckEligible)).ToList();
+                <h3>Characters <span class="count">@characters.Count</span></h3>
+                <div class="card-list">
+                    @foreach (var card in characters)
+                    {
+                        <CardView @key="card.Cid" Card="card" Selected="deck.Contains(card)"
+                                  OnClick="() => ToggleCharacter(card)" OnPreview="() => preview = card" />
+                    }
+                </div>
+            }
+
+            @if (showSharedCharacters)
+            {
+                var shared = Filter(Catalog.Characters.Where(c => !c.IsDeckEligible)).ToList();
+                <h3>Shared-pool Characters <span class="count">@shared.Count</span> <small>not deck-eligible</small></h3>
+                <div class="card-list">
+                    @foreach (var card in shared)
+                    {
+                        <CardView @key="card.Cid" Card="card" Dimmed="true"
+                                  OnClick="() => preview = card" OnPreview="() => preview = card" />
+                    }
+                </div>
+            }
+
+            @if (showSpells)
+            {
+                var spells = Filter(Catalog.Spells).ToList();
+                <h3>Spells <span class="count">@spells.Count</span> <small>not part of a deck</small></h3>
+                <div class="card-list">
+                    @foreach (var card in spells)
+                    {
+                        <CardView @key="card.Cid" Card="card" Dimmed="true"
+                                  OnClick="() => preview = card" OnPreview="() => preview = card" />
+                    }
+                </div>
+            }
+
+            @if (showTreasures)
+            {
+                var treasures = Filter(Catalog.Treasures).ToList();
+                <h3>Treasures <span class="count">@treasures.Count</span> <small>not part of a deck</small></h3>
+                <div class="card-list">
+                    @foreach (var card in treasures)
+                    {
+                        <CardView @key="card.Cid" Card="card" Dimmed="true"
+                                  OnClick="() => preview = card" OnPreview="() => preview = card" />
+                    }
+                </div>
+            }
+        </div>
+    </section>
+
+    @* ---------- Preview / properties ---------- *@
+    <section class="panel preview-panel">
+        <div class="panel-title"><h2>Card</h2></div>
+        @if (preview is null)
+        {
+            <p class="hint">Right click a card to see it here.</p>
+        }
+        else
+        {
+            <CardView Card="preview" Large="true" />
+            <table class="props">
+                @foreach (var p in preview.Properties())
+                {
+                    <tr><th>@p.Key</th><td>@p.Value</td></tr>
+                }
+                <tr><th>Deck-eligible</th><td>@(preview.IsDeckEligible ? "Yes" : preview.IsCaptain ? "Captain slot" : "No")</td></tr>
+            </table>
+        }
+    </section>
+</div>
+
+@code {
+    private const int DeckSize = DeckSession.DeckSize;
+
+    private Card? captain => Session.Current.Captain;
+    private List<Card> deck => Session.Current.Characters;
+    private Card? preview;
+    private string? message;
+
+    private string search = "";
+    private string rarity = "";
+    private bool showCaptains = true;
+    private bool showCharacters = true;
+    private bool showSharedCharacters;
+    private bool showSpells;
+    private bool showTreasures;
+
+    private void ToggleCaptain(Card card)
+    {
+        message = null;
+        Session.Current.Captain = ReferenceEquals(captain, card) ? null : card;
+    }
+
+    private void ToggleCharacter(Card card)
+    {
+        message = null;
+        if (deck.Remove(card)) return;
+        if (!card.IsDeckEligible) return;
+        if (deck.Count >= DeckSize)
+        {
+            message = $"The deck is full ({DeckSize} Characters). Remove one first.";
+            return;
+        }
+        deck.Add(card);
+    }
+
+    private void ClearDeck()
+    {
+        message = null;
+        Session.Current.Captain = null;
+        deck.Clear();
+    }
+
+    private void Select(int index)
+    {
+        message = null;
+        Session.Active = index;
+    }
+
+    private IEnumerable<Card> Filter(IEnumerable<Card> cards)
+    {
+        if (rarity.Length > 0) cards = cards.Where(c => c.Rarity == rarity);
+        var term = search.Trim();
+        if (term.Length > 0)
+        {
+            cards = cards.Where(c =>
+                c.Name.Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                c.Text.Contains(term, StringComparison.OrdinalIgnoreCase) ||
+                (c.GoldText?.Contains(term, StringComparison.OrdinalIgnoreCase) ?? false));
+        }
+        return cards;
+    }
+}

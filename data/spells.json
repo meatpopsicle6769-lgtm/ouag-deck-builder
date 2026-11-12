@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Anoint",
+    "type": "spell",
+    "rarity": "None",
+    "key": "anoint",
+    "set": "3",
+    "pool": "token",
+    "cid": "3134",
+    "text": "Improve your buffs from Characters by +1/+1 for the rest of the game"
+  },
+  {
+    "name": "Decree",
+    "type": "spell",
+    "rarity": "None",
+    "key": "decree",
+    "set": "3",
+    "pool": "token",
+    "cid": "3133",
+    "text": "Improve your buffs from spells by +2/+2 for the rest of the game."
+  },
+  {
+    "name": "Verdict",
+    "type": "spell",
+    "rarity": "None",
+    "key": "verdict",
+    "set": "3",
+    "pool": "token",
+    "cid": "3132",
+    "text": "Improve your buffs from Treasures by +1/+1 for the rest of the game."
+  },
+  {
+    "name": "Attack!",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "attack",
+    "set": "2",
+    "pool": "token",
+    "cid": "2212",
+    "text": "Give Astro +5 Attack."
+  },
+  {
+    "name": "Favor of Santa",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "favor_of_santa",
+    "set": "3",
+    "pool": "token",
+    "cid": "3998",
+    "text": "Give all your slots +5/+5."
+  },
+  {
+    "name": "Favor of Tajima",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "favor_of_tajima",
+    "set": "3",
+    "pool": "token",
+    "cid": "3997",
+    "text": "Sweeten your Candy 5 times."
+  },
+  {
+    "name": "Favor of the Fates",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "favor_of_the_fates",
+    "set": "3",
+    "pool": "token",
+    "cid": "3999",
+    "text": "Get two bonus shops."
+  },
+  {
+    "name": "Fetch!",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "fetch",
+    "set": "2",
+    "pool": "token",
+    "cid": "2201",
+    "text": "Get a random Common treasure, and give Astro Treasure Hoard."
+  },
+  {
+    "name": "Good Boy!",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "good_boy",
+    "set": "2",
+    "pool": "token",
+    "cid": "2213",
+    "text": "Give Astro +3/+3."
+  },
+  {
+    "name": "Heel",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "heel",
+    "set": "2",
+    "pool": "token",
+    "cid": "2202",
+    "text": "Give Astro +5 Health."
+  },
+  {
+    "name": "Jump!",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "jump",
+    "set": "2",
+    "pool": "token",
+    "cid": "2199",
+    "text": "Give Astro Sneak."
+  },
+  {
+    "name": "Play KO'd!",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "play_kod",
+    "set": "2",
+    "pool": "token",
+    "cid": "2200",
+    "text": "Give Astro \"Farewell — Summon me once per fight.\""
+  },
+  {
+    "name": "Sic 'em!",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "sic_em",
+    "set": "2",
+    "pool": "token",
+    "cid": "2203",
+    "text": "Give Astro \"Hunt — +2/+2.\""
+  },
+  {
+    "name": "Speak!",
+    "type": "spell",
+    "rarity": "Common",
+    "key": "speak",
+    "set": "2",
+    "pool": "token",
+    "cid": "2198",
+    "text": "Give Astro Ranged."
+  },
+  {
+    "name": "Blue Paintbrush",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "blue_paintbrush",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4004",
+    "text": "Paint a slot Blue."
+  },
+  {
+    "name": "Gum Drop",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "gum_drop",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2047",
+    "text": "Give a character +1/+1.\nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Presence of Gaia",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "presence_of_gaia",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1124",
+    "text": "Give a slot +2/+2."
+  },
+  {
+    "name": "Pumpkin Spice Latte",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "pumpkin_spice_latte",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1119",
+    "text": "Heal a cracked heart. Get a bonus shop."
+  },
+  {
+    "name": "Red Paintbrush",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "red_paintbrush",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4026",
+    "text": "Paint a slot Red."
+  },
+  {
+    "name": "Silvery Moon",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "silvery_moon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1118",
+    "text": "Turn a Bronze character Silver and give it +1/+1."
+  },
+  {
+    "name": "Spoonful of Sugar",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "spoonful_of_sugar",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1086",
+    "text": "Give a character +4 Health."
+  },
+  {
+    "name": "Sugar and Spice",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "sugar_and_spice",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2033",
+    "text": "The next character you recruit gets +1/+1. \nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Twinkle Twinkle",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "twinkle_twinkle",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1136",
+    "text": "The next character you recruit has +4/+4."
+  },
+  {
+    "name": "What Big Teeth You Have",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "what_big_teeth_you_have",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1122",
+    "text": "Give a character +4 Attack."
+  },
+  {
+    "name": "Yellow Paintbrush",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "yellow_paintbrush",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4038",
+    "text": "Paint a slot Yellow."
+  },
+  {
+    "name": "You Meet in a Tavern",
+    "type": "spell",
+    "rarity": "Uncommon",
+    "key": "you_meet_in_a_tavern",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1142",
+    "text": "Get a random character of your shop's rarity."
+  },
+  {
+    "name": "All for One",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "all_for_one",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1161",
+    "text": "Give your characters +1/+1. If you win this fight, give them an additional +1/+1."
+  },
+  {
+    "name": "All Hands on Deck",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "all_hands_on_deck",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1204",
+    "text": "Give your characters +2 Attack."
+  },
+  {
+    "name": "Cinnamon Roll",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "cinnamon_roll",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2041",
+    "text": "Get a bonus shop.\nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Concentrate",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "concentrate",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2040",
+    "text": "Sweeten your Candy twice.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Down Came the Rain",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "down_came_the_rain",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1155",
+    "text": "Give all three front row slots +1/+1."
+  },
+  {
+    "name": "Greed",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "greed",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1377",
+    "text": "Give a character Treasure Hoard 1."
+  },
+  {
+    "name": "Grow Dough",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "grow_dough",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1195",
+    "text": "Give a character +4/+4."
+  },
+  {
+    "name": "Lightning Bolt",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "lightning_bolt",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1171",
+    "text": "Deal 20 damage to an enemy."
+  },
+  {
+    "name": "Lost in the Woods",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "lost_in_the_woods",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1173",
+    "text": "Get a bonus shop."
+  },
+  {
+    "name": "Oh Fudge!",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "oh_fudge",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2036",
+    "text": "Give a slot +1/+1.\nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Pick a Peck of Peppers",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "pick_a_peck_of_peppers",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1334",
+    "text": "Give a character +3/+3. Your next shop is all characters that share a type with it."
+  },
+  {
+    "name": "Shrink Tea",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "shrink_tea",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1191",
+    "text": "Shrink the highest Attack enemy to 1 Health."
+  },
+  {
+    "name": "Three Bags Full",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "three_bags_full",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1202",
+    "text": "Discover a Common treasure."
+  },
+  {
+    "name": "True Love's Kiss",
+    "type": "spell",
+    "rarity": "Rare",
+    "key": "true_loves_kiss",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1206",
+    "text": "Transform a character into a random character one rarity higher."
+  },
+  {
+    "name": "Abra Kadabra",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "abra_kadabra",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1361",
+    "text": "Get a bonus shop of all spells."
+  },
+  {
+    "name": "Blessing of Athena",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "blessing_of_athena",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1374",
+    "text": "Give a slot +8 Health."
+  },
+  {
+    "name": "Candy Kiss",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "candy_kiss",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2184",
+    "text": "Transform a character into a random character one rarity higher. It becomes Candy. Sweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Dip in Chocolate",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "dip_in_chocolate",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2072",
+    "text": "The next character you recruit becomes Candy. \nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Fires of Ares",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "fires_of_ares",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1169",
+    "text": "Give a slot +8 Attack."
+  },
+  {
+    "name": "Giant Growth",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "giant_growth",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1379",
+    "text": "Give a character +10/+10."
+  },
+  {
+    "name": "Happily Ever After",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "happily_ever_after",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1233",
+    "text": "Give a character +4/+4. If you win the next fight, give it an additional +4/+4."
+  },
+  {
+    "name": "Ice Cream Party",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "ice_cream_party",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2168",
+    "text": "Give a character and all of your characters that share a type with it +1/+1.\nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "I'll Huff and I'll Puff",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "ill_huff_and_ill_puff",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1230",
+    "text": "Deal 15 damage to an enemy.\nIf this KOs it, give your characters +4/+4."
+  },
+  {
+    "name": "Midas Touch",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "midas_touch",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1236",
+    "text": "Turn a Silver character Golden and give it +1/+1."
+  },
+  {
+    "name": "Over the Rainbow",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "over_the_rainbow",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1264",
+    "text": "Double the Attack and Health of the next character you recruit."
+  },
+  {
+    "name": "Pixie Powder",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "pixie_powder",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2019",
+    "text": "Supersweet 2\nGive a character +2/+2.\nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Scrumdoubleyumptious",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "scrumdoubleyumptious",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2013",
+    "text": "Give two random slots +1/+1. Sweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Star Light, Star Bright",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "star_light_star_bright",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1254",
+    "text": "Give your characters +1/+1. Give your Silver characters an additional +4/+4."
+  },
+  {
+    "name": "Three Wrappers Full",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "three_wrappers_full",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2191",
+    "text": "Discover a Common Treasure, it becomes Candy.\nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Through the Looking Glass",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "through_the_looking_glass",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1241",
+    "text": "Transform a character into a random Bronze character of your shop's rarity."
+  },
+  {
+    "name": "You Meet in a Bakery",
+    "type": "spell",
+    "rarity": "Epic",
+    "key": "you_meet_in_a_bakery",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2079",
+    "text": "Get a random character of your shop's rarity. Give it +1/+1.\nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Cherry On Top",
+    "type": "spell",
+    "rarity": "Legendary",
+    "key": "cherry_on_top",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2077",
+    "text": "Give your front row slots +1/+1.\nSweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Double, Double, Toil and Trouble",
+    "type": "spell",
+    "rarity": "Legendary",
+    "key": "double_double_toil_and_trouble",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1275",
+    "text": "Give a slot +1/+1, then double its buff."
+  },
+  {
+    "name": "Eureka!",
+    "type": "spell",
+    "rarity": "Legendary",
+    "key": "eureka",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1376",
+    "text": "Give a character +7/+7. If it was a Mage, get a new shop."
+  },
+  {
+    "name": "Mix-O Match-O",
+    "type": "spell",
+    "rarity": "Legendary",
+    "key": "mix_o_match_o",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1288",
+    "text": "Choose a character. At the start of the fight, its stats grow to match the enemy across from it."
+  },
+  {
+    "name": "Star Burst",
+    "type": "spell",
+    "rarity": "Legendary",
+    "key": "star_burst",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2005",
+    "text": "Give each of your characters +1/+1. Sweeten your Candy.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Stroke of Midnight",
+    "type": "spell",
+    "rarity": "Legendary",
+    "key": "stroke_of_midnight",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1341",
+    "text": "Transform an enemy character into a random Common character."
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Ammit",
+    "type": "captain",
+    "rarity": "None",
+    "key": "ammit",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3216",
+    "text": "When one of your characters successfully Hunts, trigger the recruit ability of one of your characters. (that hasn't triggered yet this fight)."
+  },
+  {
+    "name": "Anagolay",
+    "type": "captain",
+    "rarity": "None",
+    "key": "anagolay",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3001",
+    "text": "When you discover a treasure, I lose one or two of them but get to keep the rest."
+  },
+  {
+    "name": "Apollo",
+    "type": "captain",
+    "rarity": "None",
+    "key": "apollo",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3217",
+    "text": "When you Golden a character, your next shop has a random character one level higher than your shop."
+  },
+  {
+    "name": "Ares",
+    "type": "captain",
+    "rarity": "None",
+    "key": "ares",
+    "set": "3",
+    "pool": "token",
+    "cid": "3004",
+    "text": "Each fight, double the Attack of your characters."
+  },
+  {
+    "name": "Artemis",
+    "type": "captain",
+    "rarity": "None",
+    "key": "artemis",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1430",
+    "text": "Your shop can level up to Secret Rare."
+  },
+  {
+    "name": "Athena",
+    "type": "captain",
+    "rarity": "None",
+    "key": "athena",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1002",
+    "text": "When one of your characters is KO'd, give it +2 Attack. Give your characters that survive a fight +2 Health."
+  },
+  {
+    "name": "Baba Yaga",
+    "type": "captain",
+    "rarity": "None",
+    "key": "baba_yaga",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2241",
+    "text": "Your characters can complete their quests more than once. But I might bake them into a pie."
+  },
+  {
+    "name": "Baldr",
+    "type": "captain",
+    "rarity": "None",
+    "key": "baldr",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3006",
+    "text": "You start with 4 Hearts."
+  },
+  {
+    "name": "Bing Wu",
+    "type": "captain",
+    "rarity": "None",
+    "key": "bing_wu",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4052",
+    "text": "After you cast your second spell in a turn, get a bonus Chance Encounter character."
+  },
+  {
+    "name": "Bo Peep",
+    "type": "captain",
+    "rarity": "None",
+    "key": "bo_peep",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3222",
+    "text": "Animals appear in your shop one rarity sooner."
+  },
+  {
+    "name": "Boy who Cried Werewolf",
+    "type": "captain",
+    "rarity": "None",
+    "key": "boy_who_cried_werewolf",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1997",
+    "text": "After you recruit 3 Animals, double the attack and health of the next character you recruit. It becomes an Animal."
+  },
+  {
+    "name": "Candy Pandy",
+    "type": "captain",
+    "rarity": "None",
+    "key": "candy_pandy",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2067",
+    "text": "The first treasure you discover of each rarity becomes Candy."
+  },
+  {
+    "name": "Catkiss Everburn",
+    "type": "captain",
+    "rarity": "None",
+    "key": "catkiss_everburn",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3002",
+    "text": "Your first character has ranged."
+  },
+  {
+    "name": "Charlie Pots",
+    "type": "captain",
+    "rarity": "None",
+    "key": "charlie_pots",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2084",
+    "text": "When you get your fifth treasure, also find the Golden Ticket!"
+  },
+  {
+    "name": "Charon",
+    "type": "captain",
+    "rarity": "None",
+    "key": "charon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1434",
+    "text": "Your first character has \"Farewell — +1/+1.\"\nWhen you replace a Golden character, improve this by +5/+5 and get a bonus shop."
+  },
+  {
+    "name": "Chicken Bob",
+    "type": "captain",
+    "rarity": "None",
+    "key": "chicken_bob",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3048",
+    "text": "The very first character you recruit gives +1/+1 to each character in the shop that shares a type with it. Treasures they discover give an additional +1/+1."
+  },
+  {
+    "name": "Chief Evil Officer",
+    "type": "captain",
+    "rarity": "None",
+    "key": "chief_evil_officer",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1005",
+    "text": "Villains in your shop have +2/+1.\nWhen you golden a character, double this bonus."
+  },
+  {
+    "name": "Chromarian",
+    "type": "captain",
+    "rarity": "None",
+    "key": "chromarian",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4008",
+    "text": "Treasures you discover are a rarity higher if all of your slots are painted."
+  },
+  {
+    "name": "CHUK-E",
+    "type": "captain",
+    "rarity": "None",
+    "key": "chuk_e",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1006",
+    "text": "Your Toys have +4 Attack and are Villains."
+  },
+  {
+    "name": "Con Artist",
+    "type": "captain",
+    "rarity": "None",
+    "key": "con_artist",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2247",
+    "text": "Treasures you discover are one rarity higher, but you only get one choice."
+  },
+  {
+    "name": "Cupcup",
+    "type": "captain",
+    "rarity": "None",
+    "key": "cupcup",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2214",
+    "text": "Your Silver Candy Characters have Supersweet +2. Golden ones have Supersweet +3."
+  },
+  {
+    "name": "Da Ba De",
+    "type": "captain",
+    "rarity": "None",
+    "key": "da_ba_de",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4053",
+    "text": "Every 4 turns, discover a common treasure. Then improve your common treasures by +1/+1 for each slot you have painted Blue."
+  },
+  {
+    "name": "Dinonysus",
+    "type": "captain",
+    "rarity": "None",
+    "key": "dinonysus",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3105",
+    "text": "After you complete 2 quests, discover a co-captain.\nYour abilities from Captains give an additional +1/+1 for each Captain you have."
+  },
+  {
+    "name": "Dorothy",
+    "type": "captain",
+    "rarity": "None",
+    "key": "dorothy",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1007",
+    "text": "When you complete a Quest, keep an extra treasure."
+  },
+  {
+    "name": "Dotty Dawdles",
+    "type": "captain",
+    "rarity": "None",
+    "key": "dotty_dawdles",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2205",
+    "text": "Double the buffs your spells give to Mages and Animals."
+  },
+  {
+    "name": "Double Dealer",
+    "type": "captain",
+    "rarity": "None",
+    "key": "double_dealer",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2128",
+    "text": "Double your first Recruit ability each turn."
+  },
+  {
+    "name": "Dr. Agon",
+    "type": "captain",
+    "rarity": "None",
+    "key": "dr_agon",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1008",
+    "text": "Cast three spells to discover a Common treasure. (X)"
+  },
+  {
+    "name": "Dracusmagus",
+    "type": "captain",
+    "rarity": "None",
+    "key": "dracusmagus",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3223",
+    "text": "You start with Encyclopedia Spelltannica.\nWhen you Silver a Dragon, get a bonus spell as well."
+  },
+  {
+    "name": "Dragonmother",
+    "type": "captain",
+    "rarity": "None",
+    "key": "dragonmother",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1367",
+    "text": "On turn 2, get a bonus Mysterious Egg."
+  },
+  {
+    "name": "Dungeon Master",
+    "type": "captain",
+    "rarity": "None",
+    "key": "dungeon_master",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1009",
+    "text": "Treasures you discover from Heroes and Villains are one rarity higher.\nYour first shop each turn always has a Hero or a Villain in it."
+  },
+  {
+    "name": "Elec-Drake",
+    "type": "captain",
+    "rarity": "None",
+    "key": "elec_drake",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1327",
+    "text": "Your treasure buffs are improved by +2/+1."
+  },
+  {
+    "name": "Faker, the Caker Baker",
+    "type": "captain",
+    "rarity": "None",
+    "key": "faker_the_caker_baker",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2070",
+    "text": "When you sweeten your Candy, sweeten it again."
+  },
+  {
+    "name": "Frowny the Clown",
+    "type": "captain",
+    "rarity": "None",
+    "key": "frowny_the_clown",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2131",
+    "text": "Recruit the character with the lowest attack from the shop 3 times to get a Common treasure. (X)"
+  },
+  {
+    "name": "Galileo Galilei",
+    "type": "captain",
+    "rarity": "None",
+    "key": "galileo_galilei",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3073",
+    "text": "When I see a Celestial in your shop, give buffs from your treasures +1/+1."
+  },
+  {
+    "name": "Geppetto",
+    "type": "captain",
+    "rarity": "None",
+    "key": "geppetto",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1027",
+    "text": "Whenever you summon a character during a fight, give its slot +1 Attack. Improve this by +1/+1 when you Golden a Toy."
+  },
+  {
+    "name": "Gloria Clementine",
+    "type": "captain",
+    "rarity": "None",
+    "key": "gloria_clementine",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2204",
+    "text": "After you lose a fight, get a bonus shop."
+  },
+  {
+    "name": "Goat T",
+    "type": "captain",
+    "rarity": "None",
+    "key": "goat_t",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2129",
+    "text": "After you lose a fight, get an EVIL clone of the enemy Captain. (Once per enemy)"
+  },
+  {
+    "name": "Gokatoo",
+    "type": "captain",
+    "rarity": "None",
+    "key": "gokatoo",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2210",
+    "text": "Each turn, I charge up. When you fall to one heart, give all your slots +1/+1 for each charge. Then get two bonus shops."
+  },
+  {
+    "name": "Hades",
+    "type": "captain",
+    "rarity": "None",
+    "key": "hades",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1010",
+    "text": "Double your first Farewell ability each fight."
+  },
+  {
+    "name": "Hannibal",
+    "type": "captain",
+    "rarity": "None",
+    "key": "hannibal",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1964",
+    "text": "After 7 of your animals are KO'd give each of your slots +1/+1. Then improve this ability by +1/+1."
+  },
+  {
+    "name": "Happy Accidental Painter",
+    "type": "captain",
+    "rarity": "None",
+    "key": "happy_accidental_painter",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4054",
+    "text": "When you cast a spell directly on a character, paint its slot a random color."
+  },
+  {
+    "name": "Hecate",
+    "type": "captain",
+    "rarity": "None",
+    "key": "hecate",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3076",
+    "text": "Your first shop is Hecate's Spellbook. When you replace it, cast 2 random spells."
+  },
+  {
+    "name": "Indiana Clones",
+    "type": "captain",
+    "rarity": "None",
+    "key": "indiana_clones",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1011",
+    "text": "Your first shop of the game is three treasures.\nOn turn 9, clone your three highest rarity treasures."
+  },
+  {
+    "name": "Iron Monkey",
+    "type": "captain",
+    "rarity": "None",
+    "key": "iron_monkey",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3038",
+    "text": "On even numbered turns, your shop is one rarity higher. On odd number turns it's one lower."
+  },
+  {
+    "name": "Itty Aerie",
+    "type": "captain",
+    "rarity": "None",
+    "key": "itty_aerie",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2249",
+    "text": "When you level up, you get a shop of characters one rarity higher than you, but you only get one shop that turn."
+  },
+  {
+    "name": "Izanami",
+    "type": "captain",
+    "rarity": "None",
+    "key": "izanami",
+    "set": "3",
+    "pool": "token",
+    "cid": "3023",
+    "text": "After five of your characters are KO'd, summon a random Farewell character."
+  },
+  {
+    "name": "Jason of the Argonauts",
+    "type": "captain",
+    "rarity": "None",
+    "key": "jason_of_the_argonauts",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1363",
+    "text": "Every 3 turns, add a Co-Captain."
+  },
+  {
+    "name": "Jay Sparrow",
+    "type": "captain",
+    "rarity": "None",
+    "key": "jay_sparrow",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1012",
+    "text": "Double your Hunt abilities."
+  },
+  {
+    "name": "King Arthur",
+    "type": "captain",
+    "rarity": "None",
+    "key": "king_arthur",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1013",
+    "text": "Heroes in your shop have +2/+1.\nWhen you golden a character, double this bonus."
+  },
+  {
+    "name": "King Midas",
+    "type": "captain",
+    "rarity": "None",
+    "key": "king_midas",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1014",
+    "text": "Your characters go straight from Bronze to Gold.\nBut your heart is broken."
+  },
+  {
+    "name": "Lady of the Lake",
+    "type": "captain",
+    "rarity": "None",
+    "key": "lady_of_the_lake",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2094",
+    "text": "Collect five treasures to get a random Legendary character. (repeatable)"
+  },
+  {
+    "name": "Legend of Loxley",
+    "type": "captain",
+    "rarity": "None",
+    "key": "legend_of_loxley",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2232",
+    "text": "Start with Gloves of Thieving. Your golden characters give a bonus shop instead of a treasure."
+  },
+  {
+    "name": "Lightning Thief",
+    "type": "captain",
+    "rarity": "None",
+    "key": "lightning_thief",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1436",
+    "text": "After you cast a spell, capture it if your bottle is empty. (Bottle can recast captured spells!)"
+  },
+  {
+    "name": "Lil' Genie",
+    "type": "captain",
+    "rarity": "None",
+    "key": "lil_genie",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1015",
+    "text": "When you cast a spell, give a random character +1/+1. Every turn, improve this ability by +1/+1."
+  },
+  {
+    "name": "Loki",
+    "type": "captain",
+    "rarity": "None",
+    "key": "loki",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1020",
+    "text": "When you cast a spell directly on a character, cast it again on another random character."
+  },
+  {
+    "name": "Lucky Leprechaun",
+    "type": "captain",
+    "rarity": "None",
+    "key": "lucky_leprechaun",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2221",
+    "text": "When you Golden a character, Sweeten your candy twice.\nOn turns 5 and 10, get a random Lucky's Charm"
+  },
+  {
+    "name": "Luna",
+    "type": "captain",
+    "rarity": "None",
+    "key": "luna",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4056",
+    "text": "On turn 11, transform all of your characters on painted slots into Secret Rares."
+  },
+  {
+    "name": "Luna Girl",
+    "type": "captain",
+    "rarity": "None",
+    "key": "luna_girl",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2206",
+    "text": "Your first shop is Astro the Wonder Pup. When Astro reaches 20 Attack during a fight, train him. Train again at 40 and 60 Attack."
+  },
+  {
+    "name": "Mami Wata",
+    "type": "captain",
+    "rarity": "None",
+    "key": "mami_wata",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3218",
+    "text": "When one of your slots reaches +7 attack or health, get a bonus shop (once for each slot)."
+  },
+  {
+    "name": "Mauve Maniac",
+    "type": "captain",
+    "rarity": "None",
+    "key": "mauve_maniac",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4060",
+    "text": "The first time you get a treasure each turn, you randomly get a Red or Blue Paintkin."
+  },
+  {
+    "name": "Maximus",
+    "type": "captain",
+    "rarity": "None",
+    "key": "maximus",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1362",
+    "text": "After you KO 15 enemies get a random Silver Rare character. After 40, get a random Golden Legendary character."
+  },
+  {
+    "name": "Melody",
+    "type": "captain",
+    "rarity": "None",
+    "key": "melody",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1017",
+    "text": "Every 4 cards you pick, your buffs from spells give an additional +1/+1."
+  },
+  {
+    "name": "Mercury",
+    "type": "captain",
+    "rarity": "None",
+    "key": "mercury",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3106",
+    "text": "On turn 3, discover a boon. On turn 9, discover a boon and get a copy of it."
+  },
+  {
+    "name": "Merrily",
+    "type": "captain",
+    "rarity": "None",
+    "key": "merrily",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1437",
+    "text": "The left most character in your shop has +1/+1. When you cast a spell or recruit a mage, improve this buff by +1/+1."
+  },
+  {
+    "name": "Merryweather",
+    "type": "captain",
+    "rarity": "None",
+    "key": "merryweather",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1431",
+    "text": "Your supports also affect themselves and give an additional +1 Attack."
+  },
+  {
+    "name": "Mictili",
+    "type": "captain",
+    "rarity": "None",
+    "key": "mictili",
+    "set": "3",
+    "pool": "token",
+    "cid": "3080",
+    "text": "When you win a fight, get a random common treasure. lose, improve this ability. Tie to get both."
+  },
+  {
+    "name": "Mira",
+    "type": "captain",
+    "rarity": "None",
+    "key": "mira",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2208",
+    "text": "When you cast a spell directly on a Fae or Mage, improve your buffs from Fae and Mages by +1/+1."
+  },
+  {
+    "name": "Moonsong",
+    "type": "captain",
+    "rarity": "None",
+    "key": "moonsong",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3081",
+    "text": "The second time you cast each spell in a game, cast it again. The third time, do it three times."
+  },
+  {
+    "name": "Mount Mimic",
+    "type": "captain",
+    "rarity": "None",
+    "key": "mount_mimic",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3082",
+    "text": "When you lose a fight, if you don't have one, get a Lesser Mimic."
+  },
+  {
+    "name": "Mr. Lamppost",
+    "type": "captain",
+    "rarity": "None",
+    "key": "mr_lamppost",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1364",
+    "text": "At the start of the game, choose a Legendary character. Get that character on turn 7."
+  },
+  {
+    "name": "Mr. Monet",
+    "type": "captain",
+    "rarity": "None",
+    "key": "mr_monet",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4020",
+    "text": "After you recruit 4 characters, paint a random slot a random color."
+  },
+  {
+    "name": "Nathaniel Drake",
+    "type": "captain",
+    "rarity": "None",
+    "key": "nathaniel_drake",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2098",
+    "text": "Treasures you discover from Quests give an additional +2/+2."
+  },
+  {
+    "name": "Nemesis",
+    "type": "captain",
+    "rarity": "None",
+    "key": "nemesis",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3074",
+    "text": "When one of your hearts are emptied, choose to improve the buffs from your characters, spells, or treasures."
+  },
+  {
+    "name": "Nuada, Silver Vengence",
+    "type": "captain",
+    "rarity": "None",
+    "key": "nuada_silver_vengence",
+    "set": "3",
+    "pool": "token",
+    "cid": "3018",
+    "text": "Each turn, characters in your first shop become Silver."
+  },
+  {
+    "name": "Old Brightflower",
+    "type": "captain",
+    "rarity": "None",
+    "key": "old_brightflower",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4061",
+    "text": "Once all of your slots are painted, get the Heart of Chromaria."
+  },
+  {
+    "name": "Old MacDonald",
+    "type": "captain",
+    "rarity": "None",
+    "key": "old_macdonald",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2211",
+    "text": "Treasures you discover from Animals are one rarity higher. They are two rarities higher if your board has five Animals."
+  },
+  {
+    "name": "Omega Yellow",
+    "type": "captain",
+    "rarity": "None",
+    "key": "omega_yellow",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4063",
+    "text": "When one of your characters gains Health, give it +2 Attack as well."
+  },
+  {
+    "name": "Omniverse Omnivore",
+    "type": "captain",
+    "rarity": "None",
+    "key": "omniverse_omnivore",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2219",
+    "text": "After you attack with 3 villains, sweeten your candy."
+  },
+  {
+    "name": "Osiris",
+    "type": "captain",
+    "rarity": "None",
+    "key": "osiris",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3221",
+    "text": "Starting on turn 3, at the start of each fight trigger all of your Farewell abilities in your front row."
+  },
+  {
+    "name": "Preeminent Prodigy",
+    "type": "captain",
+    "rarity": "None",
+    "key": "preeminent_prodigy",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2125",
+    "text": "When you cast a spell, buffs from the next treasure you pick give an additional +1/+1. (X)"
+  },
+  {
+    "name": "Princess Animall",
+    "type": "captain",
+    "rarity": "None",
+    "key": "princess_animall",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1019",
+    "text": "Your Animals are also Mages, Fae, Pirates, Heroes, and Villains."
+  },
+  {
+    "name": "Professor Who's Who",
+    "type": "captain",
+    "rarity": "None",
+    "key": "professor_whos_who",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1016",
+    "text": "Get a bonus shop full of spells every other turn (starting on turn 3)."
+  },
+  {
+    "name": "Queen Harpolia",
+    "type": "captain",
+    "rarity": "None",
+    "key": "queen_harpolia",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2097",
+    "text": "When you collect a treasure, give characters in your shop +1/+1 for each treasure you've got this turn."
+  },
+  {
+    "name": "Quetzalcoatl",
+    "type": "captain",
+    "rarity": "None",
+    "key": "quetzalcoatl",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3136",
+    "text": "Every other turn, get a Dragon Claw.\nWhen you collect 7 treasures, get a Dragon."
+  },
+  {
+    "name": "Raging Bull",
+    "type": "captain",
+    "rarity": "None",
+    "key": "raging_bull",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3224",
+    "text": "When one of your animals attacks, give it +3/+1."
+  },
+  {
+    "name": "Remi",
+    "type": "captain",
+    "rarity": "None",
+    "key": "remi",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4028",
+    "text": "You can paint your slots Rainbow (a rainbow slot is all 3 colors)."
+  },
+  {
+    "name": "Romeo",
+    "type": "captain",
+    "rarity": "None",
+    "key": "romeo",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2064",
+    "text": "The first quest you complete of each rarity gives you a bonus True Love's Kiss."
+  },
+  {
+    "name": "Roulette",
+    "type": "captain",
+    "rarity": "None",
+    "key": "roulette",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2271",
+    "text": "On turn nine, transform your characters into random legendary characters."
+  },
+  {
+    "name": "Rumpelstiltskin",
+    "type": "captain",
+    "rarity": "None",
+    "key": "rumpelstiltskin",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2233",
+    "text": "Your first shop each turn has treasures instead of characters."
+  },
+  {
+    "name": "Runefeather",
+    "type": "captain",
+    "rarity": "None",
+    "key": "runefeather",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3110",
+    "text": "When you discover a Treasure, you're also offered a Boon."
+  },
+  {
+    "name": "Sapphire",
+    "type": "captain",
+    "rarity": "None",
+    "key": "sapphire",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2234",
+    "text": "When a character is KO'd, give adjacent characters +1/+1."
+  },
+  {
+    "name": "Sensei",
+    "type": "captain",
+    "rarity": "None",
+    "key": "sensei",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2120",
+    "text": "Each fight, your lowest attack character(s) get +1 Attack. Then improve this ability by +1 Attack."
+  },
+  {
+    "name": "Set",
+    "type": "captain",
+    "rarity": "None",
+    "key": "set",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3028",
+    "text": "At the start of the game, choose a Secret Rare character. Get that character when you complete 2 boons"
+  },
+  {
+    "name": "Silversmith",
+    "type": "captain",
+    "rarity": "None",
+    "key": "silversmith",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1432",
+    "text": "For every third silver character you recruit, you discover a treasure of that characters rarity. Give buffs from that treasure +3/+3."
+  },
+  {
+    "name": "Sir Galahad",
+    "type": "captain",
+    "rarity": "None",
+    "key": "sir_galahad",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1365",
+    "text": "At the start of the game, choose an Epic treasure. Get that treasure on turn 7."
+  },
+  {
+    "name": "Skip, the Time Skipper",
+    "type": "captain",
+    "rarity": "None",
+    "key": "skip_the_time_skipper",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1022",
+    "text": "Level up a turn early, but skip your first turn."
+  },
+  {
+    "name": "Sorcerous Serena",
+    "type": "captain",
+    "rarity": "None",
+    "key": "sorcerous_serena",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2066",
+    "text": "The first time you cast a spell directly on a character each turn, cast it again."
+  },
+  {
+    "name": "Spider Queen",
+    "type": "captain",
+    "rarity": "None",
+    "key": "spider_queen",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3219",
+    "text": "After you KO 8 enemy characters, get a random support character.\nAfter you recruit 8 support characters, get a Widow's Web."
+  },
+  {
+    "name": "Styx",
+    "type": "captain",
+    "rarity": "None",
+    "key": "styx",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3129",
+    "text": "When your first character is KO'd each fight, give it +1/+1 and improve its buffs by +1/+1."
+  },
+  {
+    "name": "Sugar Pops",
+    "type": "captain",
+    "rarity": "None",
+    "key": "sugar_pops",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2218",
+    "text": "The leftmost character in your shop gains the Candy type."
+  },
+  {
+    "name": "Sweet Tooth",
+    "type": "captain",
+    "rarity": "None",
+    "key": "sweet_tooth",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2063",
+    "text": "Starting on turn 6, get a bonus Candy Spell each turn."
+  },
+  {
+    "name": "Swishbuckler",
+    "type": "captain",
+    "rarity": "None",
+    "key": "swishbuckler",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4034",
+    "text": "When you paint a slot Green, Purple or Orange, get a Common treasure. (X)"
+  },
+  {
+    "name": "Tajima, Patron of Sweets",
+    "type": "captain",
+    "rarity": "None",
+    "key": "tajima_patron_of_sweets",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2065",
+    "text": "The first time that you recruit an Animal each turn, sweeten your Candy."
+  },
+  {
+    "name": "Thanatos",
+    "type": "captain",
+    "rarity": "None",
+    "key": "thanatos",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3130",
+    "text": "After 3 of your characters are KO'd, give one of your slots +1/+1, then improve this ability by +1/+1 and increase the number required by 1."
+  },
+  {
+    "name": "The Beanstalk",
+    "type": "captain",
+    "rarity": "None",
+    "key": "the_beanstalk",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2209",
+    "text": "Starting on turn 2, when you buff one or more slots, also buff your shop by +1/+1. (X)"
+  },
+  {
+    "name": "The Candyman",
+    "type": "captain",
+    "rarity": "None",
+    "key": "the_candyman",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2107",
+    "text": "Your characters have +1/+1 for each time you've sweetened your Candy."
+  },
+  {
+    "name": "The Collector",
+    "type": "captain",
+    "rarity": "None",
+    "key": "the_collector",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1023",
+    "text": "When you collect a treasure, give your characters +1/+1. And an additional +1/+1 for each missing heart."
+  },
+  {
+    "name": "Thing in the Ice",
+    "type": "captain",
+    "rarity": "None",
+    "key": "thing_in_the_ice",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1025",
+    "text": "After you lose your first heart, your Captain is revealed! (at random)\nIts Captain powers are doubled."
+  },
+  {
+    "name": "This Little Piggie",
+    "type": "captain",
+    "rarity": "None",
+    "key": "this_little_piggie",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1024",
+    "text": "You get a bonus shop when you level up."
+  },
+  {
+    "name": "Thraxus",
+    "type": "captain",
+    "rarity": "None",
+    "key": "thraxus",
+    "set": "3",
+    "pool": "token",
+    "cid": "3100",
+    "text": "When you become Thraxus, transform all of your Mages into Dragons.\nWhen you recruit a Dragon, get a random Treasure."
+  },
+  {
+    "name": "Toucan Samuel",
+    "type": "captain",
+    "rarity": "None",
+    "key": "toucan_samuel",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2236",
+    "text": "Starting on turn four you get a bonus shop each turn, but shops only have two characters."
+  },
+  {
+    "name": "Trash Panda",
+    "type": "captain",
+    "rarity": "None",
+    "key": "trash_panda",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1028",
+    "text": "Get two copies of every Common treasure you collect."
+  },
+  {
+    "name": "Vena Cava",
+    "type": "captain",
+    "rarity": "None",
+    "key": "vena_cava",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2238",
+    "text": "On turn 8, remove all your slot buffs. Increase your buffs from Fae by the largest attack and health amount removed."
+  },
+  {
+    "name": "Wayfinder",
+    "type": "captain",
+    "rarity": "None",
+    "key": "wayfinder",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3003",
+    "text": "Start with Secret Map. When you complete four quests, activate the map if you haven't already."
+  },
+  {
+    "name": "We Are Blorg",
+    "type": "captain",
+    "rarity": "None",
+    "key": "we_are_blorg",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1968",
+    "text": "When you recruit a character, your Toys gain that character's types.\nYour Toys with 5 or more types have +5 Attack."
+  },
+  {
+    "name": "Witches, III",
+    "type": "captain",
+    "rarity": "None",
+    "key": "witches_iii",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1029",
+    "text": "Every 3 Villains you pick, give your back row slots +3/+3."
+  },
+  {
+    "name": "Wizard Headmaster",
+    "type": "captain",
+    "rarity": "None",
+    "key": "wizard_headmaster",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1001",
+    "text": "Cast three spells to get a random Uncommon Mage. (X)"
+  },
+  {
+    "name": "Yakety Yak Yak",
+    "type": "captain",
+    "rarity": "None",
+    "key": "yakety_yak_yak",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3104",
+    "text": "Characters in your third shop each turn have double stats."
+  },
+  {
+    "name": "Zagreus",
+    "type": "captain",
+    "rarity": "None",
+    "key": "zagreus",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1998",
+    "text": "When one of your hearts is emptied, discover a treasure of your shop's level."
+  },
+  {
+    "name": "Zheng Yi Sao",
+    "type": "captain",
+    "rarity": "None",
+    "key": "zheng_yi_sao",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1386",
+    "text": "After you attack with 5 Pirates, get a bonus shop of all Pirates."
+  }
+]

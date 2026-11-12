@@ -1,0 +1,20 @@
+@* Compact read-only list of a deck: Captain plus Characters. *@
+<div class="deck-summary">
+    @if (Captain is null)
+    {
+        <span class="chip empty">No Captain</span>
+    }
+    else
+    {
+        <span class="chip captain" title="@Captain.Text">★ @Captain.Name</span>
+    }
+    @foreach (var c in Characters)
+    {
+        <span class="chip rarity-@c.Rarity.ToLowerInvariant().Replace(' ', '-')" title="@c.Text">@c.Name <small>@c.Attack/@c.Health</small></span>
+    }
+</div>
+
+@code {
+    [Parameter] public Card? Captain { get; set; }
+    [Parameter, EditorRequired] public IReadOnlyList<Card> Characters { get; set; } = [];
+}

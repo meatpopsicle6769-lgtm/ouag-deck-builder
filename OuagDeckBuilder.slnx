@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DeckBuilder/DeckBuilder.csproj" />
+  <Project Path="Galaxy.Core/Galaxy.Core.csproj" />
+  <Project Path="Galaxy.Sim/Galaxy.Sim.csproj" />
+  <Project Path="Galaxy.Tests/Galaxy.Tests.csproj" />
+</Solution>

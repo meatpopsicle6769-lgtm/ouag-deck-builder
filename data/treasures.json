@@ -1,0 +1,1831 @@
+[
+  {
+    "name": "Boon of Artemis",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_artemis",
+    "set": "3",
+    "pool": "token",
+    "cid": "3061",
+    "text": "Fill your front row with Hunt characters during a fight to get 3 Heartseeker Bows.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Baba Yaga",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_baba_yaga",
+    "set": "3",
+    "pool": "token",
+    "cid": "3124",
+    "text": "Complete a quest to get 2 Potions of Treasure Finding.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Bahamut",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_bahamut",
+    "set": "3",
+    "pool": "token",
+    "cid": "3123",
+    "text": "Collect 3 other treasures in a single turn to get a random Legendary Character.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Fortunes",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_fortunes",
+    "set": "3",
+    "pool": "token",
+    "cid": "3119",
+    "text": "After your characters are attacked 10 times, discover a treasure of the final attacker's rarity.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Merlin",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_merlin",
+    "set": "3",
+    "pool": "token",
+    "cid": "3054",
+    "text": "Play 3 spells in a single turn to get 2 Masterwork Scrolls.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Moonsong",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_moonsong",
+    "set": "3",
+    "pool": "token",
+    "cid": "3121",
+    "text": "Recruit a mage and/or cast a spell 10 times to get two bonus shops of spells.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Morpheus",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_morpheus",
+    "set": "3",
+    "pool": "token",
+    "cid": "3116",
+    "text": "Go 2 turns without picking a treasure or spell to get 3 random treasures.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Osiris",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_osiris",
+    "set": "3",
+    "pool": "token",
+    "cid": "3058",
+    "text": "Trigger three Farewells in a single fight to get a bonus shop of all Golden Farewell characters.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Santa",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_santa",
+    "set": "3",
+    "pool": "token",
+    "cid": "3118",
+    "text": "Summon 3 characters in a single fight to give all your slots +5/+5.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Set",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_set",
+    "set": "3",
+    "pool": "token",
+    "cid": "3122",
+    "text": "Have all five of your characters not share any types during a fight to get four random cards",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Styx",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_styx",
+    "set": "3",
+    "pool": "token",
+    "cid": "3120",
+    "text": "Empty an enemy player's heart to get a copy of their Captain.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Tajima",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_tajima",
+    "set": "3",
+    "pool": "token",
+    "cid": "3060",
+    "text": "Cast five spells on Animals to sweeten your candy 5 times.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of the Fates",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_the_fates",
+    "set": "3",
+    "pool": "token",
+    "cid": "3117",
+    "text": "Win a fight and lose a fight to get 2 bonus shops.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of The Pauper",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_the_pauper",
+    "set": "3",
+    "pool": "token",
+    "cid": "3057",
+    "text": "Replace a character with a common to Discover a treasure of its rarity.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Boon of Zheng",
+    "type": "treasure",
+    "rarity": "None",
+    "key": "boon_of_zheng",
+    "set": "3",
+    "pool": "token",
+    "cid": "3115",
+    "text": "Recruit 5 pirates to get 2 Buried Treasures.",
+    "factions": [
+      "Boon"
+    ]
+  },
+  {
+    "name": "Beanie Baby",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "beanie_baby_treasure",
+    "set": "1",
+    "pool": "token",
+    "cid": "",
+    "text": ""
+  },
+  {
+    "name": "Bounty Contract",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "bounty_contract",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1037",
+    "text": "Your front row has \"Hunt — +1/+1\"."
+  },
+  {
+    "name": "Bread Crumbs",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "bread_crumbs",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1038",
+    "text": "The spell in your first shop each round is Lost in the Woods (Get a bonus shop.)"
+  },
+  {
+    "name": "Captain's Cutlass",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "captains_cutlass",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1039",
+    "text": "Your first slot has +5 Attack."
+  },
+  {
+    "name": "Carving Fork",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "carving_fork",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2148",
+    "text": "Characters in your shop have +2 Attack."
+  },
+  {
+    "name": "Cursed Ring",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "cursed_ring",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1041",
+    "text": "Villains in your shop have +2/+2."
+  },
+  {
+    "name": "Elven Tools",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "elven_tools",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1081",
+    "text": "When you summon a character, give it +5 Attack."
+  },
+  {
+    "name": "Fortifications",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "fortifications",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1045",
+    "text": "Your characters have +2 Health."
+  },
+  {
+    "name": "Gem Mint Beanie Baby",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "gem_mint_beanie_baby",
+    "set": "1",
+    "pool": "token",
+    "cid": "1433",
+    "text": "Your characters have +4/+4."
+  },
+  {
+    "name": "Gold Ring",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "gold_ring",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1049",
+    "text": "Your Golden characters have +3/+3."
+  },
+  {
+    "name": "Happy Little Tree",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "happy_little_tree",
+    "set": "4",
+    "pool": "token",
+    "cid": "4015",
+    "text": "Each turn, the first time you cast a spell directly on a green slot, cast a bonus spell."
+  },
+  {
+    "name": "Lesser Mimic",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "lesser_mimic",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1058",
+    "text": "I transform into a copy of the next treasure you discover."
+  },
+  {
+    "name": "Little Lance",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "little_lance",
+    "set": "2",
+    "pool": "token",
+    "cid": "2051",
+    "text": "Each fight, give all your slots +1 Attack."
+  },
+  {
+    "name": "Lucky Chest",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "lucky_chest",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1059",
+    "text": "The next treasure you discover is a rarity higher."
+  },
+  {
+    "name": "Lucky Star",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "lucky_star",
+    "set": "4",
+    "pool": "token",
+    "cid": "4057",
+    "text": "Your Chance Encounters trigger an additional time."
+  },
+  {
+    "name": "Lucky's Clover",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "luckys_clover",
+    "set": "2",
+    "pool": "token",
+    "cid": "2222",
+    "text": "Your candy characters have +1/+1.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Lucky's Heart",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "luckys_heart",
+    "set": "2",
+    "pool": "token",
+    "cid": "2223",
+    "text": "When you buff a slot, give it an extra +1/+1.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Lucky's Horseshoe",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "luckys_horseshoe",
+    "set": "2",
+    "pool": "token",
+    "cid": "2224",
+    "text": "Your first Spell each turn is always Cinnamon Roll.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Lucky's Moon",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "luckys_moon",
+    "set": "2",
+    "pool": "token",
+    "cid": "2225",
+    "text": "Characters in your shop have +1/+1.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Lucky's Pot of Gold",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "luckys_pot_of_gold",
+    "set": "2",
+    "pool": "token",
+    "cid": "2226",
+    "text": "Copy your other Charm.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Lucky's Star",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "luckys_star",
+    "set": "2",
+    "pool": "token",
+    "cid": "2227",
+    "text": "Your first character has \"Hunt — +1/+1\".",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Magic Acorn",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "magic_acorn",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1060",
+    "text": "Your supports support all your front slots."
+  },
+  {
+    "name": "Masterwork Scrolls",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "masterwork_scrolls",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1061",
+    "text": "Your buffs from spells give an additional +2/+2."
+  },
+  {
+    "name": "Padded Shield",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "padded_shield",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2146",
+    "text": "Characters in your shop have +2 Health."
+  },
+  {
+    "name": "Potion of Treasure Finding",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "potion_of_treasure_finding",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1069",
+    "text": "Quests give treasures one rarity higher."
+  },
+  {
+    "name": "Relic of Antiquity",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "relic_of_antiquity",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1074",
+    "text": "Each turn, give +2/+2 to a random slot."
+  },
+  {
+    "name": "Ring of Valor",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "ring_of_valor",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1070",
+    "text": "Heroes in your shop have +2/+2."
+  },
+  {
+    "name": "Robbin's Bow",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "robbins_bow",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1054",
+    "text": "Give +4 Attack to the first character you recruit each turn."
+  },
+  {
+    "name": "Sailor's Spinach",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "sailors_spinach",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2147",
+    "text": "The next three characters you recruit have +4/+1."
+  },
+  {
+    "name": "Secret Map",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "secret_map",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1073",
+    "text": "Survive to turn 12 to get a random Legendary treasure."
+  },
+  {
+    "name": "Skeleton Key",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "skeleton_key",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3029",
+    "text": "The next time you discover a treasure, keep an extra one."
+  },
+  {
+    "name": "Spider Silks",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "spider_silks",
+    "set": "3",
+    "pool": "token",
+    "cid": "3220",
+    "text": "After you recruit 8 support characters, I transform into Widow's Web."
+  },
+  {
+    "name": "Star Shield",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "star_shield",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1335",
+    "text": "Your first slot has +5 Health."
+  },
+  {
+    "name": "Ticking Time Top",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "ticking_time_top",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2136",
+    "text": "After you lose 2 fights, transform me into a random treasure of your shop's rarity."
+  },
+  {
+    "name": "Twinshot",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "twinshot",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1040",
+    "text": "Your characters have +2 Attack."
+  },
+  {
+    "name": "Wand of Anger",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "wand_of_anger",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1078",
+    "text": "When you cast a spell, give your characters +1 Attack."
+  },
+  {
+    "name": "Wand of Shielding",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "wand_of_shielding",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1079",
+    "text": "When you cast a spell, give your characters +1 Health."
+  },
+  {
+    "name": "Worn Shield",
+    "type": "treasure",
+    "rarity": "Common",
+    "key": "worn_shield",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1082",
+    "text": "Give +4 Health to the first character you recruit each turn."
+  },
+  {
+    "name": "Achilles' High Tops",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "achilles_high_tops",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1083",
+    "text": "Each fight, give your Heroes +2/+2."
+  },
+  {
+    "name": "Blackbeard's Comb",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "blackbeards_comb",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1088",
+    "text": "Pirates in your shop have +10 attack."
+  },
+  {
+    "name": "Canvas of Truth",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "canvas_of_truth",
+    "set": "4",
+    "pool": "shared",
+    "cid": "4006",
+    "text": "Your characters have +2/+2. When you paint a slot, improve this by +1/+1"
+  },
+  {
+    "name": "Constellation Prize",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "constellation_prize",
+    "set": "2",
+    "pool": "token",
+    "cid": "2135",
+    "text": "Your characters have +1/+1.\nAfter you lose a fight, get a copy of this."
+  },
+  {
+    "name": "Dracula's Fangs",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "draculas_fangs",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1210",
+    "text": "Your first character has \"Farewell — +5/+5.\""
+  },
+  {
+    "name": "Drafty Window",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "drafty_window",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1094",
+    "text": "Your Recruit abilities trigger twice."
+  },
+  {
+    "name": "Dwarven Cart",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "dwarven_cart",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1095",
+    "text": "Every 4th treasure you collect, also discover an Uncommon treasure."
+  },
+  {
+    "name": "Encyclopedia Spelltannica",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "encyclopedia_spelltannica",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1085",
+    "text": "Every spell you have cast this game counts as a treasure for Treasure Hoard."
+  },
+  {
+    "name": "Gemstone Garden",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "gemstone_garden",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1047",
+    "text": "When you buff a slot, give it an additional +2/+2."
+  },
+  {
+    "name": "Genie's Lamp",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "genies_lamp",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1100",
+    "text": "Double the next 3 spells you cast."
+  },
+  {
+    "name": "Heartseeker Bow",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "heartseeker_bow",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1101",
+    "text": "Your Hunt characters have +7 Attack."
+  },
+  {
+    "name": "Huntsman's Axe",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "huntsmans_axe",
+    "set": "2",
+    "pool": "token",
+    "cid": "2141",
+    "text": "Your front row characters have \"Hunt — Trigger the hunt abilities of the characters behind me.\""
+  },
+  {
+    "name": "Leftover Pieces",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "leftover_pieces",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1097",
+    "text": "When one of your Toys is KO'd, give the slots behind it +1/+1."
+  },
+  {
+    "name": "Lich King's Heart",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "lich_kings_heart",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1106",
+    "text": "Gain an additional heart."
+  },
+  {
+    "name": "Lightning in a Bottle",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "lightning_in_a_bottle",
+    "set": "1",
+    "pool": "token",
+    "cid": "1435",
+    "text": "When you find another treasure, cast the spell and empty the bottle.\n(X)."
+  },
+  {
+    "name": "Locked Treasure Chest",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "locked_treasure_chest",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1172",
+    "text": "The next time you discover a treasure, you get to keep all 3."
+  },
+  {
+    "name": "Magical Piping Bag",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "magical_piping_bag",
+    "set": "2",
+    "pool": "token",
+    "cid": "2188",
+    "text": "When you recruit a quest character, sweeten your Candy."
+  },
+  {
+    "name": "Merlin's Pointy Hat",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "merlins_pointy_hat",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1108",
+    "text": "Buffs from your spells give an additional +1/+1.\nImprove this by +1/+1 when you recruit a Mage."
+  },
+  {
+    "name": "Pipin' Hot Pie",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "pipin_hot_pie",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1114",
+    "text": "When one of your Animals is KO'd, give its slot +2/+2."
+  },
+  {
+    "name": "Pixie Dust",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "pixie_dust",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1130",
+    "text": "Buffs from Fae give an additional +2/+2."
+  },
+  {
+    "name": "Printing Press",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "printing_press",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2096",
+    "text": "When you discover an Epic treasure, find a second copy of it."
+  },
+  {
+    "name": "Prized Pig",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "prized_pig",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1102",
+    "text": "Your Mages are also Animals.\nYour Animals are also Mages.\nThey have +2/+2."
+  },
+  {
+    "name": "Ring of the Magus",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "ring_of_the_magus",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1120",
+    "text": "When you cast a spell, give your Mages +2/+2."
+  },
+  {
+    "name": "Royal Invitation",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "royal_invitation",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1129",
+    "text": "Your first shop always has three characters of your shop's rarity."
+  },
+  {
+    "name": "Rusty Blades",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "rusty_blades",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2152",
+    "text": "Your characters have +5 Attack. When you lose a fight, destroy me to get two random Common treasures."
+  },
+  {
+    "name": "Spiked Shield",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "spiked_shield",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1127",
+    "text": "Characters in your shop have +4/+4."
+  },
+  {
+    "name": "Sunflowers",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "sunflowers",
+    "set": "4",
+    "pool": "token",
+    "cid": "4033",
+    "text": "Each fight, your gold characters grow to match the highest attack and health of your other characters."
+  },
+  {
+    "name": "Sword of Valor",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "sword_of_valor",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1128",
+    "text": "When one of your Heroes attacks, give your characters +1/+2."
+  },
+  {
+    "name": "Tiger's Paw",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "tigers_paw",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1132",
+    "text": "Your first character has \"Hunt — Give my slot +4/+4\"."
+  },
+  {
+    "name": "Tink's Torches",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "tinks_torches",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2139",
+    "text": "Your support characters have +3 Attack and \"Hunt — Improve my buff abilities by +3/+3.\""
+  },
+  {
+    "name": "Wand of Strength",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "wand_of_strength",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1138",
+    "text": "When you cast a spell, the next character you recruit has +3/+3."
+  },
+  {
+    "name": "Warp Drive Engine",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "warp_drive_engine",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1139",
+    "text": "You get the first attack."
+  },
+  {
+    "name": "Wicked Sword",
+    "type": "treasure",
+    "rarity": "Uncommon",
+    "key": "wicked_sword",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1140",
+    "text": "When one of your Villains attacks, it gets +5 Attack."
+  },
+  {
+    "name": "Alchemistry Set",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "alchemistry_set",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1084",
+    "text": "Silver characters in your shop turn Golden."
+  },
+  {
+    "name": "Aphrodite's Tear",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "aphrodites_tear",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1148",
+    "text": "Your characters have +5/+5."
+  },
+  {
+    "name": "Buried Treasure",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "buried_treasure",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1147",
+    "text": "Your Pirates have Treasure Hoard 2."
+  },
+  {
+    "name": "Butcher's Cleaver",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "butchers_cleaver",
+    "set": "2",
+    "pool": "token",
+    "cid": "2155",
+    "text": "Epic and Legendary characters no longer show up in your shop.\nBronze characters in your shop get +15/+15, Silver and Gold characters get +30/+30."
+  },
+  {
+    "name": "Candy Apple",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "candy_apple",
+    "set": "2",
+    "pool": "token",
+    "cid": "2044",
+    "text": "Your characters have +1/+1.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Co-Captain's Corsair",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "co_captains_corsair",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1149",
+    "text": "Choose an additional Captain."
+  },
+  {
+    "name": "Crow's Nest",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "crows_nest",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1150",
+    "text": "Your back row slots have +10/+10."
+  },
+  {
+    "name": "Dragon Claw",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "dragon_claw",
+    "set": "1",
+    "pool": "token",
+    "cid": "1346",
+    "text": "Your characters have +1 Attack."
+  },
+  {
+    "name": "Dragon Dice",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "dragon_dice",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1182",
+    "text": "When you recruit a Dragon, get a Common treasure."
+  },
+  {
+    "name": "Dragon's Jewel",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "dragons_jewel",
+    "set": "2",
+    "pool": "token",
+    "cid": "2087",
+    "text": "Your treasures count double for Treasure Hoard.\nTreasures you discover from Dragons are one rarity higher."
+  },
+  {
+    "name": "Earth Stone",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "earth_stone",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1219",
+    "text": "Each turn, give one of your slots +10/+10."
+  },
+  {
+    "name": "Elixir of Giant Strength",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "elixir_of_giant_strength",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2144",
+    "text": "Buff the two smallest characters in each shop to match the strongest."
+  },
+  {
+    "name": "Energizer",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "energizer",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1157",
+    "text": "Your treasure buffs give an additional +2/+2."
+  },
+  {
+    "name": "Flock of Mimics",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "flock_of_mimics",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2138",
+    "text": "Get an additional copy of the next 3 treasures you discover."
+  },
+  {
+    "name": "Frequent Flyer Card",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "frequent_flyer_card",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2080",
+    "text": "When you discover an Uncommon or higher treasure, get a Common treasure also."
+  },
+  {
+    "name": "Galactic Rock",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "galactic_rock",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1378",
+    "text": "Get a random treasure every 2 turns."
+  },
+  {
+    "name": "Gilded Lily",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "gilded_lily",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2165",
+    "text": "The next Epic character you recruit is Golden."
+  },
+  {
+    "name": "Gravity Well",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "gravity_well",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1165",
+    "text": "Each fight, give your characters +1/+1. Then improve this by +1/+1."
+  },
+  {
+    "name": "Hidden Treasure Room",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "hidden_treasure_room",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2091",
+    "text": "When you get a Common treasure, get an Epic treasure as well."
+  },
+  {
+    "name": "Horse Armor",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "horse_armor",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2140",
+    "text": "Your characters have +10 Health."
+  },
+  {
+    "name": "Hunter's Horn",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "hunters_horn",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1167",
+    "text": "Double your Hunt abilities."
+  },
+  {
+    "name": "Jaws' Breaker",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "jaws_breaker",
+    "set": "2",
+    "pool": "token",
+    "cid": "2030",
+    "text": "When one of your characters attacks, give it +1/+1.",
+    "factions": [
+      "Candy"
+    ]
+  },
+  {
+    "name": "Luckier Chest",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "luckier_chest",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1174",
+    "text": "The next treasure you discover is 2 rarities higher."
+  },
+  {
+    "name": "Mask of Infinite Rage",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "mask_of_infinite_rage",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1175",
+    "text": "Your characters have +5 Attack\nDouble this bonus whenever you lose a fight."
+  },
+  {
+    "name": "Merlin's Tome",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "merlins_tome",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1177",
+    "text": "Your first shop each turn always has a Legendary spell."
+  },
+  {
+    "name": "Midas' Throne",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "midas_throne",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1237",
+    "text": "Each fight, give your slots with a Golden character +5/+5."
+  },
+  {
+    "name": "Mushroom Ring",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "mushroom_ring",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1220",
+    "text": "Your Recruit abilities are also Farewell abilities."
+  },
+  {
+    "name": "Santa's Cookies",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "santas_cookies",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1189",
+    "text": "When you summon a character, give its slot +3/+3."
+  },
+  {
+    "name": "Shattered Shield",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "shattered_shield",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1190",
+    "text": "When one of your Farewell characters is KO'd, give the rest of your characters +2/+2."
+  },
+  {
+    "name": "Six-Shooter",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "six_shooter",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2034",
+    "text": "Get a bonus spell for every 6 of your characters that are KO'd."
+  },
+  {
+    "name": "Spellbook Punch Card",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "spellbook_punch_card",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1126",
+    "text": "When you cast your second spell in a turn, get a bonus shop."
+  },
+  {
+    "name": "Teensy Spellbook",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "teensy_spellbook",
+    "set": "2",
+    "pool": "token",
+    "cid": "2119",
+    "text": "Spells you haven't cast yet this game cast twice."
+  },
+  {
+    "name": "Timeline Duplicator",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "timeline_duplicator",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1406",
+    "text": "Double your Captain's ability."
+  },
+  {
+    "name": "Widow's Web",
+    "type": "treasure",
+    "rarity": "Rare",
+    "key": "widows_web",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1322",
+    "text": "Your Supports affect all your characters (including themselves)."
+  },
+  {
+    "name": "Advent Calendar",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "advent_calendar",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2076",
+    "text": "At the start of your turn, get a Common treasure. (X)"
+  },
+  {
+    "name": "Bo Peep's Crook",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "bo_peeps_crook",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1213",
+    "text": "Each fight, give your Animals +2/+2 for each Animal you have."
+  },
+  {
+    "name": "Boots of Magic Find",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "boots_of_magic_find",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1214",
+    "text": "When you discover a treasure, the left one is a rarity higher."
+  },
+  {
+    "name": "Crystal's Ball",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "crystals_ball",
+    "set": "2",
+    "pool": "token",
+    "cid": "2160",
+    "text": "Buffs from your spells give an additional +2/+2.\nWhen you cast a spell directly on a character, improve this by +2/+2."
+  },
+  {
+    "name": "Daisy Jones' Locket",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "daisy_jones_locket",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1217",
+    "text": "Your Farewell abilities are also Hunt abilities."
+  },
+  {
+    "name": "Dragon's Crown",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "dragons_crown",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1218",
+    "text": "All of your characters have Treasure Hoard 1."
+  },
+  {
+    "name": "Faerie Pancakes",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "faerie_pancakes",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1221",
+    "text": "Double the stats of Bronze characters in your shop."
+  },
+  {
+    "name": "Faerie Queen's Wand",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "faerie_queens_wand",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1400",
+    "text": "Your buffs from spells give an additional +7/+7."
+  },
+  {
+    "name": "Gloves of Thieving",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "gloves_of_thieving",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1228",
+    "text": "After each fight, copy a random enemy treasure."
+  },
+  {
+    "name": "Golden Fountain",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "golden_fountain",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1163",
+    "text": "When you discover a treasure, keep an extra one."
+  },
+  {
+    "name": "Hat of the Coven",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "hat_of_the_coven",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2161",
+    "text": "When you recruit a mage, cast a random spell (up to 5 times a turn)."
+  },
+  {
+    "name": "Loki's Scepter",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "lokis_scepter",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1402",
+    "text": "When you cast a spell directly on a Mage, cast it again on another random Mage."
+  },
+  {
+    "name": "Pandora's Box",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "pandoras_box",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1244",
+    "text": "Next turn, get a Legendary treasure."
+  },
+  {
+    "name": "Parting Gift",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "parting_gift",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1183",
+    "text": "Double the Farewell abilities of your front row characters."
+  },
+  {
+    "name": "Poison Apple",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "poison_apple",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1248",
+    "text": "When an enemy KOs one of your Villains, reduce that enemy's Health to 1."
+  },
+  {
+    "name": "Rainbow Bridge",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "rainbow_bridge",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1404",
+    "text": "Each fight, give a character of each rarity +8/+8."
+  },
+  {
+    "name": "Reinforced Hull",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "reinforced_hull",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2145",
+    "text": "When you buff a slot, give it an additional +8/+8."
+  },
+  {
+    "name": "Repeter",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "repeter",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3089",
+    "text": "Double your abilities that happen at the start of fights."
+  },
+  {
+    "name": "Self Portrait",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "self_portrait",
+    "set": "4",
+    "pool": "token",
+    "cid": "4030",
+    "text": "Get a copy of your Captain."
+  },
+  {
+    "name": "Shield of Athena",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "shield_of_athena",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1427",
+    "text": "When one of your characters is KO'd, give it +8 Attack. Give your characters that survive a fight +8 Health."
+  },
+  {
+    "name": "The Black Pearl",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "the_black_pearl",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1257",
+    "text": "Your Pirates have \"Hunt — +10/+10\""
+  },
+  {
+    "name": "Toy Box",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "toy_box",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1258",
+    "text": "When you summon a character in combat, give it +1/+1, then improve this ability by +1/+1."
+  },
+  {
+    "name": "Trash Can Full of Strawberries",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "trash_can_full_of_strawberries",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2108",
+    "text": "Your treasures give an additional +1/+1.\nWhen you get a Common treasure, improve this by +1/+1."
+  },
+  {
+    "name": "Viking Longhouse",
+    "type": "treasure",
+    "rarity": "Epic",
+    "key": "viking_longhouse",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1262",
+    "text": "When you Hunt, give your characters +3/+3."
+  },
+  {
+    "name": "Big Brass Cannonballs",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "big_brass_cannonballs",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1269",
+    "text": "Whenever one of your characters attacks, it gets +10/+10."
+  },
+  {
+    "name": "Bunyan's Axe",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "bunyans_axe",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1424",
+    "text": "Your characters have \"Farewell — Give characters with less attack than me +6/+6.\""
+  },
+  {
+    "name": "Excalibur",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "excalibur",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1278",
+    "text": "Your Heroes have +20/+20 for each Hero you have."
+  },
+  {
+    "name": "Exploding Chest",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "exploding_chest",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2008",
+    "text": "After you lose a fight, get a Rare, Epic and Legendary treasure."
+  },
+  {
+    "name": "Galactic Mega Mall",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "galactic_mega_mall",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2189",
+    "text": "Each fight, give your characters +3/+3 for each shop you had this turn."
+  },
+  {
+    "name": "Gingerbread Oven",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "gingerbread_oven",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1280",
+    "text": "When one of your characters is KO'd, give your other characters +3/+3."
+  },
+  {
+    "name": "Golden Ticket",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "golden_ticket",
+    "set": "2",
+    "pool": "token",
+    "cid": "2089",
+    "text": "Get 3 random Candy spells.\nYour Legendary characters are Candy."
+  },
+  {
+    "name": "Hand of Midas",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "hand_of_midas",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1282",
+    "text": "Make a random character Golden in your first shop each turn."
+  },
+  {
+    "name": "Jack's Magic Beans",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "jacks_magic_beans",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1276",
+    "text": "Each shop, give the lowest rarity character +50/+50."
+  },
+  {
+    "name": "Melody's Lute",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "melodys_lute",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1425",
+    "text": "When you pick a card, give a random character +1/+1, then improve this ability by +1/+1."
+  },
+  {
+    "name": "Mercy, Sword of Maximus",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "mercy_sword_of_maximus",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1426",
+    "text": "Your characters have \"Hunt — Give my slot +15/+15.\""
+  },
+  {
+    "name": "Mysterious Map",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "mysterious_map",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2009",
+    "text": "Your next shop has a Secret Rare character.\nYour Legendary and Secret Rare characters have +10/+10."
+  },
+  {
+    "name": "Seeds of Symmetree",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "seeds_of_symmetree",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2150",
+    "text": "Each fight, each of your character's Attack and Health become the higher of the two."
+  },
+  {
+    "name": "Shield of Achilles",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "shield_of_achilles",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1295",
+    "text": "Bronze characters in your shop have +30/+30."
+  },
+  {
+    "name": "Star Stone",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "star_stone",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1296",
+    "text": "All your slots have +15/+15."
+  },
+  {
+    "name": "Statue of Olympus",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "statue_of_olympus",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1304",
+    "text": "Each fight cast Lightning Bolt.\nWhen you cast a combat spell, give your characters +5/+5."
+  },
+  {
+    "name": "Sword of Shadow and Light",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "sword_of_shadow_and_light",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1297",
+    "text": "Give your Heroes and Villains  \"Hunt — Give your characters +5/+5.\""
+  },
+  {
+    "name": "The Chain of Camaraderie",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "the_chain_of_camaraderie",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2153",
+    "text": "When you recruit a character, give characters in your shop that share a type with it +50/+50 for the rest of the turn."
+  },
+  {
+    "name": "The Heart of Chromaria",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "the_heart_of_chromaria",
+    "set": "4",
+    "pool": "token",
+    "cid": "4064",
+    "text": "If you have at least:\n3 Red Slots — Your buffs from characters have +5 Attack.\n3 Yellow Slots — Your buffs from characters have +5 Health.\n3 Blue Slots — Treasures you discover are one rarity higher."
+  },
+  {
+    "name": "The KO Star",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "the_ko_star",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1396",
+    "text": "Your Villains have +20/+20 for each Villains you have."
+  },
+  {
+    "name": "Tiamat's Claw",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "tiamats_claw",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1428",
+    "text": "When five of your characters are KO'd, get a random treasure. (Dragons count double)"
+  },
+  {
+    "name": "Trident of the Tides",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "trident_of_the_tides",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1407",
+    "text": "Each fight, give your characters +15 Attack. (Switch to +15 Health next turn)"
+  },
+  {
+    "name": "Zheng's Baqua Dao",
+    "type": "treasure",
+    "rarity": "Legendary",
+    "key": "zhengs_baqua_dao",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1429",
+    "text": "After 5 of your characters attack, get a bonus shop of all Legendary characters."
+  },
+  {
+    "name": "Bottled Starlight",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "bottled_starlight",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1308",
+    "text": "All your slots have +30/+30.\nIf you get 1st place, get a bonus reward."
+  },
+  {
+    "name": "Doubling Cube",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "doubling_cube",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1307",
+    "text": "Your Golden characters have double Attack and Health."
+  },
+  {
+    "name": "Draupnir",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "draupnir",
+    "set": "3",
+    "pool": "shared",
+    "cid": "3072",
+    "text": "Your slots have +15/+15. Each turn, copy me."
+  },
+  {
+    "name": "Infinity Mitten",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "infinity_mitten",
+    "set": "2",
+    "pool": "shared",
+    "cid": "2142",
+    "text": "Your Recruit, Hunt, and Farewell abilities are all doubled."
+  },
+  {
+    "name": "+1000 Sword",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "p1000_sword",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1305",
+    "text": "Your first slot has +1000 Attack."
+  },
+  {
+    "name": "The Ring of Power",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "the_ring_of_power",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1314",
+    "text": "Each fight, give your smallest character +100/+100."
+  },
+  {
+    "name": "The Trifork",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "the_trifork",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1315",
+    "text": "Give your characters Treasure Hoard 3.\nThe first time you discover a treasure each turn, collect all 3."
+  },
+  {
+    "name": "Wonder Box",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "wonder_box",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1272",
+    "text": "When you cast a spell directly on a character, also cast it on all your other characters."
+  },
+  {
+    "name": "World Shrub",
+    "type": "treasure",
+    "rarity": "Secret Rare",
+    "key": "world_shrub",
+    "set": "1",
+    "pool": "shared",
+    "cid": "1316",
+    "text": "Your characters count as all types."
+  }
+]
